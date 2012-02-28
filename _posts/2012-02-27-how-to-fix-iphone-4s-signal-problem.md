@@ -16,7 +16,7 @@ Step 3) Reset network settings by going to General > Reset Settings > Reset Netw
 
 Step 4) Upgrading to iOS 5.0.1 may have actually fried your SIM card. Try and get a new micro sim from AT&T by going into the store and asking them to test your SIM card. This has worked for a small percentage of people.
 
-Step 5) After getting a new micro SIM card, download the latest 5.0.1 from iTunes it you have not already. Restore your phone as a new phone using this guide <a href="http://imbyter.com/2012/01/how-to-restore-your-iphone-ipod-touch-or-ipad/">here</a>.
+Step 5) After getting a new micro SIM card, download the latest 5.0.1 from iTunes it you have not already. Restore your phone as a new phone using this guide <a href="{{site.url}}/how-to-restore-your-iphone-ipod-touch-or-ipad/">here</a>.
 
 Step 6) Again follow Step 1 to turn off the SIM Pin.
 
