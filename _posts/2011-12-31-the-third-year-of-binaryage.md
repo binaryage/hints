@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: hints-post
 title: "The third year of BinaryAge: Stabilization"
 tags: [thoughts]
 author_name: Antonin Hildebrand

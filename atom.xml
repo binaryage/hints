@@ -3,11 +3,11 @@ layout: nil
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>The ideas from BinaryAge</title>
-    <link href="http://blog.binaryage.com/atom.xml" rel="self"/>
-    <link href="http://blog.binaryage.com"/>
+    <title>Hints from BinaryAge</title>
+    <link href="http://hints.binaryage.com/atom.xml" rel="self"/>
+    <link href="http://hints.binaryage.com"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
-    <id>http://blog.binaryage.com/</id>
+    <id>http://hints.binaryage.com/</id>
     
     {% for post in site.posts %}
     <entry>
@@ -15,9 +15,9 @@ layout: nil
         {% for category in post.categories %}
         <category term="{{category}}" scheme="http://www.sixapart.com/ns/types#tag" />
         {% endfor %}
-        <link href="http://blog.binaryage.com/{{ post.url }}"/>
+        <link href="http://hints.binaryage.com/{{ post.url }}"/>
         <updated>{{ post.date | date_to_xmlschema }}</updated>
-        <id>jduff.github.com:{{ post.id }}</id>
+        <id>hints.binaryage.com:{{ post.id }}</id>
         <content type="html"><![CDATA[{{ post.content }}]]></content>
         <author>
             <name>{{post.author_name}}</name>

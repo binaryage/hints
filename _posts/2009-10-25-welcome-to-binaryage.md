@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: hints-post
 title: Welcome to BinaryAge
 tags: [general, announcements]
 author_name: Antonin Hildebrand
