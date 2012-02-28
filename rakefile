@@ -1,0 +1,82 @@
+# coding: utf-8
+ROOT = File.expand_path('.')
+
+begin
+  require 'term/ansicolor'
+  include Term::ANSIColor
+rescue LoadError
+  raise 'Run "gem install term-ansicolor"'
+end
+
+begin
+  require 'appscript'
+  include Appscript
+rescue LoadError
+  raise 'You must "gem install rb-appscript"'
+end
+
+def file_color(text); yellow(text); end
+def dir_color(text); blue(text); end
+def cmd_color(text); green(text); end
+
+def sys(cmd)
+    puts blue("> "+cmd)
+    system(cmd)
+end
+
+def run_in_terminal(cmd, title, background=[0,0,0])
+    # see http://www.nach-vorne.de/2007/11/22/terminal-trick
+    # and http://onrails.org/articles/2007/11/28/scripting-the-leopard-terminal
+    # and http://blog.cbciweb.com/articles/2008/05/02/scripting-mac-terminal-using-ruby
+    begin
+      puts yellow("!> #{cmd}")
+      term = app('Terminal')
+      term.activate()
+      current_window = term.windows.first
+      old_tab = current_window.selected_tab.get()
+
+      tab = find_terminal_tab(background)
+      unless tab
+        app("System Events").application_processes["Terminal.app"].keystroke("t", :using => :command_down)
+        tab = current_window.tabs.last
+      end
+      term.do_script(cmd, :in => tab)
+      tab.background_color.set(background)
+      tab.title_displays_custom_title.set(true)
+      tab.custom_title.set(title)
+      current_window.selected_tab.set(old_tab)
+      sleep 0.1
+    rescue
+      die "OSX command failed"
+    end
+end
+
+def find_terminal_tab(color)
+  term = app('Terminal')
+  term.windows.get.each do |win|
+    begin
+      win.tabs.get.each do |tab|
+        return tab if color == tab.background_color.get()
+      end
+    rescue
+    end
+  end
+  nil
+end
+
+################################################################################
+
+desc "run da server"
+task :serve do
+    run_in_terminal("cd \"#{ROOT}\" && jekyll --auto --server 4002 --url http://hints.binaryage.org", "blog", [0,10000,2])
+end
+
+desc "optimize png images"
+task :optimize do
+    Dir.glob(File.join(ROOT, 'images', "**", "*.png")) do |file|
+        puts file
+        `optipng −i1 −o7 "#{file}"`
+    end
+end
+
+task :default => :serve

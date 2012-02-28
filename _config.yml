@@ -1,0 +1,4 @@
+permalink: /:title
+paginate: 6
+url: http://hints.binaryage.com
+markdown: rdiscount
