@@ -6,8 +6,8 @@ author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 ---
 
-Most people are accustomed to the traditional Mac OS dock which does in fact have a 3D look to it. However, there is an unknown secret: the operating system actually comes with a hidden 2D dock which, in my opinion, is cleaner looking and more minimalist. This hack works for Mac OS X 10.5 through the current 10.7. <br>
-<img alt="" src="http://www.macosxhints.com/images/105docksmall.png" title="2D dock" class="alignnone" width="380" height="32" /></br>
+Most people are accustomed to the traditional Mac OS dock which does in fact have a 3D look to it. However, there is an unknown secret: the operating system actually comes with a hidden 2D dock which, in my opinion, is cleaner looking and more minimalist. This hack works for Mac OS X 10.5 through the current 10.7. <br></br>
+<img alt="" src="http://www.macosxhints.com/images/105docksmall.png" title="2D dock" class="alignnone" width="380" height="32" /><br></br>
 
 To change your dock to the 2D version at all times, simply follow these instructions:
 
