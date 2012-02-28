@@ -13,7 +13,9 @@ In addition, if your iPhone or other iDevice is already jailbroken but tethered,
 For an untethered jailbreak from an iDevice that has not been jailbroken, follow the steps below.
 
 Step 1) Download redsn0w from the links below:
+
 <a href="https://sites.google.com/a/iphone-dev.com/files/home/redsn0w_mac_0.9.10b4.zip?attredirects=0&d=1">redsn0w 0.9.10b4 for OS X</a>
+
 <a href="https://sites.google.com/a/iphone-dev.com/files/home/redsn0w_win_0.9.10b4.zip?attredirects=0&d=1">redsn0w 0.9.10b4 for Windows</a> (Make sure you run this in Administrator Mode.)
 
 Step 2) Open redsn0w and you should see this screen below. Make sure you are running the beta version, as it has been updated since its initial release.
