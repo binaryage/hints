@@ -32,4 +32,3 @@
 * Post view count?
 * Comment count?
 * Most viewed posts?
-* Google Authorship
