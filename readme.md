@@ -1,4 +1,4 @@
-# Mac hints from BinaryAge
+# Mac Hints from BinaryAge
 
 => [http://hints.binaryage.com]() 
 
@@ -30,3 +30,8 @@
 ### TODO:
 
 * [http://kaspa.rs/2011/04/jekyll-hacks-html-excerpts]()
+
+    Social Buttons
+    Post view count?
+    Comment count?
+    
