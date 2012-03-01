@@ -1,4 +1,4 @@
 permalink: /:title
-paginate: 6
+paginate: 7
 url: http://hints.binaryage.com
 markdown: rdiscount
