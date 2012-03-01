@@ -12,7 +12,9 @@ title: Mac Hints from BinaryAge
             <div class="day">{{ post.date | date:"%d" }}</div>
             <div class="year">{{ post.date | date:"%Y" }}</div>
         </div>
-        <a href="{{ post.url | replace '.html','' }}" class="post-title">{{ post.title }}</a> 
+        <a href="{{ post.url | replace '.html','' }}" class="post-title">{{ post.title }}</a> By: <a href="{{ post.author_url }}" class="post-author">{{ post.author_name }}</a>
+        <br>{{ post.content | strip_html | truncatewords: 50 }} 
+        <a href="{{ post.url | replace '.html','' }}" class="post-readmore">(Read More)</a>
         <div class="post-separator"></div>
     </li>
 {% endfor %}
