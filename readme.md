@@ -29,9 +29,7 @@
 
 ### TODO:
 
-* [http://kaspa.rs/2011/04/jekyll-hacks-html-excerpts]()
-
-    Social Buttons
-    Post view count?
-    Comment count?
-    
+* Post view count?
+* Comment count?
+* Most viewed posts?
+* Google Authorship
