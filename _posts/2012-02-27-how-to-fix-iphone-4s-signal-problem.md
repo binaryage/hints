@@ -4,6 +4,7 @@ title: "How to Fix the iPhone 4s Signal Problem"
 tags: [iphone, iphone4s, signal]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
+google_plus: 101180624276428786239
 ---
 
 Many people are experiencing this iPhone 4s signal problem. This happens on both iOS 5.0 and 5.0.1, but mainly on 5.0.1. Follow these steps below to try and fix the problem.

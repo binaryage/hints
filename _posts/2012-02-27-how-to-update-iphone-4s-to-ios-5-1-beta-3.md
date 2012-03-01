@@ -4,6 +4,7 @@ title: "How to Update iPhone 4S to iOS 5.1 Beta 3"
 tags: [iphone, iphone4s, iOS5, beta]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
+google_plus: 101180624276428786239
 ---
 
 This is a guide on how to update your iPhone to iOS 5.1 Beta 3. Note: This works without having a developer account and does not require a UDID either. This solves many users' problems with battery issues. Very simple guide for a very simple process. NOTE: This update blocks the Corona exploit used to jailbreak certain devices so if you are planning on jailbreaking, DO NOT UPDATE. Also, this update brings back the "Turn off 3G" switch that many users wanted.

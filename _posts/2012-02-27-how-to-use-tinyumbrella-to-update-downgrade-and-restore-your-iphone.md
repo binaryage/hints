@@ -4,6 +4,7 @@ title: "How to use TinyUmbrella to Update, Downgrade, and Restore your iPhone"
 tags: [iphone, restore, jaibreak]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
+google_plus: 101180624276428786239
 ---
 
 TinyUmbrella is used to restore firmwares that Apple is no longer signing. TinyUmbrella saves your SHSH for previous firmwares, which allows you to downgrade even when Apple is no longer signing that firmware. You can download TinyUmbrella from these locations:

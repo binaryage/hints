@@ -4,6 +4,7 @@ title: "Delete Other Files off of iPhone or iPod Touch"
 tags: [ipodtouch, iphone, itunes]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
+google_plus: 101180624276428786239
 ---
 
 When you plug your device in iTunes, you may notice a yellow section of data on your device labeled "Other." This can either be a very small number, which is normal, or a very large number, which is not. Having a large number could mean something happened when syncing music, video or apps, and it can cause the system to not recognize the correct app to put the information under. To fix this, follow the steps below:

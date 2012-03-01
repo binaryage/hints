@@ -4,6 +4,7 @@ title: "How to Jailbreak iPhone 4, iPod Touch 4th Generation, iPad, iPhone 3GS U
 tags: [iphone, iphone4, ipodtouch, ipad, iphone3gs, jailbreak, iOS5]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
+google_plus: 101180624276428786239
 ---
 
 Note: This will not work on the new iPhone 4S or iPad 2; those guides will be coming out later. Also, please update to iOS 5.0.1 for the jailbreak to work, for iOS 5.0 does not work.

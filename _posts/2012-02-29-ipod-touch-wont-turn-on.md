@@ -4,6 +4,7 @@ title: "iPod Touch Won't Turn on!"
 tags: [ipodtouch, hardware]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
+google_plus: 101180624276428786239
 ---
 
 First and foremost, don't freak out! This is a common problem for some reason especially with the most recent generation (4th). Follow these steps below:

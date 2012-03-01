@@ -4,6 +4,7 @@ title: "How to Put Your iPhone in DFU Mode"
 tags: [iphone, ipodtouch, ipad, restore, dfu]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
+google_plus: 101180624276428786239
 ---
 
 Simple guide to put your iPhone in DFU Mode. This mode is necessary to restore your iDevice when it is having major software issues.

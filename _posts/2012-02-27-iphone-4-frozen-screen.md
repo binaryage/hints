@@ -4,6 +4,7 @@ title: "iPhone 4 Frozen Screen"
 tags: [iphone, frozen]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
+google_plus: 101180624276428786239
 ---
 
 First and foremost, don’t freak out! This is a common problem, especially on the most recent iOS version. Follow these steps below to fix your problem:

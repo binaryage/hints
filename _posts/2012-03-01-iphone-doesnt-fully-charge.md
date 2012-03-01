@@ -4,6 +4,7 @@ title: "iPhone Doesn't Fully Charge"
 tags: [iphone, hardware]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
+google_plus: 101180624276428786239
 ---
 
 If you leave your iPhone plugged in to an outlet or computer all night (presumably charging), you may notice in the morning that your iPhone is only charged up to around 92-93%. This is a common problem and is a result of your iPhone's battery's calibration. To fix this, follow the steps below:

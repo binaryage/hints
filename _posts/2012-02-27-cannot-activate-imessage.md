@@ -4,6 +4,7 @@ title: "Cannot Activate iMessage"
 tags: [imessage, iOS5]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
+google_plus: 101180624276428786239
 ---
 
 If you are trying to sign into iMessage using your Apple ID and it says "Could not sign in. Please check your network connection and try again," try these simple tips to fix the problem.

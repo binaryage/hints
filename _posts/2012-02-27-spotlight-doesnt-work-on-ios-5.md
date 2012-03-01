@@ -4,6 +4,7 @@ title: "Spotlight Doesn't Work on iOS 5"
 tags: [iOS, spotlight]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
+google_plus: 101180624276428786239
 ---
 
 If your iPhone's spotlight feature fails to show any results or only shows a limited view of results, follow the steps below to fix this issue with spotlight.

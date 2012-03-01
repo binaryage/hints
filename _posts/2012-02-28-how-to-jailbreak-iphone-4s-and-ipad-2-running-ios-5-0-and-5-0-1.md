@@ -4,6 +4,7 @@ title: "How to Jailbreak iPhone 4s and iPad 2 running iOS 5.0 and 5.0.1"
 tags: [jailbreak, iphone, iphone4s, ipad, ipad2, iOS5]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
+google_plus: 101180624276428786239
 ---
 
 The jailbreak has been released! Here are the steps to jailbreak your A5 (iPhone 4s and iPad 2) device!

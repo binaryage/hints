@@ -4,6 +4,7 @@ title: "Apps Installed on the iPhone could not be Determined"
 tags: [apps, iphone]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
+google_plus: 101180624276428786239
 ---
 
 If you are currently trying to sync your iPhone or other iDevice and you are receiving this message from iTunes: "Apps installed on the iPhone could not be determined," then follow these steps below to sort this mess out.
