@@ -1,6 +1,6 @@
 ---
 layout: hints-post
-title: "Delete "Other" Files off of iPhone or iPod Touch"
+title: "Delete 'Other' Files off of iPhone or iPod Touch"
 tags: [ipodtouch, iphone, itunes]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
