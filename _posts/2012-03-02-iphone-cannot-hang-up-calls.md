@@ -1,7 +1,7 @@
 ---
 layout: hints-post
-title: ""
-tags: []
+title: "iPhone Cannot Hang Up Calls"
+tags: [iphone, phone, call, bug]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
