@@ -38,6 +38,6 @@ Step 11) Now, you must wait for the specified time to come, but when it does, th
 
 Step 12) Now you can always know your home IP address. Happy SSH'ing!
 
-Here is my file that you can use as a sample. <a href="{{site.url}}/downloads/cron.txt">Download</a>(Save link as)
+Here is my file that you can use as a sample. <a href="{{site.url}}/downloads/cron.txt">Download</a> (Save link as)
 
 Post in the comments below if you have any questions about this technique.
