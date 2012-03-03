@@ -1,0 +1,1 @@
+0,30 * * * * curl -s http://checkip.dyndns.org | sed 's/[a-zA-Z/<> :]//g' > ~/Dropbox/ip.txt
