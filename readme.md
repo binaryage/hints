@@ -29,6 +29,4 @@
 
 ### TODO:
 
-* Post view count?
-* Comment count?
-* Most viewed posts?
+* [https://github.com/radar/forem]()
