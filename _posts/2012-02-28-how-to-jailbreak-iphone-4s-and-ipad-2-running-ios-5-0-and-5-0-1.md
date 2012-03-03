@@ -5,6 +5,7 @@ tags: [jailbreak, iphone, iphone4s, ipad, ipad2, iOS5]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
+date: 2012-02-28 09:09:00 -8
 ---
 
 The jailbreak has been released! Here are the steps to jailbreak your A5 (iPhone 4s and iPad 2) device!

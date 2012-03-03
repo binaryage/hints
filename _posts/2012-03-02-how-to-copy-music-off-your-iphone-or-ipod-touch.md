@@ -5,6 +5,7 @@ tags: [iphone, ipodtouch, music, usb]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
+date: 2012-03-02 17:46:00 -8
 ---
 
 If your hard drive has failed or become broken recently and you have not backed up your music collection, you have probably lost all of it. Luckily, there is a free way to recover your music off of your iPod Touch, iPad or iPhone. Follow these steps below:

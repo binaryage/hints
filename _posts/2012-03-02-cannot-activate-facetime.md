@@ -5,6 +5,7 @@ tags: [iphone, iOS5, facetime, error]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
+date: 2012-03-02 21:12:00 -8
 ---
 
 This fix is very, very similar to the fix for iMessage. Both problems can be fixed by the same solution.

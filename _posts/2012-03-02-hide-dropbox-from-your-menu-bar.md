@@ -5,6 +5,7 @@ tags: [dropbox, icon, menu, mac]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
+date: 2012-03-02 16:50:00 -8
 ---
 
 If you are tired of seeing the Dropbox icon in your menu bar, or if you are simply going for a minimalist look, then follow these few steps below to remove the Dropbox icon from your menu bar.

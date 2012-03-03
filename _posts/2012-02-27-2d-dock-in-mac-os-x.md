@@ -5,6 +5,7 @@ tags: [mac, macosx, lion, dock, finder]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
+date: 2012-02-27 09:07:00 -8
 ---
 
 Most people are accustomed to the traditional Mac OS dock which does in fact have a 3D look to it. However, there is an unknown secret: the operating system actually comes with a hidden 2D dock which, in my opinion, is cleaner looking and more minimalist. This hack works for Mac OS X 10.5 through the current 10.7. <br></br>

@@ -5,6 +5,7 @@ tags: [jailbreak, iphone4s, iphone, ipad2, iOS5, windows, absinthe]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
+date: 2012-03-03 11:37:00 -8
 ---
 
 The jailbreak has been released! Here are the steps to jailbreak your A5 (iPhone 4s and iPad 2) device on Windows!

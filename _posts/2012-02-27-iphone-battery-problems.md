@@ -5,6 +5,7 @@ tags: [iphone, apple, battery]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
+date: 2012-02-27 20:30:00 -8
 ---
 
 Many people are experiencing a substantial drop in battery performance on their iPhone 4 and iPhone 4s. There are many culprits to this issue that may or may not be able to be identified and/or solved. Here are a list of suggestions that I have gathered to try and solve this very annoying problem Apple has created for us.

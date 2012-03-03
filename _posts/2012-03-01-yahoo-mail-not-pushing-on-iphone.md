@@ -5,6 +5,7 @@ tags: [yahoo, mail, email, iphone, push]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
+date: 2012-03-01 01:56:00 -8
 ---
 
 After updating to iOS 5 or iOS 5.0.1, Yahoo! Mail seems to have a problem on the iPhone or other iDevice. Intermittently, the device will receive mail, only to have it not show up minutes later. The problem can be solved by following the steps below:

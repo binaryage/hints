@@ -5,6 +5,7 @@ tags: [iphone, ipodtouch, ipad, jailbreak, restore]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
+date: 2012-02-27 14:14:00 -8
 ---
 
 I have already covered all of the necessary topics to complete this tutorial, so I will mainly be linking to those articles.

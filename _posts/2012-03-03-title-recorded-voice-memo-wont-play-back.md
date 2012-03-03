@@ -5,6 +5,7 @@ tags: [iphone, iOS, voice memo, bug]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
+date: 2012-03-03 01:37:00 -8
 ---
 
 If you use Voice Memos on your iPhone or iPod Touch and the files do not seem to be playing back even though they are there, then follow these steps below to retrieve and playback those files!

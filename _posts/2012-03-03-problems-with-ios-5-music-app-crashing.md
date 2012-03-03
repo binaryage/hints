@@ -5,6 +5,7 @@ tags: [iOS5, ios, music, ipod, app]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
+date: 2012-03-03 11:25:00 -8
 ---
 
 Many people have been reporting problems with the updated iOS 5 Music App. The app continuously freezes, crashes, and even restarts the entire iPhone/iPod touch/iPad. This is a serious problem that Apple need to fix internally; however, here are a few suggested fixes that may remedy your specific problem.

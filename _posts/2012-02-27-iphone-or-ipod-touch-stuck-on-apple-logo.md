@@ -5,6 +5,7 @@ tags: [iphone, ipodtouch, apple, error]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
+date: 2012-02-27 23:54:00 -8
 ---
 
 If your iPhone, iPod Touch, or iPad is stuck on the Apple logo boot screen, follow these steps below to restore your iDevice to its former glory.

@@ -5,6 +5,7 @@ tags: [itunes, password, backup, bug]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
+date: 2012-03-02 08:02:00 -8
 ---
 
 If you are trying to update your iPhone or other iDevice, you may try to restore from a backup so that you do not have to recover your data. However, iTunes may ask for a password, one that you do not remember setting because you never checked the option for an encrypted backup. There are several passwords you can try  to change the password, given that you can remember your iTunes Store password, etc.

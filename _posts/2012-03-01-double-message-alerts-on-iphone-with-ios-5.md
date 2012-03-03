@@ -5,6 +5,7 @@ tags: [iphone, iOS5, imessage, sms]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
+date: 2012-03-01 00:09:00 -8
 ---
 
 If you are experiencing a double sound alert for new text messages, calendar notifications, and other apps, then follow the instructions below to fix this problem.

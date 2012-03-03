@@ -5,6 +5,7 @@ tags: [ipaddress, remote, mac, terminal, dropbox]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
+date: 2012-03-02 16:17:00 -8
 ---
 
 If you want to remotely access your computer using SSH, FTP, SMB, AFP, etc, you will most likely need your IP address unless you have Dynamic DNS set up. To combat this issue of an always changing IP address, follow the tips below to use Dropbox to always have access to your home computer's IP address. Note: this guide is for Mac/Unix only as it involves using a Cron job.
