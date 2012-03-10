@@ -8,8 +8,8 @@ google_plus: 101180624276428786239
 date: 2012-03-07 09:45:00 -8
 ---
 
-Here is a simple tutorial on how to find your MAC address on your iPhone. Note: this is different from your Wifi address but can be found on the same screen.
+Here is a simple tutorial on how to find your MAC address on your iPhone.
 
-Step 1) Go to Settings > General > About and both of these tidbits of information are there.
+Step 1) Go to Settings > General > About. The tidbit of information you are looking for is actually called the "Wi-Fi address" on your device. Use that identifier for whatever network device that may need it.
 
 That was easy! Hope this helps you guys!
