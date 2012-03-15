@@ -11,3 +11,5 @@ published: False
 ---
 
 <img class="clear blog-image-full-border" src="{{site.url}}/images/omnibar_safari.png" title="Omnibar">
+
+<img class="clear blog-image-border" src="{{site.url}}/images/omnibar_safari.png" title="Omnibar">
