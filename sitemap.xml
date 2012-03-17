@@ -1,183 +1,24 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+---
+layout: nil
+site_pages:
+  - /
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% for site_page in page.site_pages %}
     <url>
-        <loc>http://hints.binaryage.com/apps-installed-on-the-iphone-could-not-be-determined</loc>
-        <lastmod>2012-03-03T15:46:35-08:00</lastmod>
+        <loc>{{ site.url | xml_escape }}{{site_page}}</loc>
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
     </url>
+    {% endfor %}
+    {% for post in site.posts %}
     <url>
-        <loc>http://hints.binaryage.com/how-to-restore-your-iphone-ipod-touch-or-ipad</loc>
-        <lastmod>2012-03-03T15:45:10-08:00</lastmod>
+        <loc>{{ site.url | xml_escape }}{{ post.url | xml_escape }}</loc>
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
     </url>
-    <url>
-        <loc>http://hints.binaryage.com/2d-dock-in-mac-os-x</loc>
-        <lastmod>2012-03-03T15:46:50-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/spotlight-doesnt-work-on-ios-5</loc>
-        <lastmod>2012-03-03T15:43:17-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/how-to-put-your-iphone-in-dfu-mode</loc>
-        <lastmod>2012-03-03T15:45:36-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/how-to-update-iphone-4s-to-ios-5-1-beta-3</loc>
-        <lastmod>2012-03-03T15:44:54-08:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://hints.binaryage.com/how-to-jailbreak-iphone-4-ipod-touch-4th-generation-ipad-iphone-3gs-untethered
-        </loc>
-        <lastmod>2012-03-03T15:45:53-08:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://hints.binaryage.com/how-to-restore-iphone-ipad-or-ipod-touch-after-jailbreaking
-        </loc>
-        <lastmod>2012-03-03T15:45:23-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/itunes-error-9808</loc>
-        <lastmod>2012-03-03T15:43:29-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/cannot-activate-imessage</loc>
-        <lastmod>2012-03-03T15:46:18-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/iphone-4-frozen-screen</loc>
-        <lastmod>2012-03-03T15:44:29-08:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://hints.binaryage.com/how-to-use-tinyumbrella-to-update-downgrade-and-restore-your-iphone
-        </loc>
-        <lastmod>2012-03-03T15:44:41-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/iphone-battery-problems</loc>
-        <lastmod>2012-03-03T15:44:12-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/itunes-error-3194</loc>
-        <lastmod>2012-03-03T15:43:42-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/how-to-fix-iphone-4s-signal-problem</loc>
-        <lastmod>2012-03-03T15:46:05-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/iphone-or-ipod-touch-stuck-on-apple-logo</loc>
-        <lastmod>2012-03-03T15:43:56-08:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://hints.binaryage.com/how-to-jailbreak-iphone-4s-and-ipad-2-running-ios-5-0-and-5-0-1
-        </loc>
-        <lastmod>2012-03-03T15:43:06-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/delete-other-files-off-of-iphone-or-ipod-touch</loc>
-        <lastmod>2012-03-03T15:42:36-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/ipod-touch-wont-turn-on</loc>
-        <lastmod>2012-03-03T15:42:52-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/archive</loc>
-        <lastmod>2012-03-02T02:04:08-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/double-message-alerts-on-iphone-with-ios-5</loc>
-        <lastmod>2012-03-03T15:41:44-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/yahoo-mail-not-pushing-on-iphone</loc>
-        <lastmod>2012-03-03T15:42:24-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/iphone-doesnt-fully-charge</loc>
-        <lastmod>2012-03-03T15:42:09-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/safari-5-2-beta</loc>
-        <lastmod>2012-03-03T15:41:59-08:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://hints.binaryage.com/itunes-asks-for-a-password-to-unlock-a-backup-that-you-never-set
-        </loc>
-        <lastmod>2012-03-03T15:41:21-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/iphone-cannot-hang-up-calls</loc>
-        <lastmod>2012-03-03T15:40:38-08:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://hints.binaryage.com/always-keep-track-of-your-ip-address-on-a-remote-computer
-        </loc>
-        <lastmod>2012-03-03T15:40:06-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/hide-dropbox-from-your-menu-bar</loc>
-        <lastmod>2012-03-03T15:39:52-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/how-to-copy-music-off-your-iphone-or-ipod-touch</loc>
-        <lastmod>2012-03-03T15:40:56-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/cannot-activate-facetime</loc>
-        <lastmod>2012-03-03T15:41:09-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/app-store-officially-hits-25-billion-downloads</loc>
-        <lastmod>2012-03-03T15:40:22-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/title-recorded-voice-memo-wont-play-back</loc>
-        <lastmod>2012-03-03T15:39:33-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/problems-with-ios-5-music-app-crashing</loc>
-        <lastmod>2012-03-03T15:39:22-08:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://hints.binaryage.com/how-to-jailbreak-iphone-4s-and-ipad-2-running-ios-5-0-or-5-0-1-windows-update
-        </loc>
-        <lastmod>2012-03-03T15:36:52-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/itunes-error-3001-42110-5103</loc>
-        <lastmod>2012-03-04T02:55:29-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/iphone-displays-incorrect-time</loc>
-        <lastmod>2012-03-04T02:51:13-08:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://hints.binaryage.com/how-to-add-an-attachment-to-an-email-message-on-an-iphone
-        </loc>
-        <lastmod>2012-03-04T02:48:34-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/iphone-contacts-not-syncing-with-mac-address-book</loc>
-        <lastmod>2012-03-04T03:46:25-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/cannot-connect-to-itunes-store-on-iphone</loc>
-        <lastmod>2012-03-04T10:22:07-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/itunes-error-50</loc>
-        <lastmod>2012-03-04T10:23:33-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hints.binaryage.com/</loc>
-        <lastmod>2012-03-04T10:23:33-08:00</lastmod>
-    </url>
+    {% endfor %}
 </urlset>
