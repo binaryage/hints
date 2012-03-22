@@ -22,7 +22,7 @@ After pressing CMD + to make the text bigger:
 <img class="clear blog-image-border" src="{{site.url}}/images/dock_size_2.png" title="Dock List View">
 
 And after pressing CMD + several times in order to max out the font size:
-<img class="clear blog-image-border" src="{{site.url}}/images/dock_size_2.png" title="Dock List View">
+<img class="clear blog-image-border" src="{{site.url}}/images/dock_size_3.png" title="Dock List View">
 
 To undo this feature and restore the normal list view, simply enter this command into Terminal.
 <code>defaults write com.apple.dock use-new-list-stack -bool NO && killall Dock</code>
