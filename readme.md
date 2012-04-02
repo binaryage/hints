@@ -30,3 +30,5 @@
 ### TODO:
 
 * [https://github.com/radar/forem]()
+* Add new features...need suggestions. Possibly add recent posts to sidebar?
+* User Contributed articles
