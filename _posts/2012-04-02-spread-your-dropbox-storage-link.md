@@ -12,4 +12,4 @@ date: 2012-04-02 14:38:00 -8
 
 If you use the popular sync application Dropbox, you probably are dying for some free extra storage! If you haven't heard of this amazing service, sign up <a href="http://db.tt/bWYiiBmI">here!</a> Luckily for you, Dropbox offers the referral program which can earn you 250 MB of free space if you have a regular account and 500 MB if you have a .edu address associated with your account. Learn more <a href="https://www.dropbox.com/referrals">here.</a>
 
-In this thread, you can submit your Dropbox referral link in the comments on the right. This way, all of us can benefit and receive free storage!
+In this thread, you can submit your Dropbox referral link in the comments below. This way, all of us can benefit and receive free storage!
