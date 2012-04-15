@@ -12,7 +12,7 @@ If your Macbook Pro is not playing audio even though an application such as iTun
 
 1) Check your sound settings by going to System Preferences > Sound.
 
-<img class="clear blog-image-border" src="{{site.url}}/images/no_audio.png" title="Sound">
+<img class="clear blog-image-full-border" src="{{site.url}}/images/no_audio.png" title="Sound">
 
 2) After that, select Output at the top and you will most likely see that your output device is "Digital Output" even though you do not even have a digital output device plugged in. 
 
