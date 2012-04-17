@@ -22,3 +22,5 @@ After you enter in your credentials for iMessage and any other chat clients, you
 This is a screenshot of the main window. This is where the messages show up (one unified window) with the newest conversation on top. Messages received on an iDevice including the iPad, iPhone or iPod Touch while you are away will be updated when you return on your Mac so you can always stay up-to-date with the latest in your conversations. This provides a convenient way to respond to messages normally sent to your phone.
 
 If you have any questions about new features with iMessage or as Apple calls it, Messages Beta, please leave a comment below and I will respond promptly!
+
+Follow-up discussion involving iMessage and <a href={{site.url}}/how-to-clear-imessage-history-on-mac-os-x/>clearing chat history</a>.
