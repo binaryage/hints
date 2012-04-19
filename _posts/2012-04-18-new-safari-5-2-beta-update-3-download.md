@@ -10,4 +10,4 @@ date: 2012-04-18 20:13:00 -8
 
 Apple has just released a new update to the Safari 5.2 Beta. This update, dubbed update 3, includes new features such as CSS filters for images and a redesigned Web Inspector.
 
-Download will be coming soon. Right now you can go to the Dev Center if you are a registered Apple Mac Developer. More to come in upcoming posts.
+Download <a href="http://imzdl.com/download/513/file/safari5_2lionupdate3%20-%20iMZDL.com.dmg">here.</a>

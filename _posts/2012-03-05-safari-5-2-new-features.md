@@ -26,6 +26,8 @@ A new feature that for some is undesirable is the behavior that results in the t
 
 Hopefully, this feature is also restored to Safari. I know a few people who used Safari as their main RSS reader, and in the new beta, this functionality has been removed. There is no screenshot of this feature because the feature is nonexistent at the moment.
 
-<a href="{{site.url}}/safari-5-2-beta">Here</a> is another post about Safari 5.2 Beta that also includes a download link if you are so inclined.
+<a href="{{site.url}}/safari-5-2-beta">Here</a> is another post about Safari 5.2 Beta that also includes a download link for update 2 if you are so inclined.
+
+EDIT: For update 3, check out this post <a href="{{site.url}}/new-safari-5-2-beta-update-3-download/">here</a> for another download link!
 
 Post in the comments below with more features that you have found (added or removed) and discuss the recent advancements of Safari!
