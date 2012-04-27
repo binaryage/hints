@@ -26,4 +26,6 @@ And, to change it back to the default desktop location, simply type in:
 
     defaults write com.apple.screencapture location ~/Desktop/
 
+UPDATE: New post on how to change the file type of your screenshots <a href="{{site.url}}/change-file-type-of-screenshots-on-os-x/">here!</a>
+
 That's it! Hope this hint has helpful, post any questions or concerns in the comments below.
