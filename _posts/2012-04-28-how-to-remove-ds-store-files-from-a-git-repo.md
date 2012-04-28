@@ -31,7 +31,7 @@ This will add an entry to your .gitignore file that tells your git repo to ignor
 
 Commit these changes and push to your repo. To our surprise, all .DS_Store files have been removed! Congratulations! Now our repos are clean, free from clutter, and more professional.
 
-Also, if you often navigate through Finder with hidden files on, I would recommend the tool called [Asepsis][Asepsis] a product of BinaryAge. Aepsis redirects the creation of .DS_Store files to a special folder that you seldom interact with. All the properties of folders are still retained, they are just placed in a different, well-hidden directory. 
+Also, if you often navigate through Finder with hidden files on, I would recommend the tool called [Asepsis][Asepsis] a product of BinaryAge. Asepsis redirects the creation of .DS_Store files to a special folder that you seldom interact with. All the properties of folders are still retained, they are just placed in a different, well-hidden directory. 
 
 If you have any questions about this process or would like me to explain something more in depth, please feel free to leave a comment below!
 
