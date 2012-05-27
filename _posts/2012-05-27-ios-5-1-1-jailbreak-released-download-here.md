@@ -14,10 +14,20 @@ Step 1) Make a backup of your iOS device using iTunes by plugging it in, selecti
 
 Step 2) Now, on your iOS device, go to Settings > General > Reset > Erase All Content and Settings (Don't worry, you'll get all your data back as soon as the jailbreak is done. This step is to make the jailbreak go faster!)
 
-Step 3) Open Absinthe with your iOS device still plugged in via USB.
+Step 3) Download Absinthe from one of the following locations:
+    
+* [Mac][mac]
+* [Windows][win]
+* [Linux][unix]
 
-Step 4) Click the "Jailbreak" button. (Folks, it can not get easier than this.)
+Step 4) Open Absinthe with your iOS device still plugged in via USB.
 
-Step 5) Once the jailbreak has finished completely, go back to iTunes and restore your device from the backup that you made earlier. To do this, right click on your device in iTunes and click "Restore from backup" (See how much faster this was? Trust me on this one.)
+Step 5) Click the "Jailbreak" button. (Folks, it can not get easier than this.)
+
+Step 6) Once the jailbreak has finished completely, go back to iTunes and restore your device from the backup that you made earlier. To do this, right click on your device in iTunes and click "Restore from backup" (See how much faster this was? Trust me on this one.)
 
 You are now jailbroken on iOS 5.1.1! Congratulations! If you have any questions about the process, please ask them in the comments below.
+
+[mac]: https://sites.google.com/site/greenpois0nabsinthe/absinthe-mac-2.0.2.dmg?attredirects=0&d=1
+[win]: https://sites.google.com/site/greenpois0nabsinthe/absinthe-win-2.0.2.zip?attredirects=0&d=1
+[unix]: https://sites.google.com/site/greenpois0nabsinthe/absinthe-linux-2.0.2.tar.bz2?attredirects=0&d=1
