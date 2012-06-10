@@ -13,6 +13,7 @@ With WWDC just on the other side of the weekend, it is time for all the news and
 Some other additions that have speculation surrounding the release of iOS 6 besides the Maps application include: Siri for the iPad, further iCloud integration, Facebook integration similar to Twitter's current integration, Airplay mirroring similar to what we've seen in the Mountain Lion developer previews, and automatic updates to iOS apps from the App Store.
 
 Other hardware rumors include: 
+
 * An update to the Mac Pro for the first time in years. New hardware means better Hackintosh in the following months.
 * The Macbook Pro may receive an upgrade to its display, upping the resolution to Retina standards. 
 * The Macbook Pro may also receive USB 3.0 as a nice addition to the growing Thunderbolt ports. 
