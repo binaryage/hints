@@ -17,3 +17,5 @@ Step 2) There may be a problem with iMessage on the new iOS 5. Go to Settings &g
 Step 3) There might also be a problem with the way notifications are handled on the lock screen. Open Settings &gt; Notifications &gt; click on Messages &gt; change "View in Lock Screen" to OFF. This will eliminate the double alert problem.
 
 Step 4) If the problem still exists, you will have to restore your phone <a href="{{site.url}}/how-to-restore-your-iphone-ipod-touch-or-ipad/">(guide here)</a>. However, do not choose to restore from a backup as the problem will still exist. Set up your iPhone as a new phone and then test out the notifications to see if they still double.
+
+UPDATE: Reader, Kenneth Wu has pointed out that in Settings > Notifications > Messages > Repeat Alert, you can set the number of times that you would like to be notified of the same alert. Simply set this to Never if you would only like to hear your alert once. Thanks for pointing that out, Kenneth!
