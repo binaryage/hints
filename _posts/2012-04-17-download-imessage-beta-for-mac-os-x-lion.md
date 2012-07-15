@@ -10,7 +10,7 @@ date: 2012-04-17 01:29:00 -8
 
 Been itching to try out the newest Apple software, iMessage? Well here is your chance! Although this is a feature of the upcoming Mountain Lion, Apple has also released a beta version of iMessage for Lion users! Be warned though, this software is full of bugs, however, it is mostly usable. 
 
-To download the free beta, simply go <a href="http://www.apple.com/macosx/mountain-lion/messages-beta/">here.</a> Installation is pretty standard so no problems there.
+To download the free beta, simply go <a href="http://appldnld.apple.com/MessagesBeta/041-4274.20120216.z5km/MessagesBeta.dmg">here.</a> Installation is pretty standard so no problems there.
 
 Here is the startup screen when you first open the app:
 <img class="clear blog-image-full-border" src="{{site.url}}/images/welcome_messages.png" title="iMessage Beta">
