@@ -5,8 +5,7 @@ tags: [safari 6, beta, download, developer, preview, mountain lion]
 author_name: Mark Miyashita
 author_url: http://markmiyashita.com
 google_plus: 101180624276428786239
-date: 2012-00-00 00:00:00 -8
-
+date: 2012-07-15 02:37:00 -8
 ---
 
 <img class="clear blog-image-full-border" src="{{site.url}}/images/safari_6.png" title="Safari 6 Developer Preview">
