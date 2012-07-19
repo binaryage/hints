@@ -26,6 +26,6 @@ In this iteration, Apple has included updates to several aspects that define the
 * YouTube audio issues have been resolved.
 * Apps seem to crash less, Safari seems snappier (these things usually happen with updates)
 
-So, there you have it. We are one step closed to the actual release of iOS 6. If you can't wait until the actual release of these features, you can buy a developer account for $99/year and get access to all the betas including the GM version of Mountain Lion. However, if you still can't wait, you can download the new iOS 6 Beta 3 from <a href="http://imzdl.tumblr.com/">here.</a>
+So, there you have it. We are one step closed to the actual release of iOS 6. If you can't wait until the actual release of these features, you can buy a developer account for $99/year and get access to all the betas including the GM version of Mountain Lion. However, if you still can't wait, you can download the new iOS 6 Beta 3 from imzdl's website <a href="http://imzdl.tumblr.com">here.</a>
 
 Hope you guys enjoy the new features of iOS 6! If you have any questions, please post them in the comments below! Also, let's discuss your favorite features of iOS 6 so far!
