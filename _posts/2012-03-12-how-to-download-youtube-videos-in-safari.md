@@ -8,6 +8,8 @@ google_plus: 101180624276428786239
 date: 2012-03-13 12:39:00 -8
 ---
 
+UPDATE: If you are on Mountain Lion and running Safari 6, this guide will not work for you, my updated post is <a href="http://hints.binaryage.com/how-to-download-youtube-videos-mountain-lion-safari-6/">here!</a>
+
 Using Safari, it is very easy to download YouTube videos straight from the browser, no extensions, add-ons, or external websites necessary. 
 
 Step 1) Open the YouTube video that you want to download.
