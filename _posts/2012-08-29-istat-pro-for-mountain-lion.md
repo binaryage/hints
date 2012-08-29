@@ -12,7 +12,7 @@ date: 2012-08-29 01:29:00 -8
 
 iStat Pro, the popular widget to monitor your computer by iSlayer has been deprecated by the company. They stated in a tweet that they will not be continuing development and support for Mountain Lion. Lucky for us, there is a simple fix that you can execute yourself on Mountain Lion to make the great extension work again! All you have to do is add a space to two different lines in some code. Ready to dive in?
 
-Step 1) Right off the back, we can download the widget from <a href="http://islayer.com/apps/istatpro/download/">here.</a>
+Step 1) Right off the bat, we can download the widget from <a href="http://islayer.com/apps/istatpro/download/">here.</a>
 
 Step 2) Extract the widget and then double click on it to install. It will show up on your dashboard and you can view it as normal. However, take a close look at the process tab. You may need to enable it by clicking on the "i" and then going to the "Sections" tab and turning on "Processes." You will notice that the processes tab is broken. Want to fix it? Keep reading on!
 
