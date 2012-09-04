@@ -38,6 +38,8 @@ I simply moved the window around to wherever my display was positioned and it ac
 
 I love everything that I was able to do with Air Display. However, there is one feature that I tested out and did not turn out the way I expected. I tried plugging in a second monitor to my MacBook Pro, this is where things got interesting. To reiterate, my current setup because two monitors on my Mac Mini and two on my MacBook Pro (including its built-in display). I thought I would be able to use both of the additional displays with Air Display; however, I was not able to. In addition, the second display (which is larger than my MacBook Pro's screen) was only able to run a window of the Air Display app. In other words, I was not able to utilize the entire display anymore, I was limited to the resolution of my native laptop's display. 
 
+<img class="clear blog-image-full-border" src="{{site.url}}/images/air_display4.png" title="Air Display">
+
 I tried many ways to get around this problem, closing my laptop display, entering full screen mode, etc. and nothing was able to make it work. Regardless, I am still pleased with the product and I will use it occasionally if I am in need for some extra desktop space. Overall, I would give it a 4 out of 5 review.
 
 If you use Air Display, what do you think of it? Keep in mind that my review is solely based off of the computer to computer version of Air Display. I have heard additional stories of success with the Computer to iPad version of the app. Let us know in the comments below what you feel about the app!
