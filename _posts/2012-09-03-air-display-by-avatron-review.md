@@ -14,7 +14,7 @@ Here is my review of Air Display by Avatron, an app that allows you to utilize a
 
 I'm going to start off the review with the features that made this experience enjoyable and the reasons why I would use it again.
 
-* Installation
+#### Installation
 
 Installation was fairly straightforward. I found the app on the Mac App Store, downloaded it and let the app store take care of the installation. Here's a screenshot of the window that appears when you launch the app:
 
@@ -26,7 +26,7 @@ On my desktop, the following screenshot is the app that I had to install. Instal
 
 <img class="clear blog-image-full-border" src="{{site.url}}/images/air_display2.png" title="Air Display">
 
-* Usability
+#### Usability
 
 Once installed, the app ran with ease. I has able to hook up my MacBook Pro wirelessly to my Mac Mini and use its display in addition to the two that I already have on my mini. Here is a screenshot of my Display Preferences once the app had added the wireless display.
 
