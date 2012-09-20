@@ -16,12 +16,14 @@ I googled for solutions and found several threads:
   * [https://discussions.apple.com/message/19625125](https://discussions.apple.com/message/19625125)
   * ...
 
-My router is a TimeMachine box (Airport Extreme).
+There are some suggestions which worked to some users but no widely confirmed solution.
 
-Here are the steps which worked for me:
+My router is a TimeMachine box (Airport Extreme). Here are the steps which worked for me:
 
   1. Used `AirPort Utily` on my Mac to restart the router
   2. in iOS 6: Settings -> General -> Reset -> Reset Network Settings  
   3. in iOS 6: Settings -> General -> Reset -> Reset All Settings
   
-Then I noticed I lost and option for personal hotspot in my Settings menu, but wifi starter to operate properly.
+Then wifi started to operate properly. 
+
+Also I noticed I lost an option for personal hotspot in my Settings menu, but that may be only effect of losing my settings. It can be probably re-enabled somewhere deeper in the Networking Settings.
