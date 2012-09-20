@@ -1,6 +1,6 @@
 ---
 layout: hints-post
-title: "iOS 6 upgrade problem: wifi redirects to broken page at apple.com"
+title: "iOS 6 upgrade problem: wifi redirects to apple.com"
 tags: [iOS 6, apple, wifi, upgrade, problem, update, connectivity]
 author_name: Antonin Hildebrand
 author_url: http://hildebrand.cz
@@ -11,9 +11,9 @@ I have just update to iOS 6 and experienced a problem with wifi connectivity. Ev
 
 I googled for solutions and found several threads:
 
-  * https://discussions.apple.com/thread/4311667
-  * https://discussions.apple.com/message/19629512
-  * https://discussions.apple.com/message/19625125
+  * [https://discussions.apple.com/thread/4311667](https://discussions.apple.com/thread/4311667)
+  * [https://discussions.apple.com/message/19629512](https://discussions.apple.com/message/19629512)
+  * [https://discussions.apple.com/message/19625125](https://discussions.apple.com/message/19625125)
   * ...
 
 My router is a TimeMachine box (Airport Extreme).
