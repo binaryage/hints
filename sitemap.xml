@@ -1,24 +1,999 @@
----
-layout: nil
-site_pages:
-  - /
----
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for site_page in page.site_pages %}
+    
     <url>
-        <loc>{{ site.url | xml_escape }}{{site_page}}</loc>
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+        <loc>http://hints.binaryage.com/</loc>
+        <lastmod>2012-10-12T18:40:27-04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
-    {% endfor %}
-    {% for post in site.posts %}
+    
+    
     <url>
-        <loc>{{ site.url | xml_escape }}{{ post.url | xml_escape }}</loc>
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+        <loc>http://hints.binaryage.com/ios-6-exchange-mail-fix</loc>
+        <lastmod>2012-09-30T16:37:00-04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-    {% endfor %}
+    
+    <url>
+        <loc>http://hints.binaryage.com/iphone-5-battery-problems</loc>
+        <lastmod>2012-09-30T16:31:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/time-machine-issues-on-mountain-lion</loc>
+        <lastmod>2012-09-30T15:17:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/iphone-5-bluetooth-not-working</loc>
+        <lastmod>2012-09-30T14:58:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/add-your-phone-number-to-os-x-messages</loc>
+        <lastmod>2012-09-30T14:49:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-listen-to-podcasts-through-the-music-app-on-ios-6</loc>
+        <lastmod>2012-09-30T14:31:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/iphone-5-jailbroken</loc>
+        <lastmod>2012-09-30T14:18:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/new-sharing-features-of-ios-6</loc>
+        <lastmod>2012-09-30T07:52:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/gmail-for-ios-updated-for-iphone-5</loc>
+        <lastmod>2012-09-30T07:48:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/do-not-disturb-mode-is-apples-alarm-only-mode</loc>
+        <lastmod>2012-09-30T07:40:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/carddav-a-new-way-to-sync-google-contacts-with-ios-6</loc>
+        <lastmod>2012-09-30T07:33:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-make-your-own-passbook-cards-on-ios-6</loc>
+        <lastmod>2012-09-30T07:20:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/missing-google-maps-on-ios-6-checkout-the-app-store</loc>
+        <lastmod>2012-09-29T13:38:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-approach-hard-drive-cloning-in-mac-os-x-disk-utility</loc>
+        <lastmod>2012-09-26T06:31:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/io6-wifi-apple-problem-page-cant-be-found</loc>
+        <lastmod>2012-09-20T00:00:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-disable-java-on-chrome</loc>
+        <lastmod>2012-09-10T05:26:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/air-display-by-avatron-review</loc>
+        <lastmod>2012-09-04T00:15:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/recover-lost-recovery-hd-for-filevault</loc>
+        <lastmod>2012-09-03T00:00:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/istat-pro-for-mountain-lion</loc>
+        <lastmod>2012-08-29T05:29:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/transfer-photos-from-photo-stream-to-camera-roll</loc>
+        <lastmod>2012-08-28T04:31:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-remove-system-preferences-on-mac</loc>
+        <lastmod>2012-08-26T04:22:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/set-default-tab-size-and-turn-on-soft-tabs-in-textmate-2</loc>
+        <lastmod>2012-08-19T13:10:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-flush-dns-cache-on-mac-os-x-10-7-and-10-8</loc>
+        <lastmod>2012-08-18T14:20:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-enable-power-nap-on-macbook-air-2010</loc>
+        <lastmod>2012-08-17T03:38:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-download-youtube-videos-mountain-lion-safari-6</loc>
+        <lastmod>2012-08-13T04:06:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/enable-airprint-on-windows-ios-5</loc>
+        <lastmod>2012-08-05T05:34:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/change-mountain-lion-calendar-and-contacts-app-to-aluminum-skin</loc>
+        <lastmod>2012-07-26T07:08:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/notice-facebook-integration-not-until-fall-mountain-lion</loc>
+        <lastmod>2012-07-26T07:02:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/mountain-tweaks-coming-out-soon</loc>
+        <lastmod>2012-07-26T06:48:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-make-a-mountain-lion-usb-installer-key</loc>
+        <lastmod>2012-07-25T16:00:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/mointain-lion-released-today</loc>
+        <lastmod>2012-07-25T13:40:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/simple-shortcut-to-lock-your-macs-screen</loc>
+        <lastmod>2012-07-24T12:11:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/backup-iphone-passwords-using-itunes</loc>
+        <lastmod>2012-07-18T05:41:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/ios-6-beta-3-update-released-download-here</loc>
+        <lastmod>2012-07-17T05:34:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/mountain-lion-release-date</loc>
+        <lastmod>2012-07-17T05:28:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/will-apple-release-a-smaller-ipad</loc>
+        <lastmod>2012-07-17T05:21:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/safari-6-developer-preview-download</loc>
+        <lastmod>2012-07-15T06:37:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/lion-tweaks-updated-for-mountain-lion</loc>
+        <lastmod>2012-07-15T06:07:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/get-your-mac-ready-for-mountain-lion</loc>
+        <lastmod>2012-07-11T05:16:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/mountain-lion-gm-available-for-download</loc>
+        <lastmod>2012-07-11T04:52:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-clear-out-launchpad</loc>
+        <lastmod>2012-06-27T04:11:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/stop-gifs-from-animating</loc>
+        <lastmod>2012-06-27T03:59:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/change-your-volume-on-your-mac-without-making-a-sound</loc>
+        <lastmod>2012-06-24T16:48:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/finer-control-over-brightness-and-volume</loc>
+        <lastmod>2012-06-24T04:15:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/add-contact-information-to-lock-screen-of-mac</loc>
+        <lastmod>2012-06-19T14:34:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/ipad-keyboard-hacks</loc>
+        <lastmod>2012-06-13T21:00:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/ios-6-anticipated-features</loc>
+        <lastmod>2012-06-10T04:06:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-install-python-3-2-3-on-mac-os-x</loc>
+        <lastmod>2012-06-03T22:47:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/ios-5-1-1-jailbreak-released-download-here</loc>
+        <lastmod>2012-05-28T04:00:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/iphone-sync-error-13019</loc>
+        <lastmod>2012-05-22T20:24:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-shut-off-camera-shutter-noise-iphone</loc>
+        <lastmod>2012-05-22T20:18:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/automatic-app-downloads-on-mountain-lion</loc>
+        <lastmod>2012-05-22T19:53:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/hide-dock-indicators</loc>
+        <lastmod>2012-05-19T05:22:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/poll-favorite-browser</loc>
+        <lastmod>2012-05-15T01:23:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/apple-tv-5-0-1-update</loc>
+        <lastmod>2012-05-12T04:05:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/mac-os-x-10-7-4-update</loc>
+        <lastmod>2012-05-10T00:07:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/ios-5-1-1-software-update</loc>
+        <lastmod>2012-05-09T04:16:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-force-quit-an-application</loc>
+        <lastmod>2012-05-08T00:43:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-reset-your-macs-pram-and-nvram</loc>
+        <lastmod>2012-05-06T06:32:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-record-your-screen-on-mac-os-x</loc>
+        <lastmod>2012-04-30T21:53:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/write-a-guest-post-for-mac-hints-from-binaryage</loc>
+        <lastmod>2012-04-29T04:00:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-remove-ds-store-files-from-a-git-repo</loc>
+        <lastmod>2012-04-28T03:50:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/change-file-type-of-screenshots-on-os-x</loc>
+        <lastmod>2012-04-27T04:00:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/change-the-file-location-of-screenshots-on-mac-os-x</loc>
+        <lastmod>2012-04-26T13:23:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/open-recently-closed-safari-tabs-ios-5-1</loc>
+        <lastmod>2012-04-22T16:31:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/scroll-to-top-of-ios-app-with-one-touch</loc>
+        <lastmod>2012-04-22T16:27:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/swipe-to-view-photos-in-camera-app</loc>
+        <lastmod>2012-04-22T16:24:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/new-safari-5-2-beta-update-3-download</loc>
+        <lastmod>2012-04-19T00:13:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-clear-imessage-history-on-mac-os-x</loc>
+        <lastmod>2012-04-17T05:48:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/download-imessage-beta-for-mac-os-x-lion</loc>
+        <lastmod>2012-04-17T05:29:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/no-audio-on-macbook-pro</loc>
+        <lastmod>2012-04-15T15:24:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-measure-screen-elements-in-pixels</loc>
+        <lastmod>2012-04-09T02:45:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/refresh-dashboard-widgets</loc>
+        <lastmod>2012-04-07T04:47:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-securely-empty-trash</loc>
+        <lastmod>2012-04-05T01:50:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/spread-your-dropbox-storage-link</loc>
+        <lastmod>2012-04-02T18:38:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/quickly-view-mission-control-or-dashboard-by-holding-down-hotkeys</loc>
+        <lastmod>2012-04-02T14:10:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-restart-mac-os-x-mission-control-and-dock</loc>
+        <lastmod>2012-04-02T13:37:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/delete-multiple-photos-from-iphones-camera-roll</loc>
+        <lastmod>2012-03-31T03:14:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/hourly-forecasts-in-ios-5-weather-app</loc>
+        <lastmod>2012-03-30T03:18:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/change-dashboard-background-in-lion</loc>
+        <lastmod>2012-03-29T04:22:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-sync-google-calendar-with-ical-on-lion</loc>
+        <lastmod>2012-03-26T04:38:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/quickly-switch-between-spaces-with-a-faster-keyboard-shortcut-in-lion</loc>
+        <lastmod>2012-03-25T04:23:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/change-the-font-size-in-list-view-of-stacks-in-your-dock</loc>
+        <lastmod>2012-03-22T05:45:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/download-adobe-photoshop-cs6-public-beta-for-free</loc>
+        <lastmod>2012-03-22T05:27:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-burn-an-iso-image-on-mac-os-x</loc>
+        <lastmod>2012-03-20T06:26:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/safari-crashes-often-on-ios-5</loc>
+        <lastmod>2012-03-18T07:19:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-transfer-photos-from-ipad-to-mac-or-pc</loc>
+        <lastmod>2012-03-17T06:02:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/reopen-last-closed-tab-in-safari-5</loc>
+        <lastmod>2012-03-16T20:24:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/enable-the-safari-debug-menu</loc>
+        <lastmod>2012-03-15T03:31:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-download-youtube-videos-in-safari</loc>
+        <lastmod>2012-03-13T16:39:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/network-connection-error-unable-to-download-ios-5-1</loc>
+        <lastmod>2012-03-12T19:38:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/new-features-of-ios-5-1</loc>
+        <lastmod>2012-03-12T16:56:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/cannot-drag-and-drop-apps-from-itunes-to-iphone-or-ipod-touch</loc>
+        <lastmod>2012-03-09T22:23:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/airplay-your-mac-desktop-to-your-tv-wirelessly</loc>
+        <lastmod>2012-03-09T18:14:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-input-gps-coordinates-into-the-maps-application-on-iphone</loc>
+        <lastmod>2012-03-09T18:09:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/locate-the-mac-address-on-your-iphone</loc>
+        <lastmod>2012-03-07T12:45:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/disable-dashboard-as-a-space-in-mac-os-x-lion</loc>
+        <lastmod>2012-03-07T12:37:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/where-are-iphone-backups-stored</loc>
+        <lastmod>2012-03-07T12:27:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/ipad-launch-today-new-features</loc>
+        <lastmod>2012-03-07T06:04:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/playlist-not-showing-up-on-iphone-using-itunes-match</loc>
+        <lastmod>2012-03-05T21:10:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/safari-5-2-new-features</loc>
+        <lastmod>2012-03-05T19:23:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/itunes-error-50</loc>
+        <lastmod>2012-03-04T13:40:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/cannot-connect-to-itunes-store-on-iphone</loc>
+        <lastmod>2012-03-04T13:22:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/iphone-contacts-not-syncing-with-mac-address-book</loc>
+        <lastmod>2012-03-04T06:45:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-add-an-attachment-to-an-email-message-on-an-iphone</loc>
+        <lastmod>2012-03-04T05:47:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/iphone-displays-incorrect-time</loc>
+        <lastmod>2012-03-04T04:45:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/itunes-error-3001-42110-5103</loc>
+        <lastmod>2012-03-04T04:23:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-jailbreak-iphone-4s-and-ipad-2-running-ios-5-0-or-5-0-1-windows-update</loc>
+        <lastmod>2012-03-03T14:37:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/problems-with-ios-5-music-app-crashing</loc>
+        <lastmod>2012-03-03T14:25:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/title-recorded-voice-memo-wont-play-back</loc>
+        <lastmod>2012-03-03T04:37:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/app-store-officially-hits-25-billion-downloads</loc>
+        <lastmod>2012-03-03T01:20:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/cannot-activate-facetime</loc>
+        <lastmod>2012-03-03T00:12:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-copy-music-off-your-iphone-or-ipod-touch</loc>
+        <lastmod>2012-03-02T20:46:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/hide-dropbox-from-your-menu-bar</loc>
+        <lastmod>2012-03-02T19:50:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/always-keep-track-of-your-ip-address-on-a-remote-computer</loc>
+        <lastmod>2012-03-02T19:17:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/iphone-cannot-hang-up-calls</loc>
+        <lastmod>2012-03-02T11:13:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/itunes-asks-for-a-password-to-unlock-a-backup-that-you-never-set</loc>
+        <lastmod>2012-03-02T11:02:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/safari-5-2-beta</loc>
+        <lastmod>2012-03-01T12:22:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/iphone-doesnt-fully-charge</loc>
+        <lastmod>2012-03-01T05:21:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/yahoo-mail-not-pushing-on-iphone</loc>
+        <lastmod>2012-03-01T04:56:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/double-message-alerts-on-iphone-with-ios-5</loc>
+        <lastmod>2012-03-01T03:09:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/archive</loc>
+        <lastmod>2012-03-01T00:00:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/ipod-touch-wont-turn-on</loc>
+        <lastmod>2012-02-29T16:05:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/delete-other-files-off-of-iphone-or-ipod-touch</loc>
+        <lastmod>2012-02-29T12:20:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-jailbreak-iphone-4s-and-ipad-2-running-ios-5-0-and-5-0-1</loc>
+        <lastmod>2012-02-28T12:09:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/iphone-or-ipod-touch-stuck-on-apple-logo</loc>
+        <lastmod>2012-02-28T02:54:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-fix-iphone-4s-signal-problem</loc>
+        <lastmod>2012-02-28T02:01:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/itunes-error-3194</loc>
+        <lastmod>2012-02-28T01:01:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/iphone-battery-problems</loc>
+        <lastmod>2012-02-27T23:30:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-use-tinyumbrella-to-update-downgrade-and-restore-your-iphone</loc>
+        <lastmod>2012-02-27T22:31:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/iphone-4-frozen-screen</loc>
+        <lastmod>2012-02-27T21:35:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/cannot-activate-imessage</loc>
+        <lastmod>2012-02-27T20:45:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/itunes-error-9808</loc>
+        <lastmod>2012-02-27T19:20:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-restore-iphone-ipad-or-ipod-touch-after-jailbreaking</loc>
+        <lastmod>2012-02-27T17:14:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-jailbreak-iphone-4-ipod-touch-4th-generation-ipad-iphone-3gs-untethered</loc>
+        <lastmod>2012-02-27T16:37:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-update-iphone-4s-to-ios-5-1-beta-3</loc>
+        <lastmod>2012-02-27T16:17:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-put-your-iphone-in-dfu-mode</loc>
+        <lastmod>2012-02-27T15:08:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/spotlight-doesnt-work-on-ios-5</loc>
+        <lastmod>2012-02-27T14:11:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/2d-dock-in-mac-os-x</loc>
+        <lastmod>2012-02-27T12:07:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-restore-your-iphone-ipod-touch-or-ipad</loc>
+        <lastmod>2012-02-27T11:09:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/apps-installed-on-the-iphone-could-not-be-determined</loc>
+        <lastmod>2012-02-27T04:01:00-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
 </urlset>
