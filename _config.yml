@@ -3,8 +3,8 @@ permalink: /:title
 paginate: 7
 url: http://hints.binaryage.com
 markdown: rdiscount
-layouts: base/layouts
+layouts: shared/layouts
 plugins: ../.jekyll-plugins
 stylus:
   compress: true
-  path: ./base/css/site.styl
+  path: ./shared/css/site.styl
