@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-SITEMAP: http://hints.binaryage.com/sitemap.xml
