@@ -34,14 +34,15 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 
-        <script type="text/javascript" charset="utf-8">
-    // give the custom font 5s to load, otherwise enable simple font visibility
+        
+<script type="text/javascript" charset="utf-8">
+    // give the custom font some time to load, otherwise enable simple font visibility
     setTimeout(function() {
         $('html').addClass('wf-fake-active');
     }, 2000);
 </script>
 <style type="text/css">
-    /* prevent visible font switching - this is also repeated in global.styl for fastspring compatibility!  */
+    /* prevent visible font switching */
     .js .wf {
         opacity: 0 !important;
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0) !important;
@@ -56,6 +57,7 @@
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100) !important;
     }
 </style>
+
 
         
 
@@ -290,23 +292,28 @@
 </div>
 <div style="float:right"><a href="https://plus.google.com/101180624276428786239?rel=author"><class="post-author">By: Mark Miyashita</a></div>
 <div style="float:left"><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f4f2b211c2d0f54"></script></div>
-    <div class="post-content"><p>This is a follow-up to my post about <a href='http://hints.binaryage.com/download-imessage-beta-for-mac-os-x-lion/'>installing iMessage Beta.</a></p>
+    <div class="post-content"><p>This is a follow-up to my post about <a href="http://hints.binaryage.com/download-imessage-beta-for-mac-os-x-lion/">installing iMessage Beta.</a></p>
 
 <p>If for some reason iMessage is acting strangely, one of the things you can try to do to alleviate this problem is to clear out your chat history. Large logs can cause iMessage to slow to a crawl. Here are the steps to fix this problem:</p>
 
 <p>Step 1) Quit iMessage on your Mac.</p>
 
-<p>Step 2) Open Finder and press CMD+Shift+G or by navigating to Go &gt; Go To Folder&#8230;</p>
+<p>Step 2) Open Finder and press CMD+Shift+G or by navigating to Go > Go To Folder...</p>
 
 <p>Step 3) In the dialog, type in <code>~/Library/Messages/</code></p>
 
 <p>Step 4) There should be at least three files as shown in the screenshot below. We are going to delete the files <code>chat.db</code> <code>chat.db-shm</code> and <code>chat.db-wal</code></p>
-<img class='clear blog-image-full-border' src='http://hints.binaryage.com/images/imessage_logs.png' title='iMessage' />
+
+<p><img class="clear blog-image-full-border" src="http://hints.binaryage.com/images/imessage_logs.png" title="iMessage"></p>
+
 <p>Step 5) After you have successfully deleted those three files, you can now open iMessage again and it will be similar to a brand new installation! Now you do not have to worry about long conversations slowing iMessage down.</p>
 
-<p>There is also an alternative way to accomplish this by using Terminal under Applications &gt; Utilities &gt; Terminal. Type in the command: <code>rm -r ~/Library/Messages/chat.*</code> This will effectively do the same thing.</p>
+<p>There is also an alternative way to accomplish this by using Terminal under Applications > Utilities > Terminal. Type in the command:
+<code>rm -r ~/Library/Messages/chat.*</code>
+This will effectively do the same thing.</p>
 
-<p>If you have any questions about the process, please post in the comments below!</p></div>
+<p>If you have any questions about the process, please post in the comments below!</p>
+</div>
 </div>
 
 <div class="simple_overlay" id="overlay-gallery" style="display:none"> 

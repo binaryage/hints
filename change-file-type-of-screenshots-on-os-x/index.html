@@ -34,14 +34,15 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 
-        <script type="text/javascript" charset="utf-8">
-    // give the custom font 5s to load, otherwise enable simple font visibility
+        
+<script type="text/javascript" charset="utf-8">
+    // give the custom font some time to load, otherwise enable simple font visibility
     setTimeout(function() {
         $('html').addClass('wf-fake-active');
     }, 2000);
 </script>
 <style type="text/css">
-    /* prevent visible font switching - this is also repeated in global.styl for fastspring compatibility!  */
+    /* prevent visible font switching */
     .js .wf {
         opacity: 0 !important;
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0) !important;
@@ -56,6 +57,7 @@
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100) !important;
     }
 </style>
+
 
         
 
@@ -290,23 +292,27 @@
 </div>
 <div style="float:right"><a href="https://plus.google.com/101180624276428786239?rel=author"><class="post-author">By: Mark Miyashita</a></div>
 <div style="float:left"><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f4f2b211c2d0f54"></script></div>
-    <div class="post-content"><p>Yesterday, I posted a tutorial on how to change the location of screenshots taken on Mac OS X, posted <a href='http://hints.binaryage.com/change-the-file-location-of-screenshots-on-mac-os-x/'>here.</a> Today, I am going to go over how to change the file type of these screenshots. Why would you want to do this, you ask? There are several reason why this tutorial is useful. One, you may need a specific image format for a project you are working on. Second, you may also want to take higher quality, lossless screenshots (the TIFF format), or lower quality, compressed files (JPEG). Regardless, follow these steps below:</p>
+    <div class="post-content"><p>Yesterday, I posted a tutorial on how to change the location of screenshots taken on Mac OS X, posted <a href="http://hints.binaryage.com/change-the-file-location-of-screenshots-on-mac-os-x/">here.</a> Today, I am going to go over how to change the file type of these screenshots. Why would you want to do this, you ask? There are several reason why this tutorial is useful. One, you may need a specific image format for a project you are working on. Second, you may also want to take higher quality, lossless screenshots (the TIFF format), or lower quality, compressed files (JPEG). Regardless, follow these steps below:</p>
 
-<p>All you have to do is open up Terminal by going to Applications &gt; Utilities &gt; Terminal. At the prompt, type in the following command:</p>
+<p>All you have to do is open up Terminal by going to Applications > Utilities > Terminal. At the prompt, type in the following command:</p>
 
-<pre><code>defaults write com.apple.screencapture type jpg</code></pre>
+<pre><code>defaults write com.apple.screencapture type jpg
+</code></pre>
 
 <p>and then run:</p>
 
-<pre><code>killall SystemUIServer</code></pre>
+<pre><code>killall SystemUIServer
+</code></pre>
 
-<p>This will change the format of your screenshots from the default &#8220;png&#8221; to &#8220;jpg&#8221;; the last parameter can be changed. Your options include jpg, png, tiff, or even pict.</p>
+<p>This will change the format of your screenshots from the default "png" to "jpg"; the last parameter can be changed. Your options include jpg, png, tiff, or even pict.</p>
 
 <p>To change back to default, simply type:</p>
 
-<pre><code>defaults write com.apple.screencapture type png</code></pre>
+<pre><code>defaults write com.apple.screencapture type png
+</code></pre>
 
-<p>Hope this helps! Post any questions in the comments below and I will be sure to answer them.</p></div>
+<p>Hope this helps! Post any questions in the comments below and I will be sure to answer them.</p>
+</div>
 </div>
 
 <div class="simple_overlay" id="overlay-gallery" style="display:none"> 

@@ -34,14 +34,15 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 
-        <script type="text/javascript" charset="utf-8">
-    // give the custom font 5s to load, otherwise enable simple font visibility
+        
+<script type="text/javascript" charset="utf-8">
+    // give the custom font some time to load, otherwise enable simple font visibility
     setTimeout(function() {
         $('html').addClass('wf-fake-active');
     }, 2000);
 </script>
 <style type="text/css">
-    /* prevent visible font switching - this is also repeated in global.styl for fastspring compatibility!  */
+    /* prevent visible font switching */
     .js .wf {
         opacity: 0 !important;
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0) !important;
@@ -56,6 +57,7 @@
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100) !important;
     }
 </style>
+
 
         
 
@@ -290,27 +292,32 @@
 </div>
 <div style="float:right"><a href="https://plus.google.com/101180624276428786239?rel=author"><class="post-author">By: Mark Miyashita</a></div>
 <div style="float:left"><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f4f2b211c2d0f54"></script></div>
-    <div class="post-content"><p>On Mac OS X, you can easily take screenshots of your desktop by pressing shortcut keys on your keyboard. (More on that <a href='http://hints.binaryage.com/how-to-measure-screen-elements-in-pixels/'>here.</a>) However, all of your screenshots will go to your desktop by default. To change this, open up Terminal by going to Applications &gt; Utilities &gt; Terminal, or by simply using Spotlight to search for Terminal, and copy and paste the following commands:</p>
+    <div class="post-content"><p>On Mac OS X, you can easily take screenshots of your desktop by pressing shortcut keys on your keyboard. (More on that <a href="http://hints.binaryage.com/how-to-measure-screen-elements-in-pixels/">here.</a>) However, all of your screenshots will go to your desktop by default. To change this, open up Terminal by going to Applications > Utilities > Terminal, or by simply using Spotlight to search for Terminal, and copy and paste the following commands:</p>
 
-<pre><code>defaults write com.apple.screencapture location /path/to/screenshots</code></pre>
+<pre><code>defaults write com.apple.screencapture location /path/to/screenshots
+</code></pre>
 
 <p>A common place to switch the screenshot location to might look something like this:</p>
 
-<pre><code>defaults write com.apple.screencapture location ~/Pictures/Screenshots</code></pre>
+<pre><code>defaults write com.apple.screencapture location ~/Pictures/Screenshots
+</code></pre>
 
 <p>This will place the screenshots into a folder called Screenshots in your Pictures folder in your Home folder. Be sure to create the folder structure before you actually try and take a screenshot.</p>
 
 <p>To apply these changes, again in Terminal, type:</p>
 
-<pre><code>killall SystemUIServer</code></pre>
+<pre><code>killall SystemUIServer
+</code></pre>
 
 <p>And, to change it back to the default desktop location, simply type in:</p>
 
-<pre><code>defaults write com.apple.screencapture location ~/Desktop/</code></pre>
+<pre><code>defaults write com.apple.screencapture location ~/Desktop/
+</code></pre>
 
-<p>UPDATE: New post on how to change the file type of your screenshots <a href='http://hints.binaryage.com/change-file-type-of-screenshots-on-os-x/'>here!</a></p>
+<p>UPDATE: New post on how to change the file type of your screenshots <a href="http://hints.binaryage.com/change-file-type-of-screenshots-on-os-x/">here!</a></p>
 
-<p>That&#8217;s it! Hope this hint has helpful, post any questions or concerns in the comments below.</p></div>
+<p>That's it! Hope this hint has helpful, post any questions or concerns in the comments below.</p>
+</div>
 </div>
 
 <div class="simple_overlay" id="overlay-gallery" style="display:none"> 

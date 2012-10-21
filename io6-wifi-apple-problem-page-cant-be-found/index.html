@@ -34,14 +34,15 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 
-        <script type="text/javascript" charset="utf-8">
-    // give the custom font 5s to load, otherwise enable simple font visibility
+        
+<script type="text/javascript" charset="utf-8">
+    // give the custom font some time to load, otherwise enable simple font visibility
     setTimeout(function() {
         $('html').addClass('wf-fake-active');
     }, 2000);
 </script>
 <style type="text/css">
-    /* prevent visible font switching - this is also repeated in global.styl for fastspring compatibility!  */
+    /* prevent visible font switching */
     .js .wf {
         opacity: 0 !important;
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0) !important;
@@ -56,6 +57,7 @@
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100) !important;
     }
 </style>
+
 
         
 
@@ -290,21 +292,33 @@
 </div>
 <div style="float:right"><a href="https://plus.google.com/101180624276428786239?rel=author"><class="post-author">By: Antonin Hildebrand</a></div>
 <div style="float:left"><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f4f2b211c2d0f54"></script></div>
-    <div class="post-content"><p>I have just update to iOS 6 and experienced a problem with wifi connectivity. Everytime I wanted to connect to my home wifi it ended up opening &#8220;Log In&#8221; screen with broken page at apple.com saying &#8220;hmm, the page you&#8217;re looking for can&#8217;t be found.&#8221;.</p>
+    <div class="post-content"><p>I have just update to iOS 6 and experienced a problem with wifi connectivity. Everytime I wanted to connect to my home wifi it ended up opening "Log In" screen with broken page at apple.com saying "hmm, the page you're looking for can't be found.".</p>
 
 <p>I googled for solutions and found several threads:</p>
 
-<p>* <a href='https://discussions.apple.com/thread/4311667'>https://discussions.apple.com/thread/4311667</a> * <a href='https://discussions.apple.com/message/19629512'>https://discussions.apple.com/message/19629512</a> * <a href='https://discussions.apple.com/message/19625125'>https://discussions.apple.com/message/19625125</a> * &#8230;</p>
+<ul>
+<li><a href="https://discussions.apple.com/thread/4311667">https://discussions.apple.com/thread/4311667</a></li>
+<li><a href="https://discussions.apple.com/message/19629512">https://discussions.apple.com/message/19629512</a></li>
+<li><a href="https://discussions.apple.com/message/19625125">https://discussions.apple.com/message/19625125</a></li>
+<li>...</li>
+</ul>
+
 
 <p>There are some suggestions which worked to some users but no widely confirmed solution.</p>
 
 <p>My router is a TimeMachine box (Airport Extreme). Here are the steps which worked for me:</p>
 
-<p>1. Used <code>AirPort Utily</code> on my Mac to restart the router 2. in iOS 6: Settings -&gt; General -&gt; Reset -&gt; Reset Network Settings<br /> 3. in iOS 6: Settings -&gt; General -&gt; Reset -&gt; Reset All Settings</p>
+<ol>
+<li>Used <code>AirPort Utily</code> on my Mac to restart the router</li>
+<li>in iOS 6: Settings -> General -> Reset -> Reset Network Settings</li>
+<li>in iOS 6: Settings -> General -> Reset -> Reset All Settings</li>
+</ol>
+
 
 <p>Then wifi started to operate properly.</p>
 
-<p>Also I noticed I lost an option for personal hotspot in my Settings menu, but that may be only effect of losing my settings. It can be probably re-enabled somewhere deeper in the Networking Settings.</p></div>
+<p>Also I noticed I lost an option for personal hotspot in my Settings menu, but that may be only effect of losing my settings. It can be probably re-enabled somewhere deeper in the Networking Settings.</p>
+</div>
 </div>
 
 <div class="simple_overlay" id="overlay-gallery" style="display:none"> 

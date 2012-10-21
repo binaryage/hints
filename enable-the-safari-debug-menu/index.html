@@ -34,14 +34,15 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 
-        <script type="text/javascript" charset="utf-8">
-    // give the custom font 5s to load, otherwise enable simple font visibility
+        
+<script type="text/javascript" charset="utf-8">
+    // give the custom font some time to load, otherwise enable simple font visibility
     setTimeout(function() {
         $('html').addClass('wf-fake-active');
     }, 2000);
 </script>
 <style type="text/css">
-    /* prevent visible font switching - this is also repeated in global.styl for fastspring compatibility!  */
+    /* prevent visible font switching */
     .js .wf {
         opacity: 0 !important;
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0) !important;
@@ -56,6 +57,7 @@
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100) !important;
     }
 </style>
+
 
         
 
@@ -292,13 +294,16 @@
 <div style="float:left"><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f4f2b211c2d0f54"></script></div>
     <div class="post-content"><p>If you would like to enable hidden features in Safari on your Mac, follow the steps below to enable the debug menu. Extra features you can unlock include: spoofing your user agent, using the Web Inspector, and disabling things such as Javascript.</p>
 
-<p>Step 1) Open Terminal under Applications &gt; Utilities &gt; Terminal, or by pressing CMD + Spacebar and typing in Terminal.</p>
+<p>Step 1) Open Terminal under Applications > Utilities > Terminal, or by pressing CMD + Spacebar and typing in Terminal.</p>
 
 <p>Step 2) Copy and paste this line of code into Terminal to enable the debug menu.</p>
-<code>defaults write com.apple.Safari IncludeDebugMenu 1</code>
-<p>That&#8217;s it! You now have the debug menu enabled! If at any time you want to revert back to Safari without the debug mode on, simply use the same code and change the one at the very end to a zero.</p>
 
-<p>Questions? Leave them in the comments below!</p></div>
+<p><code>defaults write com.apple.Safari IncludeDebugMenu 1</code></p>
+
+<p>That's it! You now have the debug menu enabled! If at any time you want to revert back to Safari without the debug mode on, simply use the same code and change the one at the very end to a zero.</p>
+
+<p>Questions? Leave them in the comments below!</p>
+</div>
 </div>
 
 <div class="simple_overlay" id="overlay-gallery" style="display:none"> 

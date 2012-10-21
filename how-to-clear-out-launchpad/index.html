@@ -34,14 +34,15 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 
-        <script type="text/javascript" charset="utf-8">
-    // give the custom font 5s to load, otherwise enable simple font visibility
+        
+<script type="text/javascript" charset="utf-8">
+    // give the custom font some time to load, otherwise enable simple font visibility
     setTimeout(function() {
         $('html').addClass('wf-fake-active');
     }, 2000);
 </script>
 <style type="text/css">
-    /* prevent visible font switching - this is also repeated in global.styl for fastspring compatibility!  */
+    /* prevent visible font switching */
     .js .wf {
         opacity: 0 !important;
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0) !important;
@@ -56,6 +57,7 @@
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100) !important;
     }
 </style>
+
 
         
 
@@ -292,17 +294,24 @@
 <div style="float:left"><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f4f2b211c2d0f54"></script></div>
     <div class="post-content"><p>Launchpad is a feature added to Mac OS X that emulates the home screens on iOS. The basic idea behind it is that you have one central location to find all of your apps. However, as most users have noticed, this feature, loved on iOS, is not as useful on OS X. The simple reason is that not every user wants every app on their computer showing up in Launchpad. Luckily for us, there is a simple trick that will allow us to organize and store what WE want in Launchpad. This is more desirable; follow the steps below in order to accomplish just this:</p>
 
-<p>Step 1) Open up Terminal by going to Applications &gt; Utilities &gt; Terminal.</p>
+<p>Step 1) Open up Terminal by going to Applications > Utilities > Terminal.</p>
 
-<p>Step 2) Type in the following command: sqlite3 ~/Library/Application\ Support/Dock/<em>.db &#8220;DELETE from apps; DELETE from groups WHERE title&lt;&gt;&#8221;; DELETE from items WHERE rowid&gt;2;&#8221;; Killall Dock</em></p>
+<p>Step 2) Type in the following command:</p>
 
-<p>This command essentially erases the entire database for Launchpad. Yay, now Launchpad is&#8230;empty? That&#8217;s not useful. Read on!</p>
+<pre><code>sqlite3 ~/Library/Application\ Support/Dock/*.db "DELETE from apps; DELETE from groups WHERE title&lt;&gt;''; DELETE from items WHERE rowid&gt;2;"; Killall Dock
+</code></pre>
 
-<p>Step 3) To add apps back to Launchpad, all you need to do is drag apps onto the Launchpad dock icon. Yep, it&#8217;s that simple!</p>
+<p>This command essentially erases the entire database for Launchpad. Yay, now Launchpad is...empty? That's not useful. Read on!</p>
 
-<p>Step 4) If for some reason you would like to go back to the old Launchpad with an icon for every single app on your Mac, then enter the command below which will rebuild the database: rm ~/Library/Application\ Support/Dock/<em>.db; killall Dock</em></p>
+<p>Step 3) To add apps back to Launchpad, all you need to do is drag apps onto the Launchpad dock icon. Yep, it's that simple!</p>
 
-<p>If you have any questions about the code listed above, please leave a comment below!</p></div>
+<p>Step 4) If for some reason you would like to go back to the old Launchpad with an icon for every single app on your Mac, then enter the command below which will rebuild the database:</p>
+
+<pre><code>rm ~/Library/Application\ Support/Dock/*.db; killall Dock
+</code></pre>
+
+<p>If you have any questions about the code listed above, please leave a comment below!</p>
+</div>
 </div>
 
 <div class="simple_overlay" id="overlay-gallery" style="display:none"> 

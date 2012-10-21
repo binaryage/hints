@@ -34,14 +34,15 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 
-        <script type="text/javascript" charset="utf-8">
-    // give the custom font 5s to load, otherwise enable simple font visibility
+        
+<script type="text/javascript" charset="utf-8">
+    // give the custom font some time to load, otherwise enable simple font visibility
     setTimeout(function() {
         $('html').addClass('wf-fake-active');
     }, 2000);
 </script>
 <style type="text/css">
-    /* prevent visible font switching - this is also repeated in global.styl for fastspring compatibility!  */
+    /* prevent visible font switching */
     .js .wf {
         opacity: 0 !important;
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0) !important;
@@ -56,6 +57,7 @@
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100) !important;
     }
 </style>
+
 
         
 
@@ -290,31 +292,36 @@
 </div>
 <div style="float:right"><a href="https://plus.google.com/101180624276428786239?rel=author"><class="post-author">By: Mark Miyashita</a></div>
 <div style="float:left"><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f4f2b211c2d0f54"></script></div>
-    <div class="post-content"><p>Whether you are a new or experienced git user, at one point in your git career using a Mac, you stumbled upon the fabled .DS_Store file. This little file is a &#8220;Desktop Services Store&#8221; that contains attributes of a folder and is created every single time a folder is navigated to. Man, that&#8217;s a lot of .DS_Store files. For the average Mac user, these files are never seen because they are hidden. However, any git user will know that annoying feeling when they notice that a pesky .DS_Store file has crept its way into their repo. Here is a tutorial on how to solve this problem, once and for all.</p>
+    <div class="post-content"><p>Whether you are a new or experienced git user, at one point in your git career using a Mac, you stumbled upon the fabled .DS_Store file. This little file is a "Desktop Services Store" that contains attributes of a folder and is created every single time a folder is navigated to. Man, that's a lot of .DS_Store files. For the average Mac user, these files are never seen because they are hidden. However, any git user will know that annoying feeling when they notice that a pesky .DS_Store file has crept its way into their repo. Here is a tutorial on how to solve this problem, once and for all.</p>
 
-<p>A sample .DS_Store file for those who may not know what they look like: <img class='clear blog-image-full-border' src='http://hints.binaryage.com/images/dsstore.png' title='.DS_Store' /></p>
+<p>A sample .DS_Store file for those who may not know what they look like:
+<img class="clear blog-image-full-border" src="http://hints.binaryage.com/images/dsstore.png" title=".DS_Store"></p>
 
-<p>Step 1) If you would like to see .DS_Store files, download and use <a href='http://totalfinder.binaryage.com'>TotalFinder</a> which has a very easy method for viewing hidden files. There are other methods involving Terminal, but TotalFinder makes it easy (it&#8217;s a preference and even has a keyboard shortcut!).</p>
+<p>Step 1) If you would like to see .DS_Store files, download and use <a href="http://totalfinder.binaryage.com">TotalFinder</a> which has a very easy method for viewing hidden files. There are other methods involving Terminal, but TotalFinder makes it easy (it's a preference and even has a keyboard shortcut!).</p>
 
-<p>Step 2) Navigate to your repo using Terminal (Applications &gt; Utilities &gt; Terminal). This first command will remove any and all .DS_Store files from your repo. Simply enter:</p>
+<p>Step 2) Navigate to your repo using Terminal (Applications > Utilities > Terminal). This first command will remove any and all .DS_Store files from your repo. Simply enter:</p>
 
-<pre><code>find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch</code></pre>
+<pre><code>find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch
+</code></pre>
 
 <p>Step 3) Now we will create a global exclusion list (you can skip this step if you already have one set up). To do this, enter the command:</p>
 
-<pre><code>git config --global core.excludesfile ~/.gitignore</code></pre>
+<pre><code>git config --global core.excludesfile ~/.gitignore
+</code></pre>
 
-<p>Step 4) Now, we must add the pesky .DS_Store file to our newly created global exclusion list, named .gitignore (assuming you don&#8217;t want any .DS_Store files in any repos that you may own). To do this, simply use this command:</p>
+<p>Step 4) Now, we must add the pesky .DS_Store file to our newly created global exclusion list, named .gitignore (assuming you don't want any .DS_Store files in any repos that you may own). To do this, simply use this command:</p>
 
-<pre><code>echo .DS_Store &gt;&gt; ~/.gitignore</code></pre>
+<pre><code>echo .DS_Store &gt;&gt; ~/.gitignore
+</code></pre>
 
 <p>This will add an entry to your .gitignore file that tells your git repo to ignore any file called .DS_Store. This is exactly what we want.</p>
 
 <p>Commit these changes and push to your repo. To our surprise, all .DS_Store files have been removed! Congratulations! Now our repos are clean, free from clutter, and more professional.</p>
 
-<p>Also, if you often navigate through Finder with hidden files on, I would recommend the tool called <a href='http://asepsis.binaryage.com'>Asepsis</a> a product of BinaryAge. Asepsis redirects the creation of .DS_Store files to a special folder that you seldom interact with. All the properties of folders are still retained, they are just placed in a different, well-hidden directory.</p>
+<p>Also, if you often navigate through Finder with hidden files on, I would recommend the tool called <a href="http://asepsis.binaryage.com">Asepsis</a> a product of BinaryAge. Asepsis redirects the creation of .DS_Store files to a special folder that you seldom interact with. All the properties of folders are still retained, they are just placed in a different, well-hidden directory.</p>
 
-<p>If you have any questions about this process or would like me to explain something more in depth, please feel free to leave a comment below!</p></div>
+<p>If you have any questions about this process or would like me to explain something more in depth, please feel free to leave a comment below!</p>
+</div>
 </div>
 
 <div class="simple_overlay" id="overlay-gallery" style="display:none"> 

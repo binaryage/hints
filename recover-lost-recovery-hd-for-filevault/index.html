@@ -34,14 +34,15 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 
-        <script type="text/javascript" charset="utf-8">
-    // give the custom font 5s to load, otherwise enable simple font visibility
+        
+<script type="text/javascript" charset="utf-8">
+    // give the custom font some time to load, otherwise enable simple font visibility
     setTimeout(function() {
         $('html').addClass('wf-fake-active');
     }, 2000);
 </script>
 <style type="text/css">
-    /* prevent visible font switching - this is also repeated in global.styl for fastspring compatibility!  */
+    /* prevent visible font switching */
     .js .wf {
         opacity: 0 !important;
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0) !important;
@@ -56,6 +57,7 @@
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100) !important;
     }
 </style>
+
 
         
 
@@ -290,27 +292,47 @@
 </div>
 <div style="float:right"><a href="https://plus.google.com/101180624276428786239?rel=author"><class="post-author">By: Antonin Hildebrand</a></div>
 <div style="float:left"><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f4f2b211c2d0f54"></script></div>
-    <div class="post-content"><p>Today I wanted to install FileVault2 on my secondary MacBook. Unfortunately FileVault reported:<br /> <strong>FileVault can’t be turned on for the disk &#8230;</strong></p>
+    <div class="post-content"><p>Today I wanted to install FileVault2 on my secondary MacBook. Unfortunately FileVault reported:<br>
+<strong>FileVault can’t be turned on for the disk ...</strong></p>
 
-<p>I did a quick googling and realized that the problem is missing &#8220;Recovery HD&#8221; partition on my disk. Since Lion, OS X installers create Recovery HD partition immediatelly after the main system partition. It is a small (650MB) bootable partition that can be used for various system troubleshooting scenarios (for example when you encript your disk with FileVault and forget the login password).</p>
+<p>I did a quick googling and realized that the problem is missing "Recovery HD" partition on my disk. Since Lion, OS X installers create Recovery HD partition immediatelly after the main system partition. It is a small (650MB) bootable partition that can be used for various system troubleshooting scenarios (for example when you encript your disk with FileVault and forget the login password).</p>
 
-<h3 id='how_to_recreate_lost_recovery_partition_easily'>How to recreate lost recovery partition easily?</h3>
+<h3>How to recreate lost recovery partition easily?</h3>
 
-<p>I found several articles <a href='http://musings.silvertooth.us/2012/03/restoring-a-lost-recovery-partition-in-lion/'>about</a> <a href='http://www.dmitry-dulepov.com/2011/09/how-to-create-mac-os-x-lion-recovery.html'>the</a> <a href='https://plus.google.com/108724035107725322855/posts/Y33cF3cJR9o'>topic</a>, but all methods seemed to be pretty complex and/or time consuming. There must be an easier way! What about fooling OS X installer into creating Recovery HD partition for us?</p>
+<p>I found several articles <a href="http://musings.silvertooth.us/2012/03/restoring-a-lost-recovery-partition-in-lion/">about</a> <a href="http://www.dmitry-dulepov.com/2011/09/how-to-create-mac-os-x-lion-recovery.html">the</a> <a href="https://plus.google.com/108724035107725322855/posts/Y33cF3cJR9o">topic</a>, but all methods seemed to be pretty complex and/or time consuming. There must be an easier way! What about fooling OS X installer into creating Recovery HD partition for us?</p>
 
-<p>Here is an easy solution which took me less than 10 minutes. Let&#8217;s say you want to restore Recovery HD partition for your system partition called &#8220;OSX&#8221; running Lion.</p>
+<p>Here is an easy solution which took me less than 10 minutes. Let's say you want to restore Recovery HD partition for your system partition called "OSX" running Lion.</p>
 
-<h4 id='prerequisities'>Prerequisities:</h4>
+<h4>Prerequisities:</h4>
 
-<p>1. installation disk for Lion (or &#8220;Install Mac OS X Lion&#8221; app, downloaded from the App Store) 2. at least 8 GB of free space on your &#8220;OSX&#8221; partition (needed for a clean OS X installation) 3. your &#8220;OSX&#8221; partition is formatted with resizeable filesystem (Journaled HFS+ is fine)</p>
+<ol>
+<li>installation disk for Lion (or "Install Mac OS X Lion" app, downloaded from the App Store)</li>
+<li>at least 8 GB of free space on your "OSX" partition (needed for a clean OS X installation)</li>
+<li>your "OSX" partition is formatted with resizeable filesystem (Journaled HFS+ is fine)</li>
+</ol>
 
-<h4 id='steps'>Steps:</h4>
 
-<p>1. use <code>Disk Utility.app</code> to: 1. shrink OSX partion by 8 GB (or more) 2. insert new OSX 2 partition immediately after OSX (I used the small &#8221;+&#8221; button under Partition Layout) 3. make sure both partitions have format: Journaled HFS+ (JHFS+)</p>
+<h4>Steps:</h4>
 
-<p>2. start installing Lion on newly created OSX 2 partition 1. let computer reboot first time to finish copying 2. during second reboot hold Option key and boot into old OSX (we don&#8217;t need to finish OSX 2 installation)</p>
+<ol>
+<li><p>use <code>Disk Utility.app</code> to:</p>
 
-<p>3. merge OSX 2 into OSX via command-line:</p>
+<ol>
+<li>shrink OSX partion by 8 GB (or more)</li>
+<li>insert new OSX 2 partition immediately after OSX (I used the small "+" button under Partition Layout)</li>
+<li>make sure both partitions have format: Journaled HFS+ (JHFS+)</li>
+</ol>
+</li>
+<li><p>start installing Lion on newly created OSX 2 partition</p>
+
+<ol>
+<li>let computer reboot first time to finish copying</li>
+<li>during second reboot hold Option key and boot into old OSX (we don't need to finish OSX 2 installation)</li>
+</ol>
+</li>
+<li><p>merge OSX 2 into OSX via command-line:</p></li>
+</ol>
+
 
 <pre><code>~ ➔ diskutil list
 /dev/disk0
@@ -334,31 +356,26 @@ Finished partitioning on disk0
    0:      GUID_partition_scheme                        *251.0 GB   disk0
    1:                        EFI                         209.7 MB   disk0s1
    2:                  Apple_HFS OSX                     250.1 GB   disk0s2
-   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s4</code></pre>
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s4
+</code></pre>
 
 <p>In step 3 you have to use <code>diskutil list</code> to read identifiers of OSX and OSX 2 partitions. If you did all right, <strong>you must see OSX, OSX 2 and Recovery HD in this exact order</strong> somewhere in the list. By executing<code>diskutil mergePartitions</code> you merge OSX 2 into OSX (and lose content of the newly created partition OSX 2). You have to end up with OSX immediatelly followed by Recovery HD.</p>
 
-<h4 id='notes'>Notes</h4>
+<h4>Notes</h4>
 
 <ol>
-<li>
-<p>Forget using <code>Disk Utility.app</code> in step 3. You cannot delete OSX 2 via Disk Utility and resize OSX to eat the gap. Disk Utility is smart enough and deteling partition deletes also hidden Recovery HD partition which immediatelly follows.</p>
-</li>
-
-<li>
-<p>The same method should work with Mountain Lion (not tested)</p>
-</li>
-
-<li>
-<p>The same method should work in more complex scenarios. You get the idea.</p>
-</li>
+<li><p>Forget using <code>Disk Utility.app</code> in step 3. You cannot delete OSX 2 via Disk Utility and resize OSX to eat the gap. Disk Utility is smart enough and deteling partition deletes also hidden Recovery HD partition which immediatelly follows.</p></li>
+<li><p>The same method should work with Mountain Lion (not tested)</p></li>
+<li><p>The same method should work in more complex scenarios. You get the idea.</p></li>
 </ol>
 
-<h4 id='disclaimer'>Disclaimer</h4>
 
-<p>I&#8217;m not responsible for anything you do to your data. Always do proper backups!</p>
+<h4>Disclaimer</h4>
 
-<p>Hope this helped.</p></div>
+<p>I'm not responsible for anything you do to your data. Always do proper backups!</p>
+
+<p>Hope this helped.</p>
+</div>
 </div>
 
 <div class="simple_overlay" id="overlay-gallery" style="display:none"> 

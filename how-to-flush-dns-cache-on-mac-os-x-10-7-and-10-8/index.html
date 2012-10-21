@@ -34,14 +34,15 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 
-        <script type="text/javascript" charset="utf-8">
-    // give the custom font 5s to load, otherwise enable simple font visibility
+        
+<script type="text/javascript" charset="utf-8">
+    // give the custom font some time to load, otherwise enable simple font visibility
     setTimeout(function() {
         $('html').addClass('wf-fake-active');
     }, 2000);
 </script>
 <style type="text/css">
-    /* prevent visible font switching - this is also repeated in global.styl for fastspring compatibility!  */
+    /* prevent visible font switching */
     .js .wf {
         opacity: 0 !important;
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0) !important;
@@ -56,6 +57,7 @@
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100) !important;
     }
 </style>
+
 
         
 
@@ -290,11 +292,15 @@
 </div>
 <div style="float:right"><a href="https://plus.google.com/101180624276428786239?rel=author"><class="post-author">By: Mark Miyashita</a></div>
 <div style="float:left"><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f4f2b211c2d0f54"></script></div>
-    <div class="post-content"><p>If you are having problems connecting to the internet on your Mac, you may need to flush your DNS cache. On Mac OS X 10.7 and 10.8, you can simply open Terminal by using Spotlight (CMD+Space) or by going to Applications &gt; Utilities &gt; Terminal. Copy and paste the command below to flush your DNS Cache:</p>
+    <div class="post-content"><p>If you are having problems connecting to the internet on your Mac, you may need to flush your DNS cache. On Mac OS X 10.7 and 10.8, you can simply open Terminal by using Spotlight (CMD+Space) or by going to Applications > Utilities > Terminal. Copy and paste the command below to flush your DNS Cache:</p>
+
 <div>
   <pre><code class='bash'>sudo killall -HUP mDNSResponder</code></pre>
 </div>
-<p>Type in your Administrative password and the command should fix your internet problems! Hopefully your internet connection problems are gone now and you can enjoy the internet! If you have any questions, please feel free to leave a comment below!</p></div>
+
+
+<p>Type in your Administrative password and the command should fix your internet problems! Hopefully your internet connection problems are gone now and you can enjoy the internet! If you have any questions, please feel free to leave a comment below!</p>
+</div>
 </div>
 
 <div class="simple_overlay" id="overlay-gallery" style="display:none"> 

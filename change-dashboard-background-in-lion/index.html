@@ -34,14 +34,15 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 
-        <script type="text/javascript" charset="utf-8">
-    // give the custom font 5s to load, otherwise enable simple font visibility
+        
+<script type="text/javascript" charset="utf-8">
+    // give the custom font some time to load, otherwise enable simple font visibility
     setTimeout(function() {
         $('html').addClass('wf-fake-active');
     }, 2000);
 </script>
 <style type="text/css">
-    /* prevent visible font switching - this is also repeated in global.styl for fastspring compatibility!  */
+    /* prevent visible font switching */
     .js .wf {
         opacity: 0 !important;
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0) !important;
@@ -56,6 +57,7 @@
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100) !important;
     }
 </style>
+
 
         
 
@@ -292,22 +294,24 @@
 <div style="float:left"><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f4f2b211c2d0f54"></script></div>
     <div class="post-content"><p>In Mac OS X Lion, Dashboard has become its own space as part of the new feature, Mission Control. However, the method to change the background is missing for Dashboard, so here is a tutorial on how to accomplish this task.</p>
 
-<p>Step 1) Open Applescript Editor under Applications &gt; Utilities.</p>
+<p>Step 1) Open Applescript Editor under Applications > Utilities.</p>
 
 <p>Step 2) Copy and paste this code into the app:</p>
 
 <pre><code>delay 5
-tell application &quot;Finder&quot;
-    set desktop picture to POSIX file &quot;/Users/YourUsernameHere/PathToFile.png&quot;
-end tell</code></pre>
+tell application "Finder"
+    set desktop picture to POSIX file "/Users/YourUsernameHere/PathToFile.png"
+end tell
+</code></pre>
 
-<p>Step 3) The reason that there is a &#8220;delay 5&#8221; at the beginning of the file is so that you can quickly switch to the Dashboard space.</p>
+<p>Step 3) The reason that there is a "delay 5" at the beginning of the file is so that you can quickly switch to the Dashboard space.</p>
 
-<p>Step 4) After you have edited your Applescript in the editor, press the run button or press &#8220;CMD + R&#8221; to run the applescript. Quickly switch from your current space to the Dashboard space within the time limit you have set.</p>
+<p>Step 4) After you have edited your Applescript in the editor, press the run button or press "CMD + R" to run the applescript. Quickly switch from your current space to the Dashboard space within the time limit you have set.</p>
 
 <p>Step 5) If all goes well, there should be zero errors when executing the applescript and your background for the Dashboard space should now be changed!</p>
 
-<p>If you have any questions, please feel free to contact me or leave your question in the comments box below. Cheers!</p></div>
+<p>If you have any questions, please feel free to contact me or leave your question in the comments box below. Cheers!</p>
+</div>
 </div>
 
 <div class="simple_overlay" id="overlay-gallery" style="display:none"> 

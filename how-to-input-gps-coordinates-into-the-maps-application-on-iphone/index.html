@@ -34,14 +34,15 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 
-        <script type="text/javascript" charset="utf-8">
-    // give the custom font 5s to load, otherwise enable simple font visibility
+        
+<script type="text/javascript" charset="utf-8">
+    // give the custom font some time to load, otherwise enable simple font visibility
     setTimeout(function() {
         $('html').addClass('wf-fake-active');
     }, 2000);
 </script>
 <style type="text/css">
-    /* prevent visible font switching - this is also repeated in global.styl for fastspring compatibility!  */
+    /* prevent visible font switching */
     .js .wf {
         opacity: 0 !important;
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0) !important;
@@ -56,6 +57,7 @@
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100) !important;
     }
 </style>
+
 
         
 
@@ -292,11 +294,15 @@
 <div style="float:left"><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f4f2b211c2d0f54"></script></div>
     <div class="post-content"><p>If for some reason you have a pair of GPS coordinates, you can easily look them up on your iPhone to find out what they are referencing. To do this, simply open up the Maps application and type in the two coordinates, (latitude, longitude). There are several ways you can do this, the simplest is to just separate them with a comma.</p>
 
-<p>Example: 40.748342, -73.984606</p>
+<p>Example:
+40.748342, -73.984606</p>
 
-<p>Another entry mode you can use is Deg Min Sec with spaces. For example: 40 46 49 -73 58 08 will put you in Central Park.</p>
+<p>Another entry mode you can use is Deg Min Sec with spaces. For example:
+40 46 49 -73 58 08
+will put you in Central Park.</p>
 
-<p>There are several ways to accomplish this simple feature in the Maps App. However, if you are looking to find your coordinates, use the Compass app and look at the bottom in the center. There you will find a set of numbers which are actually your coordinates.</p></div>
+<p>There are several ways to accomplish this simple feature in the Maps App. However, if you are looking to find your coordinates, use the Compass app and look at the bottom in the center. There you will find a set of numbers which are actually your coordinates.</p>
+</div>
 </div>
 
 <div class="simple_overlay" id="overlay-gallery" style="display:none"> 
