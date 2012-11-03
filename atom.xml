@@ -3,9 +3,23 @@
     <title>Hints from BinaryAge</title>
     <link href="http://hints.binaryage.com/atom.xml" rel="self"/>
     <link href="http://hints.binaryage.com"/>
-    <updated>2012-11-03T04:17:00-04:00</updated>
+    <updated>2012-11-03T04:23:12-04:00</updated>
     <id>http://hints.binaryage.com/</id>
     
+    
+    <entry>
+        <title><![CDATA[Change Panorama Direction iPhone]]></title>
+        
+        <link href="http://hints.binaryage.com//change-panorama-direction-iphone"/>
+        <updated>2012-11-03T05:18:00-04:00</updated>
+        <id>hints.binaryage.com:/change-panorama-direction-iphone</id>
+        <content type="html"><![CDATA[<p>This is a small feature that many people probably do not know about. On the iPhone or any iOS device with Panorama mode, you can simply tap on the white arrow in the middle of the screen to change the direction that you sweep when in this mode. Now, you can take panoramas going from right to left in addition to the ones you can take going from left to right. Handy!</p>
+]]></content>
+        <author>
+            <name>Mark Miyashita</name>
+            <url>http://markmiyashita.com</url>
+        </author>
+    </entry>
     
     <entry>
         <title><![CDATA[Share Reminders via iCloud]]></title>
@@ -3283,6 +3297,8 @@ delete the cached video files of the download, and start the download again from
 
 <div id="post_links">
     <ul>
+        
+            <li><span>03 Nov 2012</span>  <a href="/change-panorama-direction-iphone">Change Panorama Direction iPhone</a></li>
         
             <li><span>03 Nov 2012</span>  <a href="/share-reminders-via-icloud">Share Reminders via iCloud</a></li>
         
