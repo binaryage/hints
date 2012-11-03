@@ -3,9 +3,23 @@
     <title>Hints from BinaryAge</title>
     <link href="http://hints.binaryage.com/atom.xml" rel="self"/>
     <link href="http://hints.binaryage.com"/>
-    <updated>2012-11-03T04:00:21-04:00</updated>
+    <updated>2012-11-03T04:17:00-04:00</updated>
     <id>http://hints.binaryage.com/</id>
     
+    
+    <entry>
+        <title><![CDATA[Share Reminders via iCloud]]></title>
+        
+        <link href="http://hints.binaryage.com//share-reminders-via-icloud"/>
+        <updated>2012-11-03T05:14:00-04:00</updated>
+        <id>hints.binaryage.com:/share-reminders-via-icloud</id>
+        <content type="html"><![CDATA[<p>The Reminders section of the online interface for iCloud allows you to share a reminders list with someone else. To do this, simply open up the online interface of reminders. Hover over the list you want to share on the left hand side of the screen, and click on the wifi-look-a-like symbol. Then you can enter in a friend's email address and send them your reminders list!</p>
+]]></content>
+        <author>
+            <name>Mark Miyashita</name>
+            <url>http://markmiyashita.com</url>
+        </author>
+    </entry>
     
     <entry>
         <title><![CDATA[iPad Mini Launch Day]]></title>
@@ -3269,6 +3283,8 @@ delete the cached video files of the download, and start the download again from
 
 <div id="post_links">
     <ul>
+        
+            <li><span>03 Nov 2012</span>  <a href="/share-reminders-via-icloud">Share Reminders via iCloud</a></li>
         
             <li><span>03 Nov 2012</span>  <a href="/ipad-mini-launch-day">iPad Mini Launch Day</a></li>
         
