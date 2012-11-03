@@ -3,9 +3,53 @@
     <title>Hints from BinaryAge</title>
     <link href="http://hints.binaryage.com/atom.xml" rel="self"/>
     <link href="http://hints.binaryage.com"/>
-    <updated>2012-11-03T04:48:25-04:00</updated>
+    <updated>2012-11-03T04:59:06-04:00</updated>
     <id>http://hints.binaryage.com/</id>
     
+    
+    <entry>
+        <title><![CDATA[iOS 6.1 Now Available for Developers]]></title>
+        
+        <link href="http://hints.binaryage.com//ios-6-1-now-available-for-developers"/>
+        <updated>2012-11-03T05:55:00-04:00</updated>
+        <id>hints.binaryage.com:/ios-6-1-now-available-for-developers</id>
+        <content type="html"><![CDATA[<p>Even though Apple just release iOS 6.0.1 to the general public, they have also just pushed out the iOS 6.1 beta to the developers. So far, the most notable change has been the inclusion of a button labeled "Report a problem" in the Apple Maps app. This is a welcome feature and a step towards recreating a whole new maps infrastructure. There are a bunch more minor changes as well as fixing issues with Passbook and the Lockscreen. If you have any questions, feel free to post below!</p>
+]]></content>
+        <author>
+            <name>Mark Miyashita</name>
+            <url>http://markmiyashita.com</url>
+        </author>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[How to Backup your iPhone to iCloud]]></title>
+        
+        <link href="http://hints.binaryage.com//how-to-backup-your-iphone-to-icloud"/>
+        <updated>2012-11-03T05:52:00-04:00</updated>
+        <id>hints.binaryage.com:/how-to-backup-your-iphone-to-icloud</id>
+        <content type="html"><![CDATA[<p>Backing up your iPhone to iCloud is most likely a lot easier than you think. You basically only have to have an Apple ID, set up iCloud, and then flip a switch in settings to enable automatic backups. To do this, sign in to iCloud through Settings > iCloud. Then, go to Settings > iCloud > Storage &amp; Backup > iCloud Backup = On. This will turn on the magical switch that will back up your iPhone to iCloud.</p>
+
+<p>If you have any questions about this method, please post below!</p>
+]]></content>
+        <author>
+            <name>Mark Miyashita</name>
+            <url>http://markmiyashita.com</url>
+        </author>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[iOS 6 Do Not Disturb Mode]]></title>
+        
+        <link href="http://hints.binaryage.com//ios-6-do-not-disturb-mode"/>
+        <updated>2012-11-03T05:49:00-04:00</updated>
+        <id>hints.binaryage.com:/ios-6-do-not-disturb-mode</id>
+        <content type="html"><![CDATA[<p>iOS 6 included a cool new feature called "Do Not Disturb" mode which basically does as the name implies. It places your phone in a silent, no vibrate state where it can still send and receive messages but it won't alert you of anything. This is especially useful if you are in a meeting or if you have class and you don't want to be disturbed. Personally, I use this mode at night when I want to keep my phone in a sort of "alarm only" mode.</p>
+]]></content>
+        <author>
+            <name>Mark Miyashita</name>
+            <url>http://markmiyashita.com</url>
+        </author>
+    </entry>
     
     <entry>
         <title><![CDATA[iOS 6 Keyboard Shortcuts]]></title>
@@ -3377,6 +3421,12 @@ delete the cached video files of the download, and start the download again from
 
 <div id="post_links">
     <ul>
+        
+            <li><span>03 Nov 2012</span>  <a href="/ios-6-1-now-available-for-developers">iOS 6.1 Now Available for Developers</a></li>
+        
+            <li><span>03 Nov 2012</span>  <a href="/how-to-backup-your-iphone-to-icloud">How to Backup your iPhone to iCloud</a></li>
+        
+            <li><span>03 Nov 2012</span>  <a href="/ios-6-do-not-disturb-mode">iOS 6 Do Not Disturb Mode</a></li>
         
             <li><span>03 Nov 2012</span>  <a href="/ios-6-keyboard-shprtcuts">iOS 6 Keyboard Shortcuts</a></li>
         

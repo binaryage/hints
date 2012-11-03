@@ -3,11 +3,32 @@
     
     <url>
         <loc>http://hints.binaryage.com/</loc>
-        <lastmod>2012-11-03T04:48:25-04:00</lastmod>
+        <lastmod>2012-11-03T04:59:06-04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     
+    
+    <url>
+        <loc>http://hints.binaryage.com/ios-6-1-now-available-for-developers</loc>
+        <lastmod>2012-11-03T05:55:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/how-to-backup-your-iphone-to-icloud</loc>
+        <lastmod>2012-11-03T05:52:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/ios-6-do-not-disturb-mode</loc>
+        <lastmod>2012-11-03T05:49:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
     
     <url>
         <loc>http://hints.binaryage.com/ios-6-keyboard-shprtcuts</loc>
