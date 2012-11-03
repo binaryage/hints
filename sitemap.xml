@@ -3,11 +3,18 @@
     
     <url>
         <loc>http://hints.binaryage.com/</loc>
-        <lastmod>2012-11-03T04:23:12-04:00</lastmod>
+        <lastmod>2012-11-03T04:33:23-04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     
+    
+    <url>
+        <loc>http://hints.binaryage.com/reduce-cpu-usage-by-removing-files-from-your-desktop</loc>
+        <lastmod>2012-11-03T05:26:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
     
     <url>
         <loc>http://hints.binaryage.com/change-panorama-direction-iphone</loc>
