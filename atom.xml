@@ -3,9 +3,45 @@
     <title>Hints from BinaryAge</title>
     <link href="http://hints.binaryage.com/atom.xml" rel="self"/>
     <link href="http://hints.binaryage.com"/>
-    <updated>2012-11-03T03:58:43-04:00</updated>
+    <updated>2012-11-03T04:00:21-04:00</updated>
     <id>http://hints.binaryage.com/</id>
     
+    
+    <entry>
+        <title><![CDATA[iPad Mini Launch Day]]></title>
+        
+        <link href="http://hints.binaryage.com//ipad-mini-launch-day"/>
+        <updated>2012-11-03T04:33:00-04:00</updated>
+        <id>hints.binaryage.com:/ipad-mini-launch-day</id>
+        <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="http://hints.binaryage.com/images/ipad_mini.jpg" title="iPad Mini"></p>
+
+<p>The new iPad Mini launched this Friday at local Apple Stores. Although the brick-and-mortar stores were not met with large lines of anticipation for the new product, the iPad Mini sold out very quickly online, namely, the white iPad sold out within 20 minutes!</p>
+
+<p>The new iPad Mini has a 7.9" screen with a starting price of $329. With a bezel that is a mere 7.2mm thick, this is the thinnest iPad yet. For now, the iPad Mini will not feature the retina display; however, it does feature the dual-core A5 chip that the iPad retina also has.</p>
+
+<p>Are you picking up an iPad Mini? Let us know in the comments!</p>
+]]></content>
+        <author>
+            <name>Mark Miyashita</name>
+            <url>http://markmiyashita.com</url>
+        </author>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[iPhone 5 Specific Update]]></title>
+        
+        <link href="http://hints.binaryage.com//iphone-5-specific-update"/>
+        <updated>2012-11-03T03:50:00-04:00</updated>
+        <id>hints.binaryage.com:/iphone-5-specific-update</id>
+        <content type="html"><![CDATA[<p>Apple released a small app that you can download wirelessly on your iPhone 5 so that you can update your iPhone. Wait, hasn't over-the-air updates been a feature for several releases now? The answer to that question is yes. However, Apple seems to have forgotten to include this feature in the iPhone 5 and that is what this minor update is for. You can download it via Settings > Software Update and clicking on "Read More" or you can just plug into iTunes. Then you can download the new iOS 6.0.1 right after and have your iPhone be completely updated.</p>
+
+<p>If you have any questions, feel free to post in the comments below!</p>
+]]></content>
+        <author>
+            <name>Mark Miyashita</name>
+            <url>http://markmiyashita.com</url>
+        </author>
+    </entry>
     
     <entry>
         <title><![CDATA[iOS 6 Exchange Mail Fix]]></title>
@@ -3233,6 +3269,10 @@ delete the cached video files of the download, and start the download again from
 
 <div id="post_links">
     <ul>
+        
+            <li><span>03 Nov 2012</span>  <a href="/ipad-mini-launch-day">iPad Mini Launch Day</a></li>
+        
+            <li><span>03 Nov 2012</span>  <a href="/iphone-5-specific-update">iPhone 5 Specific Update</a></li>
         
             <li><span>30 Sep 2012</span>  <a href="/ios-6-exchange-mail-fix">iOS 6 Exchange Mail Fix</a></li>
         

@@ -3,11 +3,25 @@
     
     <url>
         <loc>http://hints.binaryage.com/</loc>
-        <lastmod>2012-11-03T03:58:43-04:00</lastmod>
+        <lastmod>2012-11-03T04:00:21-04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     
+    
+    <url>
+        <loc>http://hints.binaryage.com/ipad-mini-launch-day</loc>
+        <lastmod>2012-11-03T04:33:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hints.binaryage.com/iphone-5-specific-update</loc>
+        <lastmod>2012-11-03T03:50:00-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
     
     <url>
         <loc>http://hints.binaryage.com/ios-6-exchange-mail-fix</loc>
