@@ -11,7 +11,7 @@ date: 2012-03-07 09:37:00 -8
 For reasons unbeknownst to the public, with the release of Mac OS X Lion, Apple decided to make dashboard into a space by default. To remove this annoying setting we will follow a few steps.
 
 Here is a screenshot to show you what to uncheck: 
-<img class="clear blog-image-full-border" src="{{site.url}}/images/disable_dashboard.png" title="Dashboard options">
+<img class="clear blog-image-full-border" src="/images/disable_dashboard.png" title="Dashboard options">
 
 Step 1) Open System Preferences (dock icon or spotlight)
 

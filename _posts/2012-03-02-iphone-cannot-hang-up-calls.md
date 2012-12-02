@@ -12,4 +12,4 @@ From as early on as iOS 4 up until the current iOS 5.0.1, this problem has found
 
 Step 1) Hard reset your phone by holding down the home and the sleep/wake button at the same time until you see the Apple logo appear.
 
-Step 2) If that didn't work, you will have to restore your iPhone using this guide <a href="{{site.url}}/how-to-restore-your-iphone-ipod-touch-or-ipad/">here</a>. Be sure to set up your iPhone as a new phone, if you set it up from a backup, you will inevitably have the same problems.
+Step 2) If that didn't work, you will have to restore your iPhone using this guide <a href="/how-to-restore-your-iphone-ipod-touch-or-ipad/">here</a>. Be sure to set up your iPhone as a new phone, if you set it up from a backup, you will inevitably have the same problems.

@@ -16,4 +16,4 @@ Step 2) After it is done syncing, go back to the "Apps" tab of your device in iT
 
 Step 3) If that did not fix the problem, repeat those steps on the Music tab and the Movies/TV Shows tab.
 
-Step 4) Last but not least, if those solutions did not solve your problem, then you will have to initiate a restore on your device. To do this, follow the guide posted <a href="{{site.url}}/how-to-restore-your-iphone-ipod-touch-or-ipad/">here.</a> This will fix all problems associated with the "Other" data on your device.
+Step 4) Last but not least, if those solutions did not solve your problem, then you will have to initiate a restore on your device. To do this, follow the guide posted <a href="/how-to-restore-your-iphone-ipod-touch-or-ipad/">here.</a> This will fix all problems associated with the "Other" data on your device.

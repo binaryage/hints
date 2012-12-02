@@ -19,13 +19,13 @@ Step 2) Remove your password from your device by going to Settings > General > P
 Step 3) Plug in your device and back it up using iTunes.
 
 Step 4) Open Absinthe with your device plugged in. You should see this screen, press Jailbreak.
-<img class="clear blog-image-full-border" src="{{site.url}}/images/absinthe.png" title="Absinthe">
+<img class="clear blog-image-full-border" src="/images/absinthe.png" title="Absinthe">
 
 Step 5) Unplug your device and open the Absinthe app on your home screen. A black screen will appear and restart your phone. If your device pops up with a white screen and says, "Error establishing a database connection" follow step 5a.
 
 Step 5a) Go to Settings, turn on VPN and wait. VPN should error and then it will reboot like normal. If it does not, rerun Absinthe.
 
-Step 6) If you are waiting for an unlock, do not jailbreak and restore iOS 5.0 to your 4s using this guide <a href="{{site.url}}/how-to-restore-your-iphone-ipod-touch-or-ipad/">here</a>.
+Step 6) If you are waiting for an unlock, do not jailbreak and restore iOS 5.0 to your 4s using this guide <a href="/how-to-restore-your-iphone-ipod-touch-or-ipad/">here</a>.
 
 If you are having issues, @planetbeing just posted this on Twitter. Give it a try!
 <blockquote>Running Absinthe from Terminal seems to fix issues for some people: cd to where the app is and ./Absinthe.app/Contents/MacOS/Absinthe</blockquote>
@@ -33,4 +33,4 @@ If you are having issues, @planetbeing just posted this on Twitter. Give it a tr
 
 Post a comment below if you have any trouble!
 
-UPDATE: Windows version out. Guide <a href="{{site.url}}/how-to-jailbreak-iphone-4s-and-ipad-2-running-ios-5-0-or-5-0-1-windows-update/">here.</a>
+UPDATE: Windows version out. Guide <a href="/how-to-jailbreak-iphone-4s-and-ipad-2-running-ios-5-0-or-5-0-1-windows-update/">here.</a>

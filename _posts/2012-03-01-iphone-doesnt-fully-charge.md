@@ -16,6 +16,6 @@ Step 2) Use the phone until the battery runs down to 0% and shuts itself off. Th
 
 Step 3) When the charging icon changes to fully charged and it is not at 100% yet, simply unplugging the device and then replugging it in will allow it to charge up to 100%.
 
-Step 4) Restore your iPhone using this guide <a href="{{site.url}}/how-to-restore-your-iphone-ipod-touch-or-ipad/">here</a>.
+Step 4) Restore your iPhone using this guide <a href="/how-to-restore-your-iphone-ipod-touch-or-ipad/">here</a>.
 
 Step 5) Finally, sometimes with new hardware, it takes a few days/weeks to correctly calibrate the battery. You should notice that after a few weeks, the battery readouts will be more accurate and be charged fully up to 100%.

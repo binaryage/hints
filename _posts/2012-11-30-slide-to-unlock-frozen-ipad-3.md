@@ -8,7 +8,7 @@ google_plus: 101180624276428786239
 date: 2012-11-30 00:18:00 -8
 ---
 
-<img class="clear blog-image-full-border" src="{{site.url}}/images/slidetounlock.png" title="Slide to Unlock">
+<img class="clear blog-image-full-border" src="/images/slidetounlock.png" title="Slide to Unlock">
 
 A lot of reports have surfaced on the internet concerning issues with the "Slide to Unlock" part of the home screen on iPad 3s being frozen. It mainly happens when you restart your iPad, you go to unlock it and you can't do anything on the screen. Normally, people would suggest just to restart your iPad, but then the same issue happens again and again because the restart is what triggers the error. 
 

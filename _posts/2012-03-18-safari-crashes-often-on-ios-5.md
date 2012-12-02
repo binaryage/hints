@@ -18,4 +18,4 @@ Step 3) For a few users, upgrading to the newest iOS version can also solve your
 
 Step 4) Turn off all iCloud syncing by going to Settings > iCloud and tapping "Delete Account" at the bottom of the screen. If this fixes your problem, feel free to try and re-add your iCloud account, however, your mileage may vary.
 
-Step 5) If none of these solutions work, you will have to restore your device following this guide <a href="{{site.url}}/how-to-restore-your-iphone-ipod-touch-or-ipad/">here.</a> It is a good idea to set up your iDevice as new in order to avoid the crashing problem from reappearing. 
+Step 5) If none of these solutions work, you will have to restore your device following this guide <a href="/how-to-restore-your-iphone-ipod-touch-or-ipad/">here.</a> It is a good idea to set up your iDevice as new in order to avoid the crashing problem from reappearing. 

@@ -30,7 +30,7 @@ Step 8) Disable Email accounts by heading to Settings > Mail, Contacts, Calendar
 
 Step 9) Make sure you are running the latest version of iOS. As of the time of this writing, the latest version is 5.0.1.
 
-Step 10) Backup your iPhone and do a complete restore <a href="{{site.url}}/how-to-restore-your-iphone-ipod-touch-or-ipad/">(guide here)</a>. You can either set up your iPhone as a new device for complete freedom from previous bugs, or you can risk the battery issue again by restoring from a backup. Your choice.
+Step 10) Backup your iPhone and do a complete restore <a href="/how-to-restore-your-iphone-ipod-touch-or-ipad/">(guide here)</a>. You can either set up your iPhone as a new device for complete freedom from previous bugs, or you can risk the battery issue again by restoring from a backup. Your choice.
 
 Step 11) Setting your mail accounts to Fetch. Go to Settings > Mail, Calendar, Contacts > Fetch new data > Turn off Push and set fetch to manually. Then click on Advanced and set all accounts to Fetch.
 
@@ -40,7 +40,7 @@ Step 13) Set your brightness down to 50%. Also, turn Auto Brightness to OFF, kee
 
 Step 14) If you are running on a 4s and seldom use Siri, or just want to use her less often, Settings > General > Siri = Turn off Raise to Speak.
 
-Step 15) Update to the beta 3 of iOS 5.1. This update has fixed virtually all issues with battery problems on iPhone 4S. Guide <a href="{{site.url}}/how-to-update-iphone-4s-to-ios-5-1-beta-3/">here.</a>
+Step 15) Update to the beta 3 of iOS 5.1. This update has fixed virtually all issues with battery problems on iPhone 4S. Guide <a href="/how-to-update-iphone-4s-to-ios-5-1-beta-3/">here.</a>
 
 Please post any other solutions you have found in the comments below. Also, feel free to rant about battery performance because the more we lash out at Apple by creating these support forums, the more press they will receive about the issue.
 
