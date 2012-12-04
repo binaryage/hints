@@ -148,28 +148,28 @@
                         <li><p>merge OSX 2 into OSX via command-line:</p></li>
                       </ol>
                       <pre><code>~ ➔ diskutil list
-                          /dev/disk0
-                          #: TYPE NAME SIZE IDENTIFIER
-                          0: GUID_partition_scheme *251.0 GB disk0
-                          1: EFI 209.7 MB disk0s1
-                          2: Apple_HFS OSX 175.0 GB disk0s2
-                          3: Apple_HFS OSX 2 75.0 GB disk0s3
-                          4: Apple_Boot Recovery HD 650.0 MB disk0s4
-                          ~ ➔ diskutil mergePartitions JHFS+ not disk0s2 disk0s3
-                          Merging partitions into a new partition
-                          Start partition: disk0s2 OSX
-                          Finish partition: disk0s3 OSX 2
-                          Started partitioning on disk0
-                          Merging partitions
-                          Waiting for the disks to reappear
-                          Growing disk
-                          Finished partitioning on disk0
-                          /dev/disk0
-                          #: TYPE NAME SIZE IDENTIFIER
-                          0: GUID_partition_scheme *251.0 GB disk0
-                          1: EFI 209.7 MB disk0s1
-                          2: Apple_HFS OSX 250.1 GB disk0s2
-                          3: Apple_Boot Recovery HD 650.0 MB disk0s4
+/dev/disk0
+#:                       TYPE NAME                    SIZE       IDENTIFIER
+0:      GUID_partition_scheme                        *251.0 GB   disk0
+1:                        EFI                         209.7 MB   disk0s1
+2:                  Apple_HFS OSX                     175.0 GB   disk0s2
+3:                  Apple_HFS OSX 2                   75.0 GB    disk0s3
+4:                 Apple_Boot Recovery HD             650.0 MB   disk0s4
+~ ➔ diskutil mergePartitions JHFS+ not disk0s2 disk0s3
+Merging partitions into a new partition
+Start partition: disk0s2 OSX
+Finish partition: disk0s3 OSX 2
+Started partitioning on disk0
+Merging partitions
+Waiting for the disks to reappear
+Growing disk
+Finished partitioning on disk0
+/dev/disk0
+#:                       TYPE NAME                    SIZE       IDENTIFIER
+0:      GUID_partition_scheme                        *251.0 GB   disk0
+1:                        EFI                         209.7 MB   disk0s1
+2:                  Apple_HFS OSX                     250.1 GB   disk0s2
+3:                 Apple_Boot Recovery HD             650.0 MB   disk0s4
                       </code></pre>
                       <p>In step 3 you have to use <code>diskutil list</code> to read identifiers of OSX and OSX 2 partitions. If you did all right, <strong>you must see OSX, OSX 2 and Recovery HD in this exact order</strong> somewhere in the list. By executing<code>diskutil mergePartitions</code> you merge OSX 2 into OSX (and lose content of the newly created partition OSX 2). You have to end up with OSX immediatelly followed by Recovery HD.</p>
                       <h4>Notes</h4>

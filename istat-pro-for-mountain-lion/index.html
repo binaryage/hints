@@ -128,23 +128,23 @@
                       <p>Step 5) Find the two files, Tall.js and Wide.js. In Tall.js, we will navigate to lines 548 and 550. Find the section that looks exactly like what is shown below:</p>
                       <div>
                         <pre><code class='javascript'>if(p.v(&quot;processes_sort_mode&quot;) == 'cpu')
-                            widget.system('ps -arcwwwxo &quot;pid %cpu command&quot; | egrep &quot;PID|$1&quot; | grep -v grep | ' + exclude + ' head -7 | tail -6 | awk \'{print &quot;&lt;pid&gt;&quot;$1&quot;&lt;/pid&gt;&lt;cpu&gt;&quot;$2&quot;&lt;/cpu&gt;&lt;name&gt;&quot;$3,$4,$5&quot;&lt;/name&gt;&lt;/item&gt;&quot;}\'', function(data){ _self.updateProcessesOut(data);});
-                            else
-                            widget.system('ps -amcwwwxo &quot;pid rss command&quot; | egrep &quot;PID|$1&quot; | grep -v grep | ' + exclude + ' head -7 | tail -6 | awk \'{print &quot;&lt;pid&gt;&quot;$1&quot;&lt;/pid&gt;&lt;cpu&gt;&quot;$2&quot;&lt;/cpu&gt;&lt;name&gt;&quot;$3,$4,$5&quot;&lt;/name&gt;&lt;/item&gt;&quot;}\'', function(data){ _self.updateProcessesOut(data);});
+widget.system('ps -arcwwwxo &quot;pid %cpu command&quot; | egrep &quot;PID|$1&quot; | grep -v grep | ' + exclude + ' head -7 | tail -6 | awk \'{print &quot;&lt;pid&gt;&quot;$1&quot;&lt;/pid&gt;&lt;cpu&gt;&quot;$2&quot;&lt;/cpu&gt;&lt;name&gt;&quot;$3,$4,$5&quot;&lt;/name&gt;&lt;/item&gt;&quot;}\'', function(data){ _self.updateProcessesOut(data);});
+else
+widget.system('ps -amcwwwxo &quot;pid rss command&quot;  | egrep &quot;PID|$1&quot; | grep -v grep | ' + exclude + ' head -7 | tail -6 | awk \'{print &quot;&lt;pid&gt;&quot;$1&quot;&lt;/pid&gt;&lt;cpu&gt;&quot;$2&quot;&lt;/cpu&gt;&lt;name&gt;&quot;$3,$4,$5&quot;&lt;/name&gt;&lt;/item&gt;&quot;}\'', function(data){ _self.updateProcessesOut(data);});
                         }</code></pre>
                       </div>
                       <p>Notice the two parts that read:
                         <code>
-                          egrep "PID|$1"
+egrep "PID|$1"
                       </code></p>
                       <p>Simply add a space between the pipe and the dollar sign as follows:
                         <code>
-                          egrep "PID| $1"
+egrep "PID| $1"
                       </code></p>
                       <p>That's it! Make those two changes and then save the file. For the Wide.js, the same two lines can be found at 609 and 611 (make the same changes).</p>
                       <p>Step 6) After you have successfully made the changes to the code, open up a Terminal window (Applications > Utilities > Terminal) and type in:
                         <code>
-                          killall Dock
+killall Dock
                       </code></p>
                       <p>Now you should have a functioning iStat Pro installation that works on Mountain Lion! Great!</p>
                       <p><img class="clear blog-image-full-border" src="http://static.binaryage.com/7ac3fb07_images_istat3.png" title="iStat Pro"/></p>
