@@ -3,9 +3,33 @@
     <title>Hints from BinaryAge</title>
     <link href="http://hints.binaryage.com/atom.xml" rel="self"/>
     <link href="http://hints.binaryage.com"/>
-    <updated>2012-12-04T18:31:21-05:00</updated>
+    <updated>2012-12-13T00:10:47-05:00</updated>
     <id>http://hints.binaryage.com/</id>
     
+    
+    <entry>
+        <title><![CDATA[Google Maps for iOS Download]]></title>
+        
+        <link href="http://hints.binaryage.com//google-maps-for-ios-download"/>
+        <updated>2012-12-12T23:59:00-05:00</updated>
+        <id>hints.binaryage.com:/google-maps-for-ios-download</id>
+        <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="http://hints.binaryage.com/images/google_maps_download.png" title="Google Maps for iOS"></p>
+
+<p>The new version of Google Maps for iOS is here! <a href="https://itunes.apple.com/us/app/google-maps/id585027354?mt=8">You can head over to the App Store and get it right now!</a></p>
+
+<p>The interface has a very Google+ like experience and the actual navigation system emulates the simplified interface trend that Apple Maps has continued. The result is a simplified experience with directions that actually get you to where you want to go. And...the best part is public transportation which is back on iOS devices in a mobile app!</p>
+
+<p><img class="clear blog-image-border" src="http://hints.binaryage.com/images/ios_google_maps.png" title="Google Maps for iOS"></p>
+
+<p>If you are having issues downloading the app, I would suggest first visiting <a href="https://itunes.apple.com/us/app/google-maps/id585027354?mt=8">this link</a> on your computer to download the app. Then on your iOS device, I would search for a Google product, scroll down to the bottom where it says "Developer Info" and then scroll down to the bottom of that to download "Google Maps".</p>
+
+<p>Hope you are able to download the app and enjoy the newly added Google Maps app. I know I will be using this a lot in the upcoming holiday season!</p>
+]]></content>
+        <author>
+            <name>Mark Miyashita</name>
+            <url>http://markmiyashita.com</url>
+        </author>
+    </entry>
     
     <entry>
         <title><![CDATA[iPhone Rattle Near Camera]]></title>
@@ -3480,6 +3504,8 @@ delete the cached video files of the download, and start the download again from
 
 <div id="post_links">
     <ul>
+        
+            <li><span>12 Dec 2012</span>  <a href="/google-maps-for-ios-download">Google Maps for iOS Download</a></li>
         
             <li><span>30 Nov 2012</span>  <a href="/iphone-rattle-near-camera">iPhone Rattle Near Camera</a></li>
         
