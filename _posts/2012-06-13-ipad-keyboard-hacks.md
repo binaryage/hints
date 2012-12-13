@@ -8,7 +8,7 @@ google_plus: 101180624276428786239
 date: 2012-06-13 17:00:00 -8
 ---
 
-<img class="clear blog-image-full-border" src="{{site.url}}/images/ipad_keyboard.png" title="iPad Keyboard">
+<img class="clear blog-image-full-border" src="/images/ipad_keyboard.png" title="iPad Keyboard">
 
 Did you know that the option above existed on iOS (specifically the iPad)?
 

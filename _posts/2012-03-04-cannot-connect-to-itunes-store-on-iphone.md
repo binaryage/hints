@@ -20,7 +20,7 @@ Step 4) Close the app, and you should now be able to access the App Store on you
 
 Step 5) If the iBooks solution did not work, go to iTunes and sync and back up your phone.
 
-Step 6) Restore your iPhone using this guide <a href="{{site.url}}/how-to-restore-your-iphone-ipod-touch-or-ipad/">here</a>.
+Step 6) Restore your iPhone using this guide <a href="/how-to-restore-your-iphone-ipod-touch-or-ipad/">here</a>.
 
 Step 7) Set the phone up as a new device to be sure that the problem will go away, or restore from a backup if you are feeling confident about this solution.
 

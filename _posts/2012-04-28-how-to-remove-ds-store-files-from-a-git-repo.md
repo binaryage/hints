@@ -11,7 +11,7 @@ date: 2012-04-27 23:50:00 -8
 Whether you are a new or experienced git user, at one point in your git career using a Mac, you stumbled upon the fabled .DS_Store file. This little file is a "Desktop Services Store" that contains attributes of a folder and is created every single time a folder is navigated to. Man, that's a lot of .DS_Store files. For the average Mac user, these files are never seen because they are hidden. However, any git user will know that annoying feeling when they notice that a pesky .DS_Store file has crept its way into their repo. Here is a tutorial on how to solve this problem, once and for all.
 
 A sample .DS_Store file for those who may not know what they look like:
-<img class="clear blog-image-full-border" src="{{site.url}}/images/dsstore.png" title=".DS_Store">
+<img class="clear blog-image-full-border" src="/images/dsstore.png" title=".DS_Store">
 
 Step 1) If you would like to see .DS_Store files, download and use [TotalFinder][TotalFinder] which has a very easy method for viewing hidden files. There are other methods involving Terminal, but TotalFinder makes it easy (it's a preference and even has a keyboard shortcut!).
 

@@ -18,7 +18,7 @@ Step 3) Select Accounts and press the plus symbol in the bottom left corner.
 
 Step 4) Under Account Type, select Google.
 
-<img class="clear blog-image-full-border" src="{{site.url}}/images/ical.png" title="iCal Preferences">
+<img class="clear blog-image-full-border" src="/images/ical.png" title="iCal Preferences">
 
 Step 5) Enter in your Google credentials. If you have two-step verification set up on your account, follow the link above in order to get an application specific password for iCal.
 

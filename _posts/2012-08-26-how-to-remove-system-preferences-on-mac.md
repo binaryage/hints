@@ -14,11 +14,11 @@ Step 1) Open up System Preferences in one of three ways either through the Apple
 
 Step 2) Under View, click Customize. This will make a bunch of checkmarks appear next to each of the preference panes.
 
-<img class="clear blog-image-full-border" src="{{site.url}}/images/customize_preferences1.png" title="System Preferences">
+<img class="clear blog-image-full-border" src="/images/customize_preferences1.png" title="System Preferences">
 
 Step 3) Uncheck the ones that you don't want to show up anymore. Don't worry, you aren't removing them, just hiding them. You can still access them by searching in the top right hand corner of the System Preferences window.
 
-<img class="clear blog-image-full-border" src="{{site.url}}/images/customize_preferences.png" title="System Preferences">
+<img class="clear blog-image-full-border" src="/images/customize_preferences.png" title="System Preferences">
 
 Step 4) If you ever want to add those panes back, simply recheck them under View > Customize and your preferences will return.
 

@@ -29,4 +29,4 @@ Step 2) Open iTunes and hold down Shift on Windows or Option on Mac and click on
 
 Step 3) A window will open in which you can chose your firmware to downgrade to.
 
-Step 4) Now you can jailbreak the firmware that you just installed. If this device is not an iPhone 4S or iPad 2, follow the guide <a href="{{site.url}}/how-to-jailbreak-iphone-4-ipod-touch-4th-generation-ipad-iphone-3gs-untethered/">here</a>. If it is, I will have a guide up shortly.
+Step 4) Now you can jailbreak the firmware that you just installed. If this device is not an iPhone 4S or iPad 2, follow the guide <a href="/how-to-jailbreak-iphone-4-ipod-touch-4th-generation-ipad-iphone-3gs-untethered/">here</a>. If it is, I will have a guide up shortly.

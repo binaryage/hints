@@ -16,7 +16,7 @@ Step 1) Open the YouTube video that you want to download.
 
 Step 2) Open Safari's Activity Window by pressing Command-Option-A or by selecting Window in the menu bar and then selecting Activity. You should see this window below.
 
-<img class="clear blog-image-full-border" src="{{site.url}}/images/download_youtube.png" title="Activity Window">
+<img class="clear blog-image-full-border" src="/images/download_youtube.png" title="Activity Window">
 
 Step 3) Find the tab for the YouTube video that you are watching and expand it.
 

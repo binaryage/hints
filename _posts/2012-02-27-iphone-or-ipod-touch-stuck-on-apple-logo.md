@@ -14,4 +14,4 @@ Step 1) Plug in your iDevice into your computer using the USB cable.
 
 Step 2) Press and hold the sleep/wake button and the home button simultaneously. Continue holding until the screen turns black and keep holding until the Apple logo reappears.
 
-Step 3) If this does not work and the iDevice is still frozen on the Apple boot screen, follow the instructions <a href="{{site.url}}/how-to-put-your-iphone-in-dfu-mode/">here</a> on how to put your iDevice into DFU mode and then from there, restore your iDevice using the <a href="{{site.url}}/how-to-restore-your-iphone-ipod-touch-or-ipad/">guide here</a>.
+Step 3) If this does not work and the iDevice is still frozen on the Apple boot screen, follow the instructions <a href="/how-to-put-your-iphone-in-dfu-mode/">here</a> on how to put your iDevice into DFU mode and then from there, restore your iDevice using the <a href="/how-to-restore-your-iphone-ipod-touch-or-ipad/">guide here</a>.

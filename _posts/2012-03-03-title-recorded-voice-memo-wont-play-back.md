@@ -14,7 +14,7 @@ Step 1) Download iExplorer <a href="http://www.macroplant.com/iexplorer/">here</
 
 Step 2) Open iExplorer and navigate to your Voice Memos folder called "Recordings" on your iPod Touch or iPhone.
 
-<img class="clear blog-image-full-border" src="{{site.url}}/images/voicememos.png" title="iExplorer Voice Memos">
+<img class="clear blog-image-full-border" src="/images/voicememos.png" title="iExplorer Voice Memos">
 
 Step 3) Copy that file to your desktop by dragging it.
 

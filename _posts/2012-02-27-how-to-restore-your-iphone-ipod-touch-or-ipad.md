@@ -10,7 +10,7 @@ date: 2012-02-27 08:09:00 -8
 
 If your iPhone or other iDevice has frozen, is in need of a major software update, or is running very slowly, then you may need to restore it back to factory settings. There are generally two options: one, you can restore as a new device, which is what I recommend; two, you can restore from a backup, which solves some problems, but not all. Follow the steps below for both solutions.
 
-<img class="clear blog-image-full-border" src="{{site.url}}/images/restore_itunes.png" title="Restore iTunes">
+<img class="clear blog-image-full-border" src="/images/restore_itunes.png" title="Restore iTunes">
 
 Step 1) Plug in your device and open iTunes.
 

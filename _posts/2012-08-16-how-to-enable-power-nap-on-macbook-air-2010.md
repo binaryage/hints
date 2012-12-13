@@ -8,7 +8,7 @@ google_plus: 101180624276428786239
 date: 2012-08-16 23:38:00 -8
 ---
 
-<img class="clear blog-image-full-border" src="{{site.url}}/images/power_nap.png" title="MacBook Air Power Nap">
+<img class="clear blog-image-full-border" src="/images/power_nap.png" title="MacBook Air Power Nap">
 
 Apple has not publicly released the installation files necessary to enable Power Nap on the MacBook Air (late 2010) however, they do have the files freely available online! Downloading one of the following packages will allow you to enable the power nap setting under Energy Saver in System Preferences. Simply downlod the file and follow the on-screen instructions.
 

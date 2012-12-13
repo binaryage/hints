@@ -10,19 +10,19 @@ date: 2012-09-10 01:26:00 -8
 
 With the recent "zero-day exploit" found for Oracle's Java, a few of you out there might want to disable Java in your browser because of the possibility of being hacked. Here are the steps to block Java from loading in your Google Chrome web browser.
 
-<img class="clear blog-image-full-border" src="{{site.url}}/images/java1.png" title="Disable Java on Chrome">
+<img class="clear blog-image-full-border" src="/images/java1.png" title="Disable Java on Chrome">
 
 Step 1) Open up Google Chrome and go to Preferences. Click on Advanced Preferences as shown in the picture above.
 
-<img class="clear blog-image-full-border" src="{{site.url}}/images/java2.png" title="Disable Java on Chrome">
+<img class="clear blog-image-full-border" src="/images/java2.png" title="Disable Java on Chrome">
 
 Step 2) Scroll down to the Privacy heading and click on Content Settings as shown above.
 
-<img class="clear blog-image-full-border" src="{{site.url}}/images/java3.png" title="Disable Java on Chrome">
+<img class="clear blog-image-full-border" src="/images/java3.png" title="Disable Java on Chrome">
 
 Step 3) Under Plug-ins, click on Disable Individual Plug-ins.
 
-<img class="clear blog-image-full-border" src="{{site.url}}/images/java4.png" title="Disable Java on Chrome">
+<img class="clear blog-image-full-border" src="/images/java4.png" title="Disable Java on Chrome">
 
 Step 4) Lastly, find the Java plugin and click on the Disable link, as shown above.
 

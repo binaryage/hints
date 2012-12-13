@@ -10,7 +10,7 @@ date: 2012-07-17 01:34:00 -8
 
 Today, Apple released the third beta of iOS 6 to its developers who have long been awaiting an update. What did the update have in store? Read on to find out more about the update and even a download link!
 
-<img class="clear blog-image-full-border" src="{{site.url}}/images/ios-beta-3.png" title="iOS 6 Beta 3">
+<img class="clear blog-image-full-border" src="/images/ios-beta-3.png" title="iOS 6 Beta 3">
 
 In this iteration, Apple has included updates to several aspects that define the user experience.
 
