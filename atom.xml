@@ -3,7 +3,7 @@
     <title>Hints from BinaryAge</title>
     <link href="http://hints.binaryage.com/atom.xml" rel="self"/>
     <link href="http://hints.binaryage.com"/>
-    <updated>2012-12-13T00:17:08-05:00</updated>
+    <updated>2013-06-19T22:53:33-04:00</updated>
     <id>http://hints.binaryage.com/</id>
     
     
@@ -591,9 +591,9 @@ Stuart Bell is a Mac user who believes in making life better with latest and mos
 <p>My router is a TimeMachine box (Airport Extreme). Here are the steps which worked for me:</p>
 
 <ol>
-<li>Used <code>AirPort Utily</code> on my Mac to restart the router</li>
-<li>in iOS 6: Settings -> General -> Reset -> Reset Network Settings</li>
-<li>in iOS 6: Settings -> General -> Reset -> Reset All Settings</li>
+<li> Used <code>AirPort Utily</code> on my Mac to restart the router</li>
+<li> in iOS 6: Settings -> General -> Reset -> Reset Network Settings</li>
+<li> in iOS 6: Settings -> General -> Reset -> Reset All Settings</li>
 </ol>
 
 
@@ -707,16 +707,16 @@ Stuart Bell is a Mac user who believes in making life better with latest and mos
 <h4>Prerequisities:</h4>
 
 <ol>
-<li>installation disk for Lion (or "Install Mac OS X Lion" app, downloaded from the App Store)</li>
-<li>at least 8 GB of free space on your "OSX" partition (needed for a clean OS X installation)</li>
-<li>your "OSX" partition is formatted with resizeable filesystem (Journaled HFS+ is fine)</li>
+<li> installation disk for Lion (or "Install Mac OS X Lion" app, downloaded from the App Store)</li>
+<li> at least 8 GB of free space on your "OSX" partition (needed for a clean OS X installation)</li>
+<li> your "OSX" partition is formatted with resizeable filesystem (Journaled HFS+ is fine)</li>
 </ol>
 
 
 <h4>Steps:</h4>
 
 <ol>
-<li><p>use <code>Disk Utility.app</code> to:</p>
+<li><p> use <code>Disk Utility.app</code> to:</p>
 
 <ol>
 <li>shrink OSX partion by 8 GB (or more)</li>
@@ -724,21 +724,19 @@ Stuart Bell is a Mac user who believes in making life better with latest and mos
 <li>make sure both partitions have format: Journaled HFS+ (JHFS+)</li>
 </ol>
 </li>
-<li><p>start installing Lion on newly created OSX 2 partition</p>
+<li><p> start installing Lion on newly created OSX 2 partition</p>
 
 <ol>
 <li>let computer reboot first time to finish copying</li>
 <li>during second reboot hold Option key and boot into old OSX (we don't need to finish OSX 2 installation)</li>
 </ol>
 </li>
-<li><p>merge OSX 2 into OSX via command-line:</p></li>
-</ol>
+<li><p> merge OSX 2 into OSX via command-line:</p>
 
-
-<pre><code>~ ➔ diskutil list
+<p>~ ➔ diskutil list
 /dev/disk0
    #:                       TYPE NAME                    SIZE       IDENTIFIER
-   0:      GUID_partition_scheme                        *251.0 GB   disk0
+   0:      GUID_partition_scheme                        <em>251.0 GB   disk0
    1:                        EFI                         209.7 MB   disk0s1
    2:                  Apple_HFS OSX                     175.0 GB   disk0s2
    3:                  Apple_HFS OSX 2                   75.0 GB    disk0s3
@@ -754,11 +752,12 @@ Growing disk
 Finished partitioning on disk0
 /dev/disk0
    #:                       TYPE NAME                    SIZE       IDENTIFIER
-   0:      GUID_partition_scheme                        *251.0 GB   disk0
+   0:      GUID_partition_scheme                        </em>251.0 GB   disk0
    1:                        EFI                         209.7 MB   disk0s1
    2:                  Apple_HFS OSX                     250.1 GB   disk0s2
-   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s4
-</code></pre>
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s4</p></li>
+</ol>
+
 
 <p>In step 3 you have to use <code>diskutil list</code> to read identifiers of OSX and OSX 2 partitions. If you did all right, <strong>you must see OSX, OSX 2 and Recovery HD in this exact order</strong> somewhere in the list. By executing<code>diskutil mergePartitions</code> you merge OSX 2 into OSX (and lose content of the newly created partition OSX 2). You have to end up with OSX immediatelly followed by Recovery HD.</p>
 
@@ -805,13 +804,12 @@ Finished partitioning on disk0
 
 <p>Step 5) Find the two files, Tall.js and Wide.js. In Tall.js, we will navigate to lines 548 and 550. Find the section that looks exactly like what is shown below:</p>
 
-<div>
-  <pre><code class='javascript'>if(p.v(&quot;processes_sort_mode&quot;) == 'cpu')
-    widget.system('ps -arcwwwxo &quot;pid %cpu command&quot; | egrep &quot;PID|$1&quot; | grep -v grep | ' + exclude + ' head -7 | tail -6 | awk \'{print &quot;&lt;pid&gt;&quot;$1&quot;&lt;/pid&gt;&lt;cpu&gt;&quot;$2&quot;&lt;/cpu&gt;&lt;name&gt;&quot;$3,$4,$5&quot;&lt;/name&gt;&lt;/item&gt;&quot;}\'', function(data){ _self.updateProcessesOut(data);});
-else
-    widget.system('ps -amcwwwxo &quot;pid rss command&quot;  | egrep &quot;PID|$1&quot; | grep -v grep | ' + exclude + ' head -7 | tail -6 | awk \'{print &quot;&lt;pid&gt;&quot;$1&quot;&lt;/pid&gt;&lt;cpu&gt;&quot;$2&quot;&lt;/cpu&gt;&lt;name&gt;&quot;$3,$4,$5&quot;&lt;/name&gt;&lt;/item&gt;&quot;}\'', function(data){ _self.updateProcessesOut(data);});
-}</code></pre>
-</div>
+<div class="highlight"><pre><code class="javascript"><span class="k">if</span><span class="p">(</span><span class="nx">p</span><span class="p">.</span><span class="nx">v</span><span class="p">(</span><span class="s2">&quot;processes_sort_mode&quot;</span><span class="p">)</span> <span class="o">==</span> <span class="s1">&#39;cpu&#39;</span><span class="p">)</span>
+    <span class="nx">widget</span><span class="p">.</span><span class="nx">system</span><span class="p">(</span><span class="s1">&#39;ps -arcwwwxo &quot;pid %cpu command&quot; | egrep &quot;PID|$1&quot; | grep -v grep | &#39;</span> <span class="o">+</span> <span class="nx">exclude</span> <span class="o">+</span> <span class="s1">&#39; head -7 | tail -6 | awk \&#39;{print &quot;&lt;pid&gt;&quot;$1&quot;&lt;/pid&gt;&lt;cpu&gt;&quot;$2&quot;&lt;/cpu&gt;&lt;name&gt;&quot;$3,$4,$5&quot;&lt;/name&gt;&lt;/item&gt;&quot;}\&#39;&#39;</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">data</span><span class="p">){</span> <span class="nx">_self</span><span class="p">.</span><span class="nx">updateProcessesOut</span><span class="p">(</span><span class="nx">data</span><span class="p">);});</span>
+<span class="k">else</span>
+    <span class="nx">widget</span><span class="p">.</span><span class="nx">system</span><span class="p">(</span><span class="s1">&#39;ps -amcwwwxo &quot;pid rss command&quot;  | egrep &quot;PID|$1&quot; | grep -v grep | &#39;</span> <span class="o">+</span> <span class="nx">exclude</span> <span class="o">+</span> <span class="s1">&#39; head -7 | tail -6 | awk \&#39;{print &quot;&lt;pid&gt;&quot;$1&quot;&lt;/pid&gt;&lt;cpu&gt;&quot;$2&quot;&lt;/cpu&gt;&lt;name&gt;&quot;$3,$4,$5&quot;&lt;/name&gt;&lt;/item&gt;&quot;}\&#39;&#39;</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">data</span><span class="p">){</span> <span class="nx">_self</span><span class="p">.</span><span class="nx">updateProcessesOut</span><span class="p">(</span><span class="nx">data</span><span class="p">);});</span>
+<span class="p">}</span>
+</code></pre></div>
 
 
 <p>Notice the two parts that read:
@@ -923,9 +921,8 @@ else
         <id>hints.binaryage.com:/how-to-flush-dns-cache-on-mac-os-x-10-7-and-10-8</id>
         <content type="html"><![CDATA[<p>If you are having problems connecting to the internet on your Mac, you may need to flush your DNS cache. On Mac OS X 10.7 and 10.8, you can simply open Terminal by using Spotlight (CMD+Space) or by going to Applications > Utilities > Terminal. Copy and paste the command below to flush your DNS Cache:</p>
 
-<div>
-  <pre><code class='bash'>sudo killall -HUP mDNSResponder</code></pre>
-</div>
+<div class="highlight"><pre><code class="bash">sudo killall -HUP mDNSResponder 
+</code></pre></div>
 
 
 <p>Type in your Administrative password and the command should fix your internet problems! Hopefully your internet connection problems are gone now and you can enjoy the internet! If you have any questions, please feel free to leave a comment below!</p>
@@ -1347,19 +1344,15 @@ else
 
 <p>Step 1) Open up Terminal by going to Applications > Utilities > Terminal.</p>
 
-<p>Step 2) Type in the following command:</p>
-
-<pre><code>sqlite3 ~/Library/Application\ Support/Dock/*.db "DELETE from apps; DELETE from groups WHERE title&lt;&gt;''; DELETE from items WHERE rowid&gt;2;"; Killall Dock
-</code></pre>
+<p>Step 2) Type in the following command:
+    sqlite3 ~/Library/Application\ Support/Dock/*.db "DELETE from apps; DELETE from groups WHERE title&lt;>''; DELETE from items WHERE rowid>2;"; Killall Dock</p>
 
 <p>This command essentially erases the entire database for Launchpad. Yay, now Launchpad is...empty? That's not useful. Read on!</p>
 
 <p>Step 3) To add apps back to Launchpad, all you need to do is drag apps onto the Launchpad dock icon. Yep, it's that simple!</p>
 
-<p>Step 4) If for some reason you would like to go back to the old Launchpad with an icon for every single app on your Mac, then enter the command below which will rebuild the database:</p>
-
-<pre><code>rm ~/Library/Application\ Support/Dock/*.db; killall Dock
-</code></pre>
+<p>Step 4) If for some reason you would like to go back to the old Launchpad with an icon for every single app on your Mac, then enter the command below which will rebuild the database:
+    rm ~/Library/Application\ Support/Dock/*.db; killall Dock</p>
 
 <p>If you have any questions about the code listed above, please leave a comment below!</p>
 ]]></content>
@@ -1521,20 +1514,12 @@ else
 
 <p>Step 4) To streamline this process even further, you can add an alias for "python3" and call it "python" so that no matter what, Python 3.x.x will always open whether you type "python" or "python3." To do this, open up Terminal.</p>
 
-<p>Step 5) At the command prompt, if you are comfortable with VIM, type:</p>
-
-<pre><code>vim ~/.bash_profile
-</code></pre>
-
-<p>If not, type:</p>
-
-<pre><code>open ~/.bash_profile
-</code></pre>
-
-<p>And this will open up the file in your default text editor. Add the following line to the file and save:</p>
-
-<pre><code>alias python="python3"
-</code></pre>
+<p>Step 5) At the command prompt, if you are comfortable with VIM, type:
+    vim ~/.bash_profile
+If not, type:
+    open ~/.bash_profile
+And this will open up the file in your default text editor. Add the following line to the file and save:
+    alias python="python3"</p>
 
 <p>Step 6) That's it! Now when you type "python" into Terminal, Python 3.x.x will open by default!</p>
 
@@ -2873,21 +2858,17 @@ C:\Documents and Settings\YOUR_USER_NAME\Application Data\Apple Computer\SyncSer
 
 <p>"There was an error downloading your purchased music. An unknown error occurred (-50)."</p>
 
-<p>Step 1) If you have any of the following, you will have to configure them to allow certain domains through.</p>
+<p>Step 1) If you have any of the following, you will have to configure them to allow certain domains through.
+    * Firewalls
+    * Web Accelerators
+    * Ad Filters
+    * Virus Protection Software</p>
 
-<pre><code>* Firewalls
-* Web Accelerators
-* Ad Filters
-* Virus Protection Software
-</code></pre>
-
-<p>Step 2) Follow the documentation from each of the listed applications to fix the issue. Allow these domains to go through to iTunes:</p>
-
-<pre><code>* itunes.apple.com
-* ax.itunes.apple.com
-* albert.apple.com
-* gs.apple.com
-</code></pre>
+<p>Step 2) Follow the documentation from each of the listed applications to fix the issue. Allow these domains to go through to iTunes:
+    * itunes.apple.com
+    * ax.itunes.apple.com
+    * albert.apple.com
+    * gs.apple.com</p>
 
 <p>If you are receiving this error because of this message: "Error (-50)" when downloading purchased videos, then
 delete the cached video files of the download, and start the download again from the beginning; this will resolve this issue.</p>
