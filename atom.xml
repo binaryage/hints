@@ -3,7 +3,7 @@
     <title>Hints from BinaryAge</title>
     <link href="http://hints.binaryage.com/atom.xml" rel="self"/>
     <link href="http://hints.binaryage.com"/>
-    <updated>2013-06-19T23:06:59-04:00</updated>
+    <updated>2013-07-09T16:34:09-04:00</updated>
     <id>http://hints.binaryage.com/</id>
     
     
@@ -727,16 +727,18 @@ Stuart Bell is a Mac user who believes in making life better with latest and mos
 <li><p> start installing Lion on newly created OSX 2 partition</p>
 
 <ol>
-<li>let computer reboot first time to finish copying</li>
-<li>during second reboot hold Option key and boot into old OSX (we don't need to finish OSX 2 installation)</li>
+<li> let computer reboot first time to finish copying</li>
+<li> during second reboot hold Option key and boot into old OSX (we don't need to finish OSX 2 installation)</li>
 </ol>
 </li>
-<li><p> merge OSX 2 into OSX via command-line:</p>
+<li><p> merge OSX 2 into OSX via command-line:</p></li>
+</ol>
 
-<p>~ ➔ diskutil list
+
+<pre><code>~ ➔ diskutil list
 /dev/disk0
    #:                       TYPE NAME                    SIZE       IDENTIFIER
-   0:      GUID_partition_scheme                        <em>251.0 GB   disk0
+   0:      GUID_partition_scheme                        *251.0 GB   disk0
    1:                        EFI                         209.7 MB   disk0s1
    2:                  Apple_HFS OSX                     175.0 GB   disk0s2
    3:                  Apple_HFS OSX 2                   75.0 GB    disk0s3
@@ -752,12 +754,11 @@ Growing disk
 Finished partitioning on disk0
 /dev/disk0
    #:                       TYPE NAME                    SIZE       IDENTIFIER
-   0:      GUID_partition_scheme                        </em>251.0 GB   disk0
+   0:      GUID_partition_scheme                        *251.0 GB   disk0
    1:                        EFI                         209.7 MB   disk0s1
    2:                  Apple_HFS OSX                     250.1 GB   disk0s2
-   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s4</p></li>
-</ol>
-
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s4
+</code></pre>
 
 <p>In step 3 you have to use <code>diskutil list</code> to read identifiers of OSX and OSX 2 partitions. If you did all right, <strong>you must see OSX, OSX 2 and Recovery HD in this exact order</strong> somewhere in the list. By executing<code>diskutil mergePartitions</code> you merge OSX 2 into OSX (and lose content of the newly created partition OSX 2). You have to end up with OSX immediatelly followed by Recovery HD.</p>
 
@@ -2268,7 +2269,7 @@ This will effectively do the same thing.</p>
 
 <pre><code>delay 5
 tell application "Finder"
-    set desktop picture to POSIX file "/Users/YourUsernameHere/PathToFile.png"
+  set desktop picture to POSIX file "/Users/YourUsernameHere/PathToFile.png"
 end tell
 </code></pre>
 
