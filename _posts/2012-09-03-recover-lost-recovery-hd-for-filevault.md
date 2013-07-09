@@ -14,7 +14,7 @@ I did a quick googling and realized that the problem is missing "Recovery HD" pa
 
 ### How to recreate lost recovery partition easily?
 
-I found several articles [about](http://musings.silvertooth.us/2012/03/restoring-a-lost-recovery-partition-in-lion/) [the](http://www.dmitry-dulepov.com/2011/09/how-to-create-mac-os-x-lion-recovery.html) [topic](https://plus.google.com/108724035107725322855/posts/Y33cF3cJR9o), but all methods seemed to be pretty complex and/or time consuming. There must be an easier way! What about fooling OS X installer into creating Recovery HD partition for us? 
+I found several articles [about](http://musings.silvertooth.us/2012/03/restoring-a-lost-recovery-partition-in-lion/) [the](http://www.dmitry-dulepov.com/2011/09/how-to-create-mac-os-x-lion-recovery.html) [topic](https://plus.google.com/108724035107725322855/posts/Y33cF3cJR9o), but all methods seemed to be pretty complex and/or time consuming. There must be an easier way! What about fooling OS X installer into creating Recovery HD partition for us?
 
 Here is an easy solution which took me less than 10 minutes. Let's say you want to restore Recovery HD partition for your system partition called "OSX" running Lion.
 
@@ -32,34 +32,36 @@ Here is an easy solution which took me less than 10 minutes. Let's say you want 
     3. make sure both partitions have format: Journaled HFS+ (JHFS+)
 
   2. start installing Lion on newly created OSX 2 partition
-  	1. let computer reboot first time to finish copying
-  	2. during second reboot hold Option key and boot into old OSX (we don't need to finish OSX 2 installation)
+      1. let computer reboot first time to finish copying
+      2. during second reboot hold Option key and boot into old OSX (we don't need to finish OSX 2 installation)
 
   3. merge OSX 2 into OSX via command-line:
-	
-	~ ➔ diskutil list
-	/dev/disk0
-	   #:                       TYPE NAME                    SIZE       IDENTIFIER
-	   0:      GUID_partition_scheme                        *251.0 GB   disk0
-	   1:                        EFI                         209.7 MB   disk0s1
-	   2:                  Apple_HFS OSX                     175.0 GB   disk0s2
-	   3:                  Apple_HFS OSX 2                   75.0 GB    disk0s3
-	   4:                 Apple_Boot Recovery HD             650.0 MB   disk0s4
-	~ ➔ diskutil mergePartitions JHFS+ not disk0s2 disk0s3
-	Merging partitions into a new partition
-	     Start partition: disk0s2 OSX
-	     Finish partition: disk0s3 OSX 2
-	Started partitioning on disk0
-	Merging partitions
-	Waiting for the disks to reappear
-	Growing disk
-	Finished partitioning on disk0
-	/dev/disk0
-	   #:                       TYPE NAME                    SIZE       IDENTIFIER
-	   0:      GUID_partition_scheme                        *251.0 GB   disk0
-	   1:                        EFI                         209.7 MB   disk0s1
-	   2:                  Apple_HFS OSX                     250.1 GB   disk0s2
-	   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s4
+
+```
+~ ➔ diskutil list
+/dev/disk0
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *251.0 GB   disk0
+   1:                        EFI                         209.7 MB   disk0s1
+   2:                  Apple_HFS OSX                     175.0 GB   disk0s2
+   3:                  Apple_HFS OSX 2                   75.0 GB    disk0s3
+   4:                 Apple_Boot Recovery HD             650.0 MB   disk0s4
+~ ➔ diskutil mergePartitions JHFS+ not disk0s2 disk0s3
+Merging partitions into a new partition
+     Start partition: disk0s2 OSX
+     Finish partition: disk0s3 OSX 2
+Started partitioning on disk0
+Merging partitions
+Waiting for the disks to reappear
+Growing disk
+Finished partitioning on disk0
+/dev/disk0
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *251.0 GB   disk0
+   1:                        EFI                         209.7 MB   disk0s1
+   2:                  Apple_HFS OSX                     250.1 GB   disk0s2
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s4
+```
 
 
 

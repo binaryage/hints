@@ -16,7 +16,7 @@ Step 2) Copy and paste this code into the app:
 
     delay 5
     tell application "Finder"
-	    set desktop picture to POSIX file "/Users/YourUsernameHere/PathToFile.png"
+      set desktop picture to POSIX file "/Users/YourUsernameHere/PathToFile.png"
     end tell
 
 Step 3) The reason that there is a "delay 5" at the beginning of the file is so that you can quickly switch to the Dashboard space.
