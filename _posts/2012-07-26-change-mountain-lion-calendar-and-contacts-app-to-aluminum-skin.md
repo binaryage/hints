@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Change Mountain Lion Calendar and Contacts App to Aluminum Skin"
 tags: [mountain lion, skin, calendar, leather, contacts, new]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "iOS 6 Anticipated Features"
 tags: [ios 6, iphone, ipad, ipod, wwdc, apple]
 author_name: Mark Miyashita

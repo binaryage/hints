@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How To Make a Mountain Lion USB Installer Key"
 tags: [mountain lion, usb, installer, lion, mac, os x, download, update]
 author_name: Mark Miyashita

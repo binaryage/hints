@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "[Poll] Will Apple Release a Smaller iPad?"
 tags: [ipad, ipad mini, ipod touch, iphone, apple, rumor]
 author_name: Mark Miyashita

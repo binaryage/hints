@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Apple TV 5.0.1 Update"
 tags: [apple, tv, update, new software, download, 5.0.1, ios]
 author_name: Mark Miyashita

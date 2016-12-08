@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "iOS 6 Beta 3 Update Released, Download Here"
 tags: [ios6, beta3, update, download, ipad, ipod, iphone, apple tv, beta, apple]
 author_name: Mark Miyashita

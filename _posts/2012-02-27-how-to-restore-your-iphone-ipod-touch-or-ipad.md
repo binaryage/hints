@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Restore your iPhone, iPod Touch, or iPad"
 tags: [iphone, ipodtouch, ipad, restore]
 author_name: Mark Miyashita

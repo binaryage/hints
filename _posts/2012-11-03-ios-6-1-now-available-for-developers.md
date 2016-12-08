@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "iOS 6.1 Now Available for Developers"
 tags: [ios6, ios, dev]
 author_name: Mark Miyashita

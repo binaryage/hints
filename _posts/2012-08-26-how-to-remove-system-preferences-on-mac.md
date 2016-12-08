@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Remove System Preferences on Mac"
 tags: [system preferences, mac, mac os x]
 author_name: Mark Miyashita

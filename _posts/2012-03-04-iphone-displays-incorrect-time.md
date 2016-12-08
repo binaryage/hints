@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "iPhone Displays Incorrect Time"
 tags: [iphone, time, error, bug]
 author_name: Mark Miyashita

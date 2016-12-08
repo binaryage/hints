@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Jailbreak iPhone 4s and iPad 2 running iOS 5.0 or 5.0.1 [Windows Update]"
 tags: [jailbreak, iphone4s, iphone, ipad2, iOS5, windows, absinthe]
 author_name: Mark Miyashita

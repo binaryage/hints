@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Input GPS Coordinates into the Maps Application on iPhone"
 tags: [gps, maps, applications, iphone, app, google maps]
 author_name: Mark Miyashita

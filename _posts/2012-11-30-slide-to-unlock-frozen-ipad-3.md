@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Slide to Unlock Frozen on iPad 3"
 tags: [ipad, ipad3, slide to unlock]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "iPad 3 Launch Today, New Features"
 tags: [iOS5, iPad, iPad3, ipadHD, apple, launch, new, features]
 author_name: Mark Miyashita

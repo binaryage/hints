@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "iStat Pro for Mountain Lion"
 tags: [istat, istat pro, mountain lion, download]
 author_name: Mark Miyashita

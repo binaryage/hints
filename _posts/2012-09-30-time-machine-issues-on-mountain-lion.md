@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Time Machine Issues on Mountain Lion"
 tags: [time machine, issues, mountain lion]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Automatic App Downloads on Mac OS X Mountain Lion"
 tags: [app, automatic, mac, os x, osx, mountain lion, downloads, update, 10.8]
 author_name: Mark Miyashita

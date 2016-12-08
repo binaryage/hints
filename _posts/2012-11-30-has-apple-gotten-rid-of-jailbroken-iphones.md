@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Has Apple Gotten Rid of Jailbroken iPhones?"
 tags: [apple, iphone, jailbroken]
 author_name: Mark Miyashita

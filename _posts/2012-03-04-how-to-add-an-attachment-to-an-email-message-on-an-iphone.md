@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Add an Attachment to an Email Message on an iPhone"
 tags: [attachment, email, message, iphone]
 author_name: Mark Miyashita

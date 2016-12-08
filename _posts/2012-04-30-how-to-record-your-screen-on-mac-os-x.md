@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Record Your Screen on Mac OS X"
 tags: [record, screen, mac, macosx, quicktime]
 author_name: Mark Miyashita

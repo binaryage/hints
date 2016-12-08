@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Restore iPhone, iPad, or iPod Touch after Jailbreaking"
 tags: [iphone, ipodtouch, ipad, jailbreak, restore]
 author_name: Mark Miyashita

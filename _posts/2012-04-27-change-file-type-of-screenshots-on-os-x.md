@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Change the File Type of Screenshots on OS X"
 tags: [file, type, tiff, jpg, png, screenshots, os, x, osx, settings, preferences]
 author_name: Mark Miyashita

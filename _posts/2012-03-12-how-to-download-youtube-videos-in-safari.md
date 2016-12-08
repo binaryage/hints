@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Download YouTube Videos in Safari"
 tags: [youtube, safari, videos, download, mac, plugin]
 author_name: Mark Miyashita

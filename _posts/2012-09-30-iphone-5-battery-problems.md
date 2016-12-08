@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "iPhone 5 Battery Problems"
 tags: [iphone 5, iphone battery, battery, iphone, issues, ios 6]
 author_name: Mark Miyashita

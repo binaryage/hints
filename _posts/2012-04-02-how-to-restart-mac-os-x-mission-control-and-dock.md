@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Restart Mac OS X Mission Control and Dock"
 tags: [mission control, mac os x, macosx, dock, terminal]
 author_name: Mark Miyashita

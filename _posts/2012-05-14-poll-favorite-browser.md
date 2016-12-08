@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Poll: What is your Favorite Browser and Why?"
 tags: [poll, user, favorite, browser]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "CardDAV A New Way to Sync Google Contacts with iOS 6"
 tags: [ios 6, ios, carddav, google, contacts, google contacts]
 author_name: Mark Miyashita

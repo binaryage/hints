@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Safari 6 Developer Preview Download"
 tags: [safari 6, beta, download, developer, preview, mountain lion]
 author_name: Mark Miyashita

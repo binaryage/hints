@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Delete Multiple Photos from iPhone's Camera Roll"
 tags: [photos, iphone, camera, multiple, ios, ios5]
 author_name: Mark Miyashita

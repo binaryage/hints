@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Hourly Forecasts in iOS 5 Weather App"
 tags: [ios5, ios, weather, tweak]
 author_name: Mark Miyashita

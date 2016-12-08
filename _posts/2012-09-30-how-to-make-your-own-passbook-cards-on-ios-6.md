@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Make Your Own Passbook Cards in iOS 6"
 tags: [ios6, ios, software, passbook]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Google Maps for iOS Download"
 tags: [ios, google maps, google, maps, public transportation]
 author_name: Mark Miyashita

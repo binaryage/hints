@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Where are iPhone Backups Stored?"
 tags: [iphone, backups, local, computer, mac, windows]
 author_name: Mark Miyashita

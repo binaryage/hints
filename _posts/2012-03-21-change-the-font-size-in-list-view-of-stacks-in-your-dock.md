@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Change the Font Size in List View of Stacks in your Dock"
 tags: [font, size, list, view, stacks, dock, hack, tweak]
 author_name: Mark Miyashita

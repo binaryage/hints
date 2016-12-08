@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Share Reminders via iCloud"
 tags: [reminders, icloud]
 author_name: Mark Miyashita

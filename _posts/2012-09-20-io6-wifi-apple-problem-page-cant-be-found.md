@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "iOS 6 upgrade problem: wifi redirects to apple.com"
 tags: [iOS 6, apple, wifi, upgrade, problem, update, connectivity]
 author_name: Antonin Hildebrand

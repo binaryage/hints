@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Enable AirPrint on Windows with iOS 5"
 tags: [airprint, ios 5, ios]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Change Panorama Direction iPhone"
 tags: [panorama, iphone]
 author_name: Mark Miyashita

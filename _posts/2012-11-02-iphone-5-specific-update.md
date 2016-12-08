@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "iPhone 5 Specific Update"
 tags: [iphone 5, iphone]
 author_name: Mark Miyashita

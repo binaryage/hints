@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Spread your Dropbox Referral Link!"
 tags: [dropbox, referral, link, free, space, storage, web2.0, freebie, edu]
 author_name: Mark Miyashita

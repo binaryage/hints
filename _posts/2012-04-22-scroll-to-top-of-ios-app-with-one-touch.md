@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Scroll to the Top of iOS Apps with One Touch"
 tags: [scroll, ios, apps, tap, multitouch, tips]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Open Recently Closed Safari Tabs in iOS 5.1"
 tags: [safari, ios, ios 5.1, 5.1, closed, tabs, quick]
 author_name: Mark Miyashita

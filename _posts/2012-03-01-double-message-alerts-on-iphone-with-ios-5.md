@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Double Message Alerts on iPhone with iOS 5"
 tags: [iphone, iOS5, imessage, sms]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Cannot Activate FaceTime"
 tags: [iphone, iOS5, facetime, error]
 author_name: Mark Miyashita

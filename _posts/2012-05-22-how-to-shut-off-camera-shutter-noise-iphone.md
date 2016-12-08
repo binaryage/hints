@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How To Shut Off the Camera Shutter Noise on your iPhone"
 tags: [iphone, camera, shutter, noise, mute]
 author_name: Mark Miyashita

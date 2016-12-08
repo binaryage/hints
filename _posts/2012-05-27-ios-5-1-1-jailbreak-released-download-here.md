@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "iOS 5.1.1 Jailbreak Released, Download Here!"
 tags: [ios, ios 5.1.1, jailbreak, download]
 author_name: Mark Miyashita

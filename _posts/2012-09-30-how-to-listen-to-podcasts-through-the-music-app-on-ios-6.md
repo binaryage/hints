@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Listen to Podcasts through the Music App on iOS 6"
 tags: [ios6, music, podcasts]
 author_name: Mark Miyashita

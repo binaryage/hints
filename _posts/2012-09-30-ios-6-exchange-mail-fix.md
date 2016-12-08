@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "iOS 6 Exchange Mail Fix"
 tags: [ios, ios6, exchange, email]
 author_name: Mark Miyashita

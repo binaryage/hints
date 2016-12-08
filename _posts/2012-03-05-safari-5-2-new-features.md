@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Upcoming Safari 5.2 New Features"
 tags: [mac, safari, software, beta, release, mac os x, mountain lion, 10.8]
 author_name: Mark Miyashita

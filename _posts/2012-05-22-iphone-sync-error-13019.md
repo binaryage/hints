@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Fix: iPhone Sync Error 13019"
 tags: [iphone, error, sync, 13019, how to, fix]
 author_name: Mark Miyashita

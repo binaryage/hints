@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "iPad Keyboard Hacks"
 tags: [ipad, keyboard, hacks, dock, update]
 author_name: Mark Miyashita

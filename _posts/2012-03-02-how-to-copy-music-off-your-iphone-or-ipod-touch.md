@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Copy Music off your iPhone or iPod Touch"
 tags: [iphone, ipodtouch, music, usb]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Change Your Volume on Your Mac Without Making a Sound"
 tags: [volume, tip, mac, mac os x, tutorial]
 author_name: Mark Miyashita

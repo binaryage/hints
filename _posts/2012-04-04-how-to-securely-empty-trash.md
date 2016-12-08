@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Securely Empty your Trash"
 tags: [trash, mac os x, macosx, finder]
 author_name: Mark Miyashita

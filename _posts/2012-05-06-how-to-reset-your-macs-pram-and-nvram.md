@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Reset your Mac's PRAM and NVRAM"
 tags: [pram, mac, nvram, hardware, reset]
 author_name: Mark Miyashita

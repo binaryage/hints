@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Lion Tweaks 2.0.1 updated for Mountain Lion"
 tags: [lion, tweaks, mountain lion, upgrade, snow leopard]
 author_name: Mark Miyashita

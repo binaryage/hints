@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Jailbreak iPhone 4, iPod Touch 4th Generation, iPad, iPhone 3GS Untethered on iOS 5.0.1"
 tags: [iphone, iphone4, ipodtouch, ipad, iphone3gs, jailbreak, iOS5]
 author_name: Mark Miyashita

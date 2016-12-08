@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How To Clear iMessage History on Mac OS X"
 tags: [imessage, history, mac os x, macosx, lion, download, beta]
 author_name: Mark Miyashita

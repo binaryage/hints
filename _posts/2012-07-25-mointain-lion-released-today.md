@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Mountain Lion Released Today"
 tags: [mountain lion, update, mac, download, os x]
 author_name: Mark Miyashita

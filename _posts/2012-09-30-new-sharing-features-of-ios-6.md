@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "New Sharing Features of iOS 6"
 tags: [ios 6, ios, sharing, features]
 author_name: Mark Miyashita

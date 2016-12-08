@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Approach Hard Drive Cloning in Mac OS X Using Apple's Disk Utility"
 tags: [disk utility, mac os x, hard drive, cloning]
 author_name: Stuart Bell

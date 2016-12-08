@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Transfer Photos From Photo Stream to Camera Roll on iOS"
 tags: [ios, photo stream, photo, camera roll, pictures]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Mountain Lion Release Date"
 tags: [mountain lion, mountain, lion, osx, apple, mac, update, 10.8]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "iPhone Battery Problems"
 tags: [iphone, apple, battery]
 author_name: Mark Miyashita

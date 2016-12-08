@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Back Up iPhone Passwords Using iTunes"
 tags: [itunes, iphone, password, backup, back up, encrypt]
 author_name: Mark Miyashita

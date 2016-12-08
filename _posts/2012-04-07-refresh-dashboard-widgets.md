@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Refresh Dashboard Widgets"
 tags: [dashboard, widgets, refresh, animation, macosx]
 author_name: Mark Miyashita

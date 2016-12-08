@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Download YouTube Videos on Mountain Lion Safari 6"
 tags: [mountain lion, safari 6, download, clicktoplugin]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "How to Measure Screen Elements in Pixels"
 tags: [screen resolution, screen, image, capture, screenshot, measurement]
 author_name: Mark Miyashita

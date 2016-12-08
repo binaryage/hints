@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Yahoo! Mail not Pushing on iPhone"
 tags: [yahoo, mail, email, iphone, push]
 author_name: Mark Miyashita

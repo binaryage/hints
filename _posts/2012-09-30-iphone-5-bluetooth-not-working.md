@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "iPhone 5 Bluetooth Not Working"
 tags: [iphone 5, bluetooth, ios 6]
 author_name: Mark Miyashita

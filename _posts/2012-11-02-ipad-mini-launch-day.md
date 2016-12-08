@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "iPad Mini Launch Day"
 tags: [ipad, ipad mini]
 author_name: Mark Miyashita

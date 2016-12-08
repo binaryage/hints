@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "Quickly View Mission Control or Dashboard by Holding Down Hotkeys"
 tags: [mission control, dashboard, hotkeys, keyboard, mac os x, macosx]
 author_name: Mark Miyashita

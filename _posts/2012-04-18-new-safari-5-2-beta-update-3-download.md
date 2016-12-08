@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-hints
 title: "New Safari 5.2 Beta Update 3 Download"
 tags: [safari, beta, update, new, software, download]
 author_name: Mark Miyashita
