@@ -1,318 +1,511 @@
 <!DOCTYPE html>
-<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://developers.facebook.com/schema/" class="/ios-6-battery-issues">
+<html lang="en"
+    xmlns:og="http://opengraphprotocol.org/schema/"
+    xmlns:fb="http://developers.facebook.com/schema/"
+    class="ba ios-6-battery-issues"
+>
   <head>
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
     <title>iOS 6 Battery Issues</title>
-    <link rel="canonical" href="http://hints.binaryage.com/ios-6-battery-issues"/>
-    <meta name="title" content="iOS 6 Battery Issues"/>
-    <meta name="description" content="Sharing tips about software, products and cool stuff from BinaryAge"/>
-    <meta name="keywords" content="blog,tips,hints,binaryage,productivity,software,mark miyashita"/>
-    <link rel="image_src" href="http://www.binaryage.com/shared/img/icons/binaryage-badge-256.png"/>
-    <meta name="google-site-verification" content="N_xzdr6ymSUQFhAEvQg7f-sp1JAeJCdW2JuaRg-da0w"/>
-    <meta property="fb:admins" content="antonin.hildebrand"/>
-    <link href="http://feeds.feedburner.com/binaryage-hints" type="application/atom+xml" rel="alternate" title="Mac Hints from BinaryAge"/>
-    <link rel="shortcut icon" href="http://static.binaryage.com/5604bda0_favicon.ico" type="image/x-icon"/>
-    <link rel="icon" href="http://static.binaryage.com/5604bda0_favicon.ico" type="image/x-icon"/>
+    
+<link rel="canonical" href="https://hints.binaryage.com/ios-6-battery-issues/">
+
+
+
+    <link rel="shortcut icon" href="https://static.binaryage.com/5604bda0_favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://static.binaryage.com/5604bda0_favicon.ico" type="image/x-icon">
+
+
+    <link rel="stylesheet" href="https://static.binaryage.com/e33ac6ae_shared_css_site.css" type="text/css">
+
+
+
+
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+
+
+    
+
+
+
+<meta name="google-site-verification" content="N_xzdr6ymSUQFhAEvQg7f-sp1JAeJCdW2JuaRg-da0w" />
+<meta property="fb:admins" content="antonin.hildebrand" />
+
+
+    <link href="https://feeds.feedburner.com/binaryage-blog" type="application/atom+xml" rel="alternate" title="Ideas from BinaryAge" />
+
+
+    
+
+
     <script type="text/javascript" charset="utf-8">
-      // give the custom font some time to load, otherwise enable simple font visibility
-      setTimeout(function(){$("html").addClass("wf-fake-active")},2e3)
-    </script>
-    <style type="text/css">
-      .js .wf{opacity:0!important;filter:alpha(opacity=0)!important;-webkit-transition:opacity .5s ease 0s;-moz-transition:opacity .5s ease 0s;-o-transition:opacity .5s ease 0s;transition:opacity .5s ease 0s;font-smoothing:antialiased;-webkit-font-smoothing:antialiased}.wf-active .wf,.wf-fake-active .wf{opacity:1!important;filter:alpha(opacity=100)!important}
-    </style>
-    <link rel="stylesheet" href="http://static.binaryage.com/a9fa179c_shared_css_site.css" type="text/css"/>
-    <script type="text/javascript" charset="utf-8">
-      /*
-      CSS Browser Selector v0.4.0 (Nov 02, 2010)
-      Rafael Lima (http://rafael.adm.br)
-      http://rafael.adm.br/css_browser_selector
-      License: http://creativecommons.org/licenses/by/2.5/
-      Contributors: http://rafael.adm.br/css_browser_selector#contributors
-      */
-      function css_browser_selector(e){var t=e.toLowerCase(),n=function(e){return t.indexOf(e)>-1},r="gecko",i="webkit",s="safari",o="opera",u="mobile",a=document.documentElement,f=[!/opera|webtv/i.test(t)&&/msie\s(\d)/.test(t)?"ie ie"+RegExp.$1:n("firefox/2")?r+" ff2":n("firefox/3.5")?r+" ff3 ff3_5":n("firefox/3.6")?r+" ff3 ff3_6":n("firefox/3")?r+" ff3":n("gecko/")?r:n("opera")?o+(/version\/(\d+)/.test(t)?" "+o+RegExp.$1:/opera(\s|\/)(\d+)/.test(t)?" "+o+RegExp.$2:""):n("konqueror")?"konqueror":n("blackberry")?u+" blackberry":n("android")?u+" android":n("chrome")?i+" chrome":n("iron")?i+" iron":n("applewebkit/")?i+" "+s+(/version\/(\d+)/.test(t)?" "+s+RegExp.$1:""):n("mozilla/")?r:"",n("j2me")?u+" j2me":n("iphone")?u+" iphone":n("ipod")?u+" ipod":n("ipad")?u+" ipad":n("mac")?"mac":n("darwin")?"mac":n("webtv")?"webtv":n("win")?"win"+(n("windows nt 6.0")?" vista":""):n("freebsd")?"freebsd":n("x11")||n("linux")?"linux":"","js"];c=f.join(" ");a.className+=" "+c;return c}css_browser_selector(navigator.userAgent)
-    </script>
-    <script type="text/javascript" charset="utf-8">
-      if(!window.console){window.console={};function fn(){opera.postError(arguments)}["log","debug","info","warn","error","assert","dir","dirxml","group","groupEnd","time","timeEnd","count","trace","profile","profileEnd"].forEach(function(o){window.console[o]=fn})}!function(){var o=["log","debug","info","warn","error","assert","dir","dirxml","group","groupEnd","time","timeEnd","count","trace","profile","profileEnd"];if(!window.console){window.console={}}for(var n in o){window.console[o[n]]=window.console[o[n]]||function(){return}}}()
-    </script>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-    <script type="text/javascript" charset="utf-8">
-      // https://github.com/carhartl/jquery-cookie
-      function bacookie(e,t,n){if(arguments.length>1&&String(t)!=="[object Object]"){n=n||{};if(t===null||t===undefined){n.expires=-1}if(typeof n.expires==="number"){var r=n.expires,i=n.expires=new Date;i.setDate(i.getDate()+r)}t=String(t);return document.cookie=[encodeURIComponent(e),"=",n.raw?t:encodeURIComponent(t),n.expires?"; expires="+n.expires.toUTCString():"",n.path?"; path="+n.path:"",n.domain?"; domain="+n.domain:"",n.secure?"; secure":""].join("")}n=t||{};var s,o=n.raw?function(e){return e}:decodeURIComponent;return(s=(new RegExp("(?:^|; )"+encodeURIComponent(e)+"=([^;]*)")).exec(document.cookie))?o(s[1]):null}
-    </script>
-    <script type="text/javascript" charset="utf-8">
-      function parseUri(r){var e=parseUri.options,o=e.parser[e.strictMode?"strict":"loose"].exec(r),s={},t=14;while(t--)s[e.key[t]]=o[t]||"";s[e.q.name]={};s[e.key[12]].replace(e.q.parser,function(r,o,t){if(o)s[e.q.name][o]=t});return s}parseUri.options={strictMode:false,key:["source","protocol","authority","userInfo","user","password","host","port","relative","path","directory","file","query","anchor"],q:{name:"queryKey",parser:/(?:^|&)([^&=]*)=?([^&]*)/g},parser:{strict:/^(?:([^:\/?#]+):)?(?:\/\/((?:(([^:@]*)(?::([^:@]*))?)?@)?([^:\/?#]*)(?::(\d*))?))?((((?:[^?#\/]*\/)*)([^?#]*))(?:\?([^#]*))?(?:#(.*))?)/,loose:/^(?:(?![^:@]+:[^:@\/]*@)([^:\/?#.]+):)?(?:\/\/)?((?:(([^:@]*)(?::([^:@]*))?)?@)?([^:\/?#]*)(?::(\d*))?)(((\/(?:[^?#](?![^?#\/]*\.[^?#\/.]+(?:[?#]|$)))*\/?)?([^?#\/]*))(?:\?([^#]*))?(?:#(.*))?)/}}
-    </script>
+  // parseUri 1.2.2
+  // (c) Steven Levithan <stevenlevithan.com>
+  // MIT License
+
+  function parseUri (str) {
+    var o   = parseUri.options,
+      m   = o.parser[o.strictMode ? "strict" : "loose"].exec(str),
+      uri = {},
+      i   = 14;
+
+    while (i--) uri[o.key[i]] = m[i] || "";
+
+    uri[o.q.name] = {};
+    uri[o.key[12]].replace(o.q.parser, function ($0, $1, $2) {
+      if ($1) uri[o.q.name][$1] = $2;
+    });
+
+    return uri;
+  };
+
+  parseUri.options = {
+    strictMode: false,
+    key: ["source","protocol","authority","userInfo","user","password","host","port","relative","path","directory","file","query","anchor"],
+    q:   {
+      name:   "queryKey",
+      parser: /(?:^|&)([^&=]*)=?([^&]*)/g
+    },
+    parser: {
+      strict: /^(?:([^:\/?#]+):)?(?:\/\/((?:(([^:@]*)(?::([^:@]*))?)?@)?([^:\/?#]*)(?::(\d*))?))?((((?:[^?#\/]*\/)*)([^?#]*))(?:\?([^#]*))?(?:#(.*))?)/,
+      loose:  /^(?:(?![^:@]+:[^:@\/]*@)([^:\/?#.]+):)?(?:\/\/)?((?:(([^:@]*)(?::([^:@]*))?)?@)?([^:\/?#]*)(?::(\d*))?)(((\/(?:[^?#](?![^?#\/]*\.[^?#\/.]+(?:[?#]|$)))*\/?)?([^?#\/]*))(?:\?([^#]*))?(?:#(.*))?)/
+    }
+  };
+</script>
+
+
+    <script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
+<script>
+  WebFont.load({
+    google: {
+      families: [ 
+        'Play:400,700:latin'
+      ]
+    }
+  });
+</script>
+
+
+    <script src="https://static.binaryage.com/3e4de0bb_shared_js_code.js"></script>
+
+
     <script type="text/javascript">
-      WebFontConfig={google:{families:["Play:regular,bold"]}};!function(){var t=document.createElement("script");t.src=("https:"==document.location.protocol?"https":"http")+"://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js";t.type="text/javascript";t.async="true";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}()
-    </script>
-    <script src="http://static.binaryage.com/c0e8173f_shared_js_code.js"></script>
-    <script type="text/javascript">
-      var _gaq=_gaq||[]
-    </script>
-    <script type="text/javascript">
-      _gaq.push(["_setAccount","UA-8404259-1"]);_gaq.push(["_addIgnoredRef",".binaryage.com"]);_gaq.push(["_setDomainName",".binaryage.com"]);_gaq.push(["_setAllowLinker",true]);_gaq.push(["_setAllowHash",false]);_gaq.push(["_trackPageview"]);_gaq.push(["alt._setAccount","UA-8404259-4"]);_gaq.push(["alt._addIgnoredRef",".binaryage.com"]);_gaq.push(["alt._setDomainName",".binaryage.com"]);_gaq.push(["alt._setAllowLinker",true]);_gaq.push(["alt._setAllowHash",false]);_gaq.push(["alt._trackPageview"]);!function(){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}()
-    </script>
+    window['ga'] = function() {};
+</script>
+
+
+<script>
+  window['ga'] = undefined;
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create',
+     'UA-8404259-1',
+     'auto', { // auto means track user on all subdomains as well
+       'allowLinker': true // allows overriding ga cookie from url parameters
+     }
+  );
+  ga('send', 'pageview');
+ 
+  
+
+  // auto linker is responsible to pass ga cookie when user jumps between fastspring.com and binaryage.com
+  // https://developers.google.com/analytics/devguides/collection/analyticsjs/cross-domain
+  ga('require', 'linker');
+  
+  ga('linker:autoLink', ['fastspring.com'], true);
+  
+</script>
+
+
+
+
+    
+
+
+    
   </head>
   <body id="page-hints-ios-6-battery-issues">
-    <div id="topbar">
-      <div class="container topbar">
-        <div class="topbar-buttons">
-          <div class="topbar-labs wf">
-            labs
-          </div>
-          <div class="topbar-testimonials wf">
-            testimonials
-          </div>
-        </div>
+    
+
+
+
+
+
+
+
+<div id="header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        
+
+<div class="relativize">
+  <a href="http://www.binaryage.com" title="BinaryAge Software">
+    <div class="binaryage-logo">
+  <svg class="logo">
+    <g class="logo-badge">
+      <rect class="logo-badge-background" x="0" y="0" rx="4" ry="4" width="60" height="54"/>
+      <path class="logo-letter-b" d="
+        M6,47 L6,17 12,17 12,25 29,25 29,47 Z 
+        M12,42 L12,30 23,30 23,42 Z" 
+      />
+      <path class="logo-letter-a" d="
+        M32,47 L32,34 49,34 49,30 32,30 32,25 54,25 54,47 Z 
+        M37,42 L37,39 49,39 49,42 Z" 
+      />
+    </g>
+    <g class="logo-label" transform="translate(71, 22)">
+      <g class="logo-word-binary">
+        <path class="logo-label-letter-b" transform="translate(0, 0)" d="
+          M0,25 L0,0 5,0 5,7 20,7 20,25 Z 
+          M5,21 L5,11 15,11 15,21 Z" 
+        />
+        <path class="logo-label-letter-i" transform="translate(22, 0)" d="
+          M0,25 L0,7 5,7 5,25 Z 
+          M0,3 L5,3 5,0 0,0 Z" 
+        />
+        <path class="logo-label-letter-n" transform="translate(29, 0)" d="
+          M0,25 L0,7 20,7 20,25 15,25 15,11 5,11 5,25 Z" 
+        />
+        <path class="logo-label-letter-a" transform="translate(51, 0)" d="
+          M0,25 L0,14 15,14 15,11 0,11 0,7 20,7 20,25 Z 
+          M5,21 L5,18 15,18 15,21 Z" 
+        />
+        <path class="logo-label-letter-r" transform="translate(73, 0)" d="
+          M0,25 L0,7 20,7 20,11 5,11 5,25 Z" 
+        />
+        <path class="logo-label-letter-y" transform="translate(95, 0)" d="
+          M0,25 L0,7 5,7 5,21 15,21 15,7 20,7 20,32 0,32 0,28 15,28 15,25 Z" 
+        />
+      </g>
+      <g class="logo-word-age" transform="translate(118, 0)">
+        <path class="logo-label-letter-a" transform="translate(0, 0)" d="
+          M0,25 L0,14 15,14 15,11 0,11 0,7 20,7 20,25 Z 
+          M5,21 L5,18 15,18 15,21 Z" 
+        />
+        <path class="logo-label-letter-g" transform="translate(22, 0)" d="
+          M0,25 L0,7 20,7 20,32 0,32 0,28 15,28 15,25 Z
+          M5,21 L5,11 15,11 15,21 Z" 
+        />
+        <path class="logo-label-letter-e" transform="translate(44, 0)" d="
+          M0,25 L0,7 20,7 20,18 5,18 5,21 20,21 20,25 Z 
+          M5,14 L5,11 15,11 15,14 Z" 
+        />
+      </g>
+    </g>
+  </svg>  
+</div>
+
+  </a>
+</div>
+
+
+        
+
+<div class="relativize">
+  <ul class="header-menu menu-selected-">
+    <li class="menu-item-store"><a href="http://www.binaryage.com/store"><i class="fa fa-shopping-cart"></i><span>store</span></a></li>
+    <li class="menu-item-products"><a href="http://www.binaryage.com"><i class="fa fa-star"></i><span>products</span></a></li>
+    <li class="menu-item-blog"><a href="http://blog.binaryage.com"><i class="fa fa-bullhorn"></i><span>blog</span></a></li>
+    <li class="menu-item-support"><a href="http://discuss.binaryage.com"><i class="fa fa-comments"></i><span>support</span></a></li>
+  </ul>
+</div>
+
+
       </div>
     </div>
-    <div id="header" class="menu-hints">
-      <div class="container header">
-        <a href="http://www.binaryage.com" title="BinaryAge Software">
-          <div class="header-logo">
-            <div class="header-logo-hover"></div>
+  </div>
+</div>
+
+
+
+    
+
+
+
+<p><div id="main" class="cf"></p>
+
+<p>  <div id="blog">
+  <div id="hints" class="container">
+    <div class="blog-body">
+      <div class="blog-content">
+        <div class="blog-articles">
+  <a href="/">« Read more articles</a>
+</div>
+<div id="post">
+  <div class="post-titlebar">
+    <div class="calendar">
+      <div class="month">Nov</div>
+      <div class="day">03</div>
+      <div class="year">2012</div>
+    </div>
+    <h1 class="post-title">iOS 6 Battery Issues</h1>
+    <div class="clear"></div>
+  </div>
+  <div style="float:right"><a href="https://plus.google.com/101180624276428786239?rel=author">&lt;class="post-author">By: Mark Miyashita</a></div>
+  <div class="post-content"><p>Here are some general tips for those of you who are experiencing severe battery drain on iOS 6:</p></p>
+
+<p><p>Many people are experiencing a substantial drop in battery performance on their iPhone 5 and iPhone 4s. There are many culprits to this issue that may or may not be able to be identified and/or solved. Here are a list of suggestions that I have gathered to try and solve this very annoying problem Apple has created for us.</p></p>
+
+<p><p>(Note: These are all software fixes that are presented below. Your issue may very well be a hardware issue that must be dealt with by taking your device directly to Apple to see if they can do anything about it.)</p></p>
+
+<p><p>Step 1) Try resetting your Network connectivity. To do this go to Settings > General > Reset > Reset Network Settings. This will reconnect with your carrier (Verizon, AT&amp;T, Sprint) and hopefully alleviate any connection issues.</p></p>
+
+<p><p>Step 2) Disable Bluetooth: Settings > General > Bluetooth > “OFF." Bluetooth can sometimes try and connect to various hardware that will cause a substantial decrease in battery life.</p></p>
+
+<p><p>Step 3) Disable unwanted notifications &amp; apps: Settings > Notifications > Turn OFF for anything you don’t need or use anymore. A rogue app may be constantly trying to connect to a website or server.</p></p>
+
+<p><p>Step 4) Disable Location Service: Settings > Location Services > Disable selectively for services you don’t use or need.</p></p>
+
+<p><p>Step 5) Disable Timezone Adjustment: Tap on Settings > Location Services > System Services > Setting Time Zone to "OFF."</p></p>
+
+<p><p>Step 6) Disable Ping: Settings > General > Restrictions > Enable Restrictions > Ping > OFF. Who uses Ping anyway?</p></p>
+
+<p><p>Step 7) Disable Diagnostic &amp; Usage Reports: Tap on “Settings” > General > About > Diagnostic &amp; Usage > Don’t Send. Apple set this up to collect "Anonymous" information. Turn this off to improve battery life because your iDevice won't be connecting to Apple's servers every five minutes.</p></p>
+
+<p><p>Step 8) Disable Email accounts by heading to Settings > Mail, Contacts, Calendars > Account Name > Delete Account. Once done, reset network settings (Step 1), then reboot your device and re-add your accounts back from Settings > Mail, Contacts, Calendars > Add Account.</p></p>
+
+<p><p>Step 9) Make sure you are running the latest version of iOS. As of the time of this writing, the latest version is 6.0.1.</p></p>
+
+<p><p>Step 10) Backup your iPhone and do a complete restore (guide here). You can either set up your iPhone as a new device for complete freedom from previous bugs, or you can risk the battery issue again by restoring from a backup. Your choice.</p></p>
+
+<p><p>Step 11) Setting your mail accounts to Fetch. Go to Settings > Mail, Calendar, Contacts > Fetch new data > Turn off Push and set fetch to manually. Then click on Advanced and set all accounts to Fetch.</p></p>
+
+<p><p>Step 12) Calibrate the battery by letting it run down completely to zero, then charging it all the way up to 100%.</p></p>
+
+<p><p>Step 13) Set your brightness down to 50%. Also, turn Auto Brightness to OFF, keep the brightness to one level, the auto up and down is draining additional power.</p></p>
+
+<p><p>Step 14) If you are running on a 4s and seldom use Siri, or just want to use her less often, Settings > General > Siri = Turn off Raise to Speak.</p></p>
+
+<p><p>Please post any other solutions you have found in the comments below. Also, feel free to rant about battery performance because the more we lash out at Apple by creating these support forums, the more press they will receive about the issue.</p>
+</div>
+</div></p>
+
+<p><div class="simple_overlay" id="overlay-gallery" style="display:none">
+  <a class="overlay-prev">prev</a>
+  <a class="overlay-next">next</a>
+  <div class="overlay-info"></div>
+  <img class="overlay-progress" src="https://static.binaryage.com/32e8f83d_shared_img_twitter-loader.gif" />
+</div></p>
+
+<p><script>
+// this code is responsible for turning image links into lightbox
+(function() {
+  var postContent = $('.post-content');
+  var images = $('.blog-image', postContent).add('.blog-image-full', postContent).add('.blog-image-border', postContent).add('.blog-image-full-border', postContent);
+  if (!images.length) return;</p>
+
+<p>  var anchors = [];
+  images.each(function() {
+    var el = $(this);
+    var wrapper = $('<a/>').attr('href', el.attr('src'));
+    var origTitle = el.attr('title');
+    if (origTitle) wrapper.attr('title', origTitle);
+    el.wrap(wrapper);
+  });</p>
+
+<p>  images.parent().overlay({
+    effect: 'apple',
+    expose: '#f1f1f1',
+    target: '#overlay-gallery'
+  }).gallery({
+    disabledClass: 'disabled-overlay',
+    prev: '.overlay-prev',
+    next: '.overlay-next',
+    info: '.overlay-info',
+    progress: '.overlay-progress',
+    opacity: 1,
+    speed: 200,
+    template: '[${index}/${total}] ${title}'
+  });
+})();
+</script></p>
+
+<p><div class="master-separator"></div>
+<div id="comments">
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  var disqus_shortname = 'binaryage-hints';
+  var disqus_url = "http://hints.binaryage.com/ios-6-battery-issues/";
+  (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+</div></p>
+
+<p><h2>Recent Posts</h2></p>
+
+<p><div id="post_links">
+  <ul></p>
+
+<pre><code>  &lt;li&gt;&lt;span&gt;13 Dec 2012&lt;/span&gt;  &lt;a href="/google-maps-for-ios-download/"&gt;Google Maps for iOS Download&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;span&gt;30 Nov 2012&lt;/span&gt;  &lt;a href="/iphone-rattle-near-camera/"&gt;iPhone Rattle Near Camera&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;span&gt;30 Nov 2012&lt;/span&gt;  &lt;a href="/new-imac-comes-in-trapezoid-box/"&gt;New iMac Comes in Trapezoid Box&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;span&gt;30 Nov 2012&lt;/span&gt;  &lt;a href="/slide-to-unlock-frozen-ipad-3/"&gt;Slide to Unlock Frozen on iPad 3&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;span&gt;03 Nov 2012&lt;/span&gt;  &lt;a href="/ios-6-1-now-available-for-developers/"&gt;iOS 6.1 Now Available for Developers&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;span&gt;03 Nov 2012&lt;/span&gt;  &lt;a href="/how-to-backup-your-iphone-to-icloud/"&gt;How to Backup your iPhone to iCloud&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;span&gt;03 Nov 2012&lt;/span&gt;  &lt;a href="/ios-6-do-not-disturb-mode/"&gt;iOS 6 Do Not Disturb Mode&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;span&gt;03 Nov 2012&lt;/span&gt;  &lt;a href="/ios-6-keyboard-shprtcuts/"&gt;iOS 6 Keyboard Shortcuts&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;span&gt;03 Nov 2012&lt;/span&gt;  &lt;a href="/ios-6-battery-issues/"&gt;iOS 6 Battery Issues&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;span&gt;03 Nov 2012&lt;/span&gt;  &lt;a href="/reduce-cpu-usage-by-removing-files-from-your-desktop/"&gt;Reduce CPU Usage by Removing Files From Your Desktop&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;span&gt;03 Nov 2012&lt;/span&gt;  &lt;a href="/change-panorama-direction-iphone/"&gt;Change Panorama Direction iPhone&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;span&gt;03 Nov 2012&lt;/span&gt;  &lt;a href="/share-reminders-via-icloud/"&gt;Share Reminders via iCloud&lt;/a&gt;&lt;/li&gt;
+
+&lt;br/&gt;
+For more posts, visit the full archive &lt;a href="/archive"&gt;here.&lt;/a&gt;
+</code></pre>
+
+<p>  </ul>
+</div>
+      </div>
+      <div class="blog-side">
+        <div class="vseparator-top"></div>
+        <div class="vseparator-body"></div>
+        <div class="vseparator-bottom"></div>
+        <div class="blog-side-box blog-side-about">
+          <div class="blog-side-about-left"><a href="http://markmiyashita.com"><img src="//www.gravatar.com/avatar/dca8ea2ef85135aca16bf2457cdee3eb?s=76" width="76" height="76"></a></div>
+          <div class="blog-side-about-right"><h4>About Mark</h4>I am currently a student at the University of California, Berkeley. I am passionate about the Mac and computers in general.<br/>
+          <a href="http://markmiyashita.com">Read More »</a></div>
+          <div class="thats-me arrow"></div>
+        </div>
+        <div class="blog-side-box blog-side-follow">
+          <a href="https://twitter.com/negativetwelve" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @negativetwelve</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </div>
+        <div class="blog-side-box blog-side-subscribe">
+          <a href="//feeds.feedburner.com/binaryage-hints" rel="alternate" type="application/rss+xml"><div class="blog-side-icon blog-rss-icon"/></div></a>
+          <a href="//feeds.feedburner.com/binaryage-hints" rel="alternate" type="application/rss+xml">Subscribe</a>
+          <div class="subscribe-button">
+            <a href="//feeds.feedburner.com/binaryage-hints"><img src="//feeds.feedburner.com/~fc/binaryage-hints?bg=dddddd&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt="" /></a>
           </div>
-        </a>
-        <div class="header-motto arrow"></div>
-        <div class="header-selector"></div>
-        <ul class="header-menu">
-          <li class="menu-item-store wf"><a href="http://www.binaryage.com/store"><span>store</span></a></li>
-          <li class="menu-item-products wf"><a href="http://www.binaryage.com"><span>products</span></a></li>
-          <li class="menu-item-blog wf"><a href="http://blog.binaryage.com"><span>blog</span></a></li>
-          <li class="menu-item-hints wf"><a href="http://hints.binaryage.com"><span>hints</span></a></li>
-          <li class="menu-item-support wf"><a href="http://discuss.binaryage.com"><span>support</span></a></li>
-        </ul>
+        <div class="blog-side-box blog-side-products">
+                    <br></p>
+
+<pre><code>    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+
+<p>  </div>
+</div></p>
+
+<p><!-- Start of Woopra Code -->
+<script type="text/javascript">
+function woopraReady(tracker) {
+  tracker.setDomain('hints.binaryage.com');
+  tracker.setIdleTimeout(300000);
+  tracker.track();
+  return false;
+}
+(function() {
+  var wsc = document.createElement('script');
+  wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+  wsc.type = 'text/javascript';
+  wsc.async = true;
+  var ssc = document.getElementsByTagName('script')[0];
+  ssc.parentNode.insertBefore(wsc, ssc);
+})();
+</script>
+<!-- End of Woopra Code --></p>
+
+<p></div></p>
+
+
+    
+
+
+
+
+
+<div id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        
+      </div>
+      <div class="col-md-4">
+        
+
+<div class="footer-box-right">
+  <div class="footer-copyright">
+    <div class="footer-license">
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0"><img title="the website license" alt="Creative Commons License" style="border-width:0" src="https://static.binaryage.com/69a4ba35_shared_img_byccnd.png" /></a>
+    </div>
+    <a href="http://www.binaryage.com/about">BinaryAge Limited</a>
+  </div>
+</div>
+
+
       </div>
     </div>
-    <div id="main">
-      <div class="wf">
-        <div id="blog">
-          <div id="hints" class="container">
-            <div class="blog-body">
-              <div class="blog-content">
-                <div class="blog-articles">
-                  <a href="/">« Read more articles</a>
-                </div>
-                <div id="post">
-                  <div class="post-titlebar">
-                    <div class="calendar">
-                      <div class="month">Nov</div>
-                      <div class="day">03</div>
-                      <div class="year">2012</div>
-                    </div>
-                    <h1 class="post-title">iOS 6 Battery Issues</h1>
-                    <div class="clear"></div>
-                  </div>
-                  <div style="float:right"><a href="https://plus.google.com/101180624276428786239?rel=author"><class="post-author">By: Mark Miyashita</a></div>
-                    <div class="post-content"><p>Here are some general tips for those of you who are experiencing severe battery drain on iOS 6:</p>
-                      <p>Many people are experiencing a substantial drop in battery performance on their iPhone 5 and iPhone 4s. There are many culprits to this issue that may or may not be able to be identified and/or solved. Here are a list of suggestions that I have gathered to try and solve this very annoying problem Apple has created for us.</p>
-                      <p>(Note: These are all software fixes that are presented below. Your issue may very well be a hardware issue that must be dealt with by taking your device directly to Apple to see if they can do anything about it.)</p>
-                      <p>Step 1) Try resetting your Network connectivity. To do this go to Settings > General > Reset > Reset Network Settings. This will reconnect with your carrier (Verizon, AT&amp;T, Sprint) and hopefully alleviate any connection issues.</p>
-                      <p>Step 2) Disable Bluetooth: Settings > General > Bluetooth > “OFF." Bluetooth can sometimes try and connect to various hardware that will cause a substantial decrease in battery life.</p>
-                      <p>Step 3) Disable unwanted notifications &amp; apps: Settings > Notifications > Turn OFF for anything you don’t need or use anymore. A rogue app may be constantly trying to connect to a website or server.</p>
-                      <p>Step 4) Disable Location Service: Settings > Location Services > Disable selectively for services you don’t use or need.</p>
-                      <p>Step 5) Disable Timezone Adjustment: Tap on Settings > Location Services > System Services > Setting Time Zone to "OFF."</p>
-                      <p>Step 6) Disable Ping: Settings > General > Restrictions > Enable Restrictions > Ping > OFF. Who uses Ping anyway?</p>
-                      <p>Step 7) Disable Diagnostic &amp; Usage Reports: Tap on “Settings” > General > About > Diagnostic &amp; Usage > Don’t Send. Apple set this up to collect "Anonymous" information. Turn this off to improve battery life because your iDevice won't be connecting to Apple's servers every five minutes.</p>
-                      <p>Step 8) Disable Email accounts by heading to Settings > Mail, Contacts, Calendars > Account Name > Delete Account. Once done, reset network settings (Step 1), then reboot your device and re-add your accounts back from Settings > Mail, Contacts, Calendars > Add Account.</p>
-                      <p>Step 9) Make sure you are running the latest version of iOS. As of the time of this writing, the latest version is 6.0.1.</p>
-                      <p>Step 10) Backup your iPhone and do a complete restore (guide here). You can either set up your iPhone as a new device for complete freedom from previous bugs, or you can risk the battery issue again by restoring from a backup. Your choice.</p>
-                      <p>Step 11) Setting your mail accounts to Fetch. Go to Settings > Mail, Calendar, Contacts > Fetch new data > Turn off Push and set fetch to manually. Then click on Advanced and set all accounts to Fetch.</p>
-                      <p>Step 12) Calibrate the battery by letting it run down completely to zero, then charging it all the way up to 100%.</p>
-                      <p>Step 13) Set your brightness down to 50%. Also, turn Auto Brightness to OFF, keep the brightness to one level, the auto up and down is draining additional power.</p>
-                      <p>Step 14) If you are running on a 4s and seldom use Siri, or just want to use her less often, Settings > General > Siri = Turn off Raise to Speak.</p>
-                      <p>Please post any other solutions you have found in the comments below. Also, feel free to rant about battery performance because the more we lash out at Apple by creating these support forums, the more press they will receive about the issue.</p>
-                    </div>
-                  </div>
-                  <div class="simple_overlay" id="overlay-gallery" style="display:none">
-                    <a class="overlay-prev">prev</a>
-                    <a class="overlay-next">next</a>
-                    <div class="overlay-info"></div>
-                    <img class="overlay-progress" src="http://static.binaryage.com/32e8f83d_shared_img_twitter-loader.gif"/>
-                  </div>
-                  <script>
-                    // this code is responsible for turning image links into lightbox
-                    (function(){var e=$(".post-content");var t=$(".blog-image",e).add(".blog-image-full",e).add(".blog-image-border",e).add(".blog-image-full-border",e);if(!t.length)return;var n=[];t.each(function(){var e=$(this);var t=$("<a>").attr("href",e.attr("src"));var n=e.attr("title");if(n)t.attr("title",n);e.wrap(t)});t.parent().overlay({effect:"apple",expose:"#f1f1f1",target:"#overlay-gallery"}).gallery({disabledClass:"disabled-overlay",prev:".overlay-prev",next:".overlay-next",info:".overlay-info",progress:".overlay-progress",opacity:1,speed:200,template:"[${index}/${total}] ${title}"})})()
-                  </script>
-                  <div class="master-separator"></div>
-                  <div id="comments">
-                    <div id="disqus_thread"></div>
-                    <script type="text/javascript">
-                      var disqus_shortname="binaryage-hints";var disqus_url="http://hints.binaryage.com/ios-6-battery-issues/";!function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="http://"+disqus_shortname+".disqus.com/embed.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(e)}()
-                    </script>
-                    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                    <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-                  </div>
-                  <h2>Recent Posts</h2>
-                  <div id="post_links">
-                    <ul>
-                      <li><span>12 Dec 2012</span> <a href="/google-maps-for-ios-download">Google Maps for iOS Download</a></li>
-                      <li><span>30 Nov 2012</span> <a href="/iphone-rattle-near-camera">iPhone Rattle Near Camera</a></li>
-                      <li><span>30 Nov 2012</span> <a href="/new-imac-comes-in-trapezoid-box">New iMac Comes in Trapezoid Box</a></li>
-                      <li><span>30 Nov 2012</span> <a href="/slide-to-unlock-frozen-ipad-3">Slide to Unlock Frozen on iPad 3</a></li>
-                      <li><span>03 Nov 2012</span> <a href="/ios-6-1-now-available-for-developers">iOS 6.1 Now Available for Developers</a></li>
-                      <li><span>03 Nov 2012</span> <a href="/how-to-backup-your-iphone-to-icloud">How to Backup your iPhone to iCloud</a></li>
-                      <li><span>03 Nov 2012</span> <a href="/ios-6-do-not-disturb-mode">iOS 6 Do Not Disturb Mode</a></li>
-                      <li><span>03 Nov 2012</span> <a href="/ios-6-keyboard-shprtcuts">iOS 6 Keyboard Shortcuts</a></li>
-                      <li><span>03 Nov 2012</span> <a href="/ios-6-battery-issues">iOS 6 Battery Issues</a></li>
-                      <li><span>03 Nov 2012</span> <a href="/reduce-cpu-usage-by-removing-files-from-your-desktop">Reduce CPU Usage by Removing Files From Your Desktop</a></li>
-                      <li><span>03 Nov 2012</span> <a href="/change-panorama-direction-iphone">Change Panorama Direction iPhone</a></li>
-                      <li><span>03 Nov 2012</span> <a href="/share-reminders-via-icloud">Share Reminders via iCloud</a></li>
-                      <br/>
-                      For more posts, visit the full archive <a href="/archive">here.</a>
-                    </ul>
-                  </div>
-                </div>
-                <div class="blog-side">
-                  <div class="vseparator-top"></div>
-                  <div class="vseparator-body"></div>
-                  <div class="vseparator-bottom"></div>
-                  <div class="blog-side-box blog-side-about">
-                    <div class="blog-side-about-left"><a href="http://markmiyashita.com"><img src="http://www.gravatar.com/avatar/dca8ea2ef85135aca16bf2457cdee3eb?s=76" width="76" height="76"/></a></div>
-                    <div class="blog-side-about-right"><h4>About Mark</h4>I am currently a student at the University of California, Berkeley. I am passionate about the Mac and computers in general.<br/>
-                    <a href="http://markmiyashita.com">Read More »</a></div>
-                    <div class="thats-me arrow"></div>
-                  </div>
-                  <div class="blog-side-box blog-side-follow">
-                    <a href="https://twitter.com/negativetwelve" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @negativetwelve</a>
-                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-                  </div>
-                  <div class="blog-side-box blog-side-subscribe">
-                    <a href="http://feeds.feedburner.com/binaryage-hints" rel="alternate" type="application/rss+xml"><div class="blog-side-icon blog-rss-icon"></div></a>
-                    <a href="http://feeds.feedburner.com/binaryage-hints" rel="alternate" type="application/rss+xml">Subscribe</a>
-                    <div class="subscribe-button">
-                      <a href="http://feeds.feedburner.com/binaryage-hints"><img src="http://feeds.feedburner.com/~fc/binaryage-hints?bg=dddddd&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt=""/></a>
-                    </div>
-                    <div class="blog-side-box blog-side-products">
-                      <br/>
-                      <div class="blog-side-separator-top totalfinder"></div>
-                      <div class="blog-side-product">
-                        <a href="http://totalfinder.binaryage.com">
-                          <img src="http://static.binaryage.com/57f6fb3b_shared_img_icons_totalfinder-64.png" width="38" height="38"/>
-                          <div class="title">TotalFinder</div>
-                          <div class="info">Adds tabs to your Finder.app!</div>
-                        </a>
-                      </div>
-                      <div class="blog-side-separator-bottom totalfinder"></div>
-                      <div class="blog-side-separator-top totalspaces"></div>
-                      <div class="blog-side-product">
-                        <a href="http://totalspaces.binaryage.com">
-                          <img src="http://static.binaryage.com/52792a5d_shared_img_icons_totalspaces-64.png" width="38" height="38"/>
-                          <div class="title">TotalSpaces</div>
-                          <div class="info">Brings grid spaces to Lion and more!</div>
-                        </a>
-                      </div>
-                      <div class="blog-side-separator-bottom totalspaces"></div>
-                      <div class="blog-side-separator-top totalterminal"></div>
-                      <div class="blog-side-product">
-                        <a href="http://totalterminal.binaryage.com">
-                          <img src="http://static.binaryage.com/af5e5355_shared_img_icons_totalterminal-64.png" width="38" height="38"/>
-                          <div class="title">TotalTerminal</div>
-                          <div class="info">A Quake-style Terminal window</div>
-                        </a>
-                      </div>
-                      <div class="blog-side-separator-bottom totalterminal"></div>
-                      <div class="blog-side-separator-top"></div>
-                      <div class="blog-side-product">
-                        <a href=http://hints.binaryage.com/ios-6-beta-3-update-released-download-here>
-                          <div class="title">iOS 6 Beta 3 Download</div>
-                          <div class="info">Check out the newest beta of iOS 6!</div>
-                        </a>
-                      </div>
-                      <div class="blog-side-separator-bottom"></div>
-                      <div class="blog-side-separator-top"></div>
-                      <div class="blog-side-product">
-                        <a href=http://hints.binaryage.com/get-your-mac-ready-for-mountain-lion>
-                          <div class="title">Mountain Lion</div>
-                          <div class="info">Get your Mac ready to update.</div>
-                        </a>
-                      </div>
-                      <div class="blog-side-separator-bottom"></div>
-                      <div class="blog-side-separator-top"></div>
-                      <div class="blog-side-product">
-                        <a href=http://hints.binaryage.com/safari-6-developer-preview-download>
-                          <div class="title">Safari 6 Developer Preview</div>
-                          <div class="info">Download the newest Safari 6!</div>
-                        </a>
-                      </div>
-                      <div class="blog-side-separator-bottom"></div>
-                      <div class="blog-side-separator-top"></div>
-                      <div class="blog-side-product">
-                        <a href=http://hints.binaryage.com/spread-your-dropbox-storage-link>
-                          <div class="title">Dropbox Referrals!</div>
-                          <div class="info">Get more storage on Dropbox!</div>
-                        </a>
-                      </div>
-                      <div class="blog-side-separator-bottom"></div>
-                      <div class="blog-side-separator-top"></div>
-                      <div class="blog-side-product">
-                        <a href=http://hints.binaryage.com/how-to-install-python-3-2-3-on-mac-os-x>
-                          <div class="title">Python</div>
-                          <div class="info">Install the latest Python.</div>
-                        </a>
-                      </div>
-                      <div class="blog-side-separator-bottom"></div>
-                      <div class="blog-side-separator-top"></div>
-                      <div class="blog-side-product">
-                        <a href=http://hints.binaryage.com/ios-5-1-1-jailbreak-released-download-here>
-                          <div class="title">iOS 5.1.1 Jailbreak</div>
-                          <div class="info">Jailbreak your iPhone.</div>
-                        </a>
-                      </div>
-                      <div class="blog-side-separator-bottom"></div>
-                      <div class="blog-side-separator-top"></div>
-                      <div class="blog-side-product">
-                        <a href=http://hints.binaryage.com/archive>
-                          <div class="title">Archive</div>
-                          <div class="info">Read most posts</div>
-                        </a>
-                      </div>
-                      <div class="blog-side-separator-bottom"></div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- Start of Woopra Code -->
-            <script type="text/javascript">
-              function woopraReady(e){e.setDomain("hints.binaryage.com");e.setIdleTimeout(3e5);e.track();return false}(function(){var e=document.createElement("script");e.src=document.location.protocol+"//static.woopra.com/js/woopra.js";e.type="text/javascript";e.async=true;var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
-            </script>
-            <!-- End of Woopra Code -->
-          </div>
-          <div class="clear"></div>
-        </div>
-        <div id="tweets-section">
-          <div class="container" style="position: relative">
-            <ol id="tweets" class="statuses"></ol>
-          </div>
-        </div>
-        <div id="footer">
-          <div class="container">
-            <div class="footer-separator"></div>
-            <div class="footerbox">
-              <div class="copyright">
-                <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0"><img title="the website license" alt="Creative Commons License" style="border-width:0" src="http://static.binaryage.com/69a4ba35_shared_img_byccnd.png"/></a>
-              </div>
-              <div class="footer-links wf">
-                <a href="http://www.binaryage.com/about.html">contact</a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <script type="text/javascript" charset="utf-8">
-          $(function(){var e;$(".topbar-testimonials").bind("click",function(){if(window.SSTracker){SSTracker.pushState("praise")}if(!e){$("#tweets").tweet({user:"binaryage"});e=true}})})
-        </script>
-        <script type="text/javascript" charset="utf-8">
-          $(function(){setTimeout(function(){var e=location.hash.substring(1);if(e.substring(0,2)=="o-"){$("#"+e).trigger("click")}},500)})
-        </script>
-        <script type="text/javascript" charset="utf-8">
-          $(function(){var t=document.location.host;if(t.substring(t.length-3)=="org"){$("a").each(function(){var a=$(this);var i=a.attr("href");if(i){if(i.match("binaryage.com")){i=i.replace("binaryage.com","binaryage.org")}var n=document.location+"";if(i.substring(0,4)!="http"&&i.match(/\/[^.]+$/i)){if(t.substring(n.length-1)=="2"){i+="2"}if(n.substring(n.length-6)=="2.html"){i+="2"}i+=".html"}a.attr("href",i)}})}})
-        </script>
-        <script type="text/javascript" charset="utf-8">
-          !function(){var r=parseUri(document.location+"");var e=r.queryKey["referrer"];if(e){bacookie("bareferrer",e,{path:"/",expires:14})}}();$("a").live("click",function(){var r=$(this).attr("href")+"";var e=bacookie("bareferrer");if(e){r+=(r.indexOf("?")==-1?"?":"&")+"referrer="+encodeURIComponent(e)}var a=document.location+"";if(a.match(/fastspring\.com/)&&r.match(/binaryage\.com/)||a.match(/binaryage\.com/)&&r.match(/fastspring\.com/)){_gaq.push(["_link",r]);return false}})
-        </script>
-        <script type="text/javascript">
-          var _gauges=_gauges||[];(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.id="gauges-tracker";e.setAttribute("data-site-id","4f4c4073844d52031a000106");e.src="//secure.gaug.es/track.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
-        </script>
-      </body>
-    </html>
+  </div>
+</div>
+
+
+
+
+    
+
+
+
+    
+
+    <script type="text/javascript" charset="utf-8">
+  if (window.jQuery) {
+    $(function() {
+      // trigger page states
+      setTimeout(function() { // give other code some time to init
+        var hash = location.hash.substring(1);
+        if (hash.substring(0,2)=="o-") {
+          $('#'+hash).trigger('click');
+        }
+      }, 500);
+    });
+  }
+</script>
+
+
+    
+
+    
+<script type="text/javascript">
+  var _gauges = _gauges || [];
+  (function() {
+    var t   = document.createElement('script');
+    t.type  = 'text/javascript';
+    t.async = true;
+    t.id    = 'gauges-tracker';
+    
+    t.setAttribute('data-site-id', '4f10d65d844d52139500000b');
+    
+    t.src = '//secure.gaug.es/track.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(t, s);
+  })();
+</script>
+
+
+
+    
+
+  </body>
+</html>
