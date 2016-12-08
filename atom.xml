@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Hints from BinaryAge</title>
-    <link href="http://hints.binaryage.com/atom.xml" rel="self"/>
-    <link href="http://hints.binaryage.com"/>
-    <updated>2016-12-08T04:15:31+00:00</updated>
-    <id>http://hints.binaryage.com/</id>
-    
+    <link href="https://hints.binaryage.com/atom.xml" rel="self"/>
+    <link href="https://hints.binaryage.com"/>
+    <updated>2016-12-08T17:59:29+00:00</updated>
+    <id>https://hints.binaryage.com/</id>
     
     <entry>
         <title><![CDATA[Google Maps for iOS Download]]></title>
         
-        <link href="http://hints.binaryage.com//google-maps-for-ios-download/"/>
+        <link href="https://hints.binaryage.com//google-maps-for-ios-download/"/>
         <updated>2012-12-13T04:59:00+00:00</updated>
         <id>hints.binaryage.com:/google-maps-for-ios-download</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/e6f8b4c1_images_google_maps_download.png" title="Google Maps for iOS"></p>
@@ -34,7 +33,7 @@
     <entry>
         <title><![CDATA[iPhone Rattle Near Camera]]></title>
         
-        <link href="http://hints.binaryage.com//iphone-rattle-near-camera/"/>
+        <link href="https://hints.binaryage.com//iphone-rattle-near-camera/"/>
         <updated>2012-11-30T20:31:00+00:00</updated>
         <id>hints.binaryage.com:/iphone-rattle-near-camera</id>
         <content type="html"><![CDATA[<p>Have you noticed that your iPhone rattles when you tap the camera area on the back? Turns out that this is completely normal and is a result of the gyroscope inside your phone. It is definitely very annoying, but at least we know that it is not a hardware issue with your phone. You can test out the noise to make sure it is not that loud by tapping very lightly on the back of your iPhone and listening to the rattle near the camera. Of course, if it sounds like something is truly messed up (if the rattle noise is unusually loud) then you should take it the Apple Store and have a genius look at it.</p>
@@ -50,7 +49,7 @@
     <entry>
         <title><![CDATA[New iMac Comes in Trapezoid Box]]></title>
         
-        <link href="http://hints.binaryage.com//new-imac-comes-in-trapezoid-box/"/>
+        <link href="https://hints.binaryage.com//new-imac-comes-in-trapezoid-box/"/>
         <updated>2012-11-30T18:50:00+00:00</updated>
         <id>hints.binaryage.com:/new-imac-comes-in-trapezoid-box</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/c6e87123_images_new-imacs.jpg" title="New 2012 iMacs">
@@ -71,7 +70,7 @@
     <entry>
         <title><![CDATA[Slide to Unlock Frozen on iPad 3]]></title>
         
-        <link href="http://hints.binaryage.com//slide-to-unlock-frozen-ipad-3/"/>
+        <link href="https://hints.binaryage.com//slide-to-unlock-frozen-ipad-3/"/>
         <updated>2012-11-30T08:18:00+00:00</updated>
         <id>hints.binaryage.com:/slide-to-unlock-frozen-ipad-3</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/7a1bdb8f_images_slidetounlock.png" title="Slide to Unlock"></p>
@@ -93,7 +92,7 @@
     <entry>
         <title><![CDATA[iOS 6.1 Now Available for Developers]]></title>
         
-        <link href="http://hints.binaryage.com//ios-6-1-now-available-for-developers/"/>
+        <link href="https://hints.binaryage.com//ios-6-1-now-available-for-developers/"/>
         <updated>2012-11-03T09:55:00+00:00</updated>
         <id>hints.binaryage.com:/ios-6-1-now-available-for-developers</id>
         <content type="html"><![CDATA[<p>Even though Apple just release iOS 6.0.1 to the general public, they have also just pushed out the iOS 6.1 beta to the developers. So far, the most notable change has been the inclusion of a button labeled "Report a problem" in the Apple Maps app. This is a welcome feature and a step towards recreating a whole new maps infrastructure. There are a bunch more minor changes as well as fixing issues with Passbook and the Lockscreen. If you have any questions, feel free to post below!</p>
@@ -107,7 +106,7 @@
     <entry>
         <title><![CDATA[How to Backup your iPhone to iCloud]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-backup-your-iphone-to-icloud/"/>
+        <link href="https://hints.binaryage.com//how-to-backup-your-iphone-to-icloud/"/>
         <updated>2012-11-03T09:52:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-backup-your-iphone-to-icloud</id>
         <content type="html"><![CDATA[<p>Backing up your iPhone to iCloud is most likely a lot easier than you think. You basically only have to have an Apple ID, set up iCloud, and then flip a switch in settings to enable automatic backups. To do this, sign in to iCloud through Settings > iCloud. Then, go to Settings > iCloud > Storage &amp; Backup > iCloud Backup = On. This will turn on the magical switch that will back up your iPhone to iCloud.</p>
@@ -123,7 +122,7 @@
     <entry>
         <title><![CDATA[iOS 6 Do Not Disturb Mode]]></title>
         
-        <link href="http://hints.binaryage.com//ios-6-do-not-disturb-mode/"/>
+        <link href="https://hints.binaryage.com//ios-6-do-not-disturb-mode/"/>
         <updated>2012-11-03T09:49:00+00:00</updated>
         <id>hints.binaryage.com:/ios-6-do-not-disturb-mode</id>
         <content type="html"><![CDATA[<p>iOS 6 included a cool new feature called "Do Not Disturb" mode which basically does as the name implies. It places your phone in a silent, no vibrate state where it can still send and receive messages but it won't alert you of anything. This is especially useful if you are in a meeting or if you have class and you don't want to be disturbed. Personally, I use this mode at night when I want to keep my phone in a sort of "alarm only" mode.</p>
@@ -137,7 +136,7 @@
     <entry>
         <title><![CDATA[iOS 6 Keyboard Shortcuts]]></title>
         
-        <link href="http://hints.binaryage.com//ios-6-keyboard-shprtcuts/"/>
+        <link href="https://hints.binaryage.com//ios-6-keyboard-shprtcuts/"/>
         <updated>2012-11-03T09:44:00+00:00</updated>
         <id>hints.binaryage.com:/ios-6-keyboard-shprtcuts</id>
         <content type="html"><![CDATA[<p>If you have restored your device from backup, you have probably had issues with the keyboard shortcuts that you have previous defined on your iPhone. There is a simple fix that works for 99% of people. Simply navigate to: Settings > General > Keyboard > Add New Shortcut... and then add a new shortcut. It doesn't matter what you add because you will be able to remove it immediately after. This is just to refresh the database so that the keyboard shortcuts that you defined before still work.</p>
@@ -153,7 +152,7 @@
     <entry>
         <title><![CDATA[iOS 6 Battery Issues]]></title>
         
-        <link href="http://hints.binaryage.com//ios-6-battery-issues/"/>
+        <link href="https://hints.binaryage.com//ios-6-battery-issues/"/>
         <updated>2012-11-03T09:42:00+00:00</updated>
         <id>hints.binaryage.com:/ios-6-battery-issues</id>
         <content type="html"><![CDATA[<p>Here are some general tips for those of you who are experiencing severe battery drain on iOS 6:</p>
@@ -201,7 +200,7 @@
     <entry>
         <title><![CDATA[Reduce CPU Usage by Removing Files From Your Desktop]]></title>
         
-        <link href="http://hints.binaryage.com//reduce-cpu-usage-by-removing-files-from-your-desktop/"/>
+        <link href="https://hints.binaryage.com//reduce-cpu-usage-by-removing-files-from-your-desktop/"/>
         <updated>2012-11-03T09:26:00+00:00</updated>
         <id>hints.binaryage.com:/reduce-cpu-usage-by-removing-files-from-your-desktop</id>
         <content type="html"><![CDATA[<p>If you have noticed that your CPU usage has been unusually high or that your fans have been constantly on, you may want to check your desktop. In previous years, it has been found that keeping large amounts, or even just a few large in size files on your desktop causes your computer to slow down. The main reason for this currently is because of Quick Look and the fact that it starts to load files in the current directory so that it can work even faster.</p>
@@ -217,7 +216,7 @@
     <entry>
         <title><![CDATA[Change Panorama Direction iPhone]]></title>
         
-        <link href="http://hints.binaryage.com//change-panorama-direction-iphone/"/>
+        <link href="https://hints.binaryage.com//change-panorama-direction-iphone/"/>
         <updated>2012-11-03T09:18:00+00:00</updated>
         <id>hints.binaryage.com:/change-panorama-direction-iphone</id>
         <content type="html"><![CDATA[<p>This is a small feature that many people probably do not know about. On the iPhone or any iOS device with Panorama mode, you can simply tap on the white arrow in the middle of the screen to change the direction that you sweep when in this mode. Now, you can take panoramas going from right to left in addition to the ones you can take going from left to right. Handy!</p>
@@ -231,7 +230,7 @@
     <entry>
         <title><![CDATA[Share Reminders via iCloud]]></title>
         
-        <link href="http://hints.binaryage.com//share-reminders-via-icloud/"/>
+        <link href="https://hints.binaryage.com//share-reminders-via-icloud/"/>
         <updated>2012-11-03T09:14:00+00:00</updated>
         <id>hints.binaryage.com:/share-reminders-via-icloud</id>
         <content type="html"><![CDATA[<p>The Reminders section of the online interface for iCloud allows you to share a reminders list with someone else. To do this, simply open up the online interface of reminders. Hover over the list you want to share on the left hand side of the screen, and click on the wifi-look-a-like symbol. Then you can enter in a friend's email address and send them your reminders list!</p>
@@ -245,7 +244,7 @@
     <entry>
         <title><![CDATA[iPad Mini Launch Day]]></title>
         
-        <link href="http://hints.binaryage.com//ipad-mini-launch-day/"/>
+        <link href="https://hints.binaryage.com//ipad-mini-launch-day/"/>
         <updated>2012-11-03T08:33:00+00:00</updated>
         <id>hints.binaryage.com:/ipad-mini-launch-day</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/d114a89e_images_ipad_mini.jpg" title="iPad Mini"></p>
@@ -265,7 +264,7 @@
     <entry>
         <title><![CDATA[iPhone 5 Specific Update]]></title>
         
-        <link href="http://hints.binaryage.com//iphone-5-specific-update/"/>
+        <link href="https://hints.binaryage.com//iphone-5-specific-update/"/>
         <updated>2012-11-03T07:50:00+00:00</updated>
         <id>hints.binaryage.com:/iphone-5-specific-update</id>
         <content type="html"><![CDATA[<p>Apple released a small app that you can download wirelessly on your iPhone 5 so that you can update your iPhone. Wait, hasn't over-the-air updates been a feature for several releases now? The answer to that question is yes. However, Apple seems to have forgotten to include this feature in the iPhone 5 and that is what this minor update is for. You can download it via Settings > Software Update and clicking on "Read More" or you can just plug into iTunes. Then you can download the new iOS 6.0.1 right after and have your iPhone be completely updated.</p>
@@ -281,7 +280,7 @@
     <entry>
         <title><![CDATA[iOS 6 Exchange Mail Fix]]></title>
         
-        <link href="http://hints.binaryage.com//ios-6-exchange-mail-fix/"/>
+        <link href="https://hints.binaryage.com//ios-6-exchange-mail-fix/"/>
         <updated>2012-09-30T20:37:00+00:00</updated>
         <id>hints.binaryage.com:/ios-6-exchange-mail-fix</id>
         <content type="html"><![CDATA[<p>Some people have reported issues using Exchange Server 2007 and 2010 on iOS 6. A temporary fix has been discovered and here are the steps to follow to start receiving your Exchange email again:</p>
@@ -307,7 +306,7 @@
     <entry>
         <title><![CDATA[iPhone 5 Battery Problems]]></title>
         
-        <link href="http://hints.binaryage.com//iphone-5-battery-problems/"/>
+        <link href="https://hints.binaryage.com//iphone-5-battery-problems/"/>
         <updated>2012-09-30T20:31:00+00:00</updated>
         <id>hints.binaryage.com:/iphone-5-battery-problems</id>
         <content type="html"><![CDATA[<p>Have you been noticing issues with the battery life of your iPhone 5 or any other device running iOS 6 in general? Many users are reporting a substantial difference in battery life on both their iPhone 4 and 4s phones since the upgrade to iOS 6. More so, people on the iPhone 5 have had many issues with battery life, most likely caused by LTE and the massive power drain that it causes. <a href="http://hints.binaryage.com/iphone-battery-problems/">Here</a> is a link to our old article written to help increase the battery life of your device. The same tips still apply for the new iPhone as well as the iPhone 4 and 4s. Let us know in the comments what worked and what didn't work for you!</p>
@@ -323,7 +322,7 @@
     <entry>
         <title><![CDATA[Time Machine Issues on Mountain Lion]]></title>
         
-        <link href="http://hints.binaryage.com//time-machine-issues-on-mountain-lion/"/>
+        <link href="https://hints.binaryage.com//time-machine-issues-on-mountain-lion/"/>
         <updated>2012-09-30T19:17:00+00:00</updated>
         <id>hints.binaryage.com:/time-machine-issues-on-mountain-lion</id>
         <content type="html"><![CDATA[<p>Since upgrading to Mountain Lion, a lot of people have been having issues with their Time Machine backups that worked perfectly fine on Lion. Here are a few tips to try and solve the problem:</p>
@@ -349,7 +348,7 @@
     <entry>
         <title><![CDATA[iPhone 5 Bluetooth Not Working]]></title>
         
-        <link href="http://hints.binaryage.com//iphone-5-bluetooth-not-working/"/>
+        <link href="https://hints.binaryage.com//iphone-5-bluetooth-not-working/"/>
         <updated>2012-09-30T18:58:00+00:00</updated>
         <id>hints.binaryage.com:/iphone-5-bluetooth-not-working</id>
         <content type="html"><![CDATA[<p>A lot of users are reporting that their bluetooth devices are having issues working properly with the iPhone 5 (which has bluetooth 4.0 as opposed to bluetooth 2.1 which was what the iPhone 4 and 4s had). Here are some steps to try and fix these issues that are plaguing iOS 6 users.</p>
@@ -373,7 +372,7 @@
     <entry>
         <title><![CDATA[Add Your Phone Number to OS X Messages]]></title>
         
-        <link href="http://hints.binaryage.com//add-your-phone-number-to-os-x-messages/"/>
+        <link href="https://hints.binaryage.com//add-your-phone-number-to-os-x-messages/"/>
         <updated>2012-09-30T18:49:00+00:00</updated>
         <id>hints.binaryage.com:/add-your-phone-number-to-os-x-messages</id>
         <content type="html"><![CDATA[<p>With the new iOS 6 and Mac OS X 10.8.2, you can now send and receive iMessages from your phone number to and from your computer! This is a very desirable feature because it makes iMessage more like Google Voice. Now, you don't have to look around and find your phone; it's the perfect solution for lazy people!</p>
@@ -395,7 +394,7 @@
     <entry>
         <title><![CDATA[How to Listen to Podcasts through the Music App on iOS 6]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-listen-to-podcasts-through-the-music-app-on-ios-6/"/>
+        <link href="https://hints.binaryage.com//how-to-listen-to-podcasts-through-the-music-app-on-ios-6/"/>
         <updated>2012-09-30T18:31:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-listen-to-podcasts-through-the-music-app-on-ios-6</id>
         <content type="html"><![CDATA[<p>If you're on iOS 6, you may have wondered where the podcasts section of the Music app went. Well, it seems that if you have the Podcasts app made by Apple installed on your device, then the podcasts section of the Music app disappears. If you don't like the Podcasts app, or find that you seldom use it because of the interface, you can remove the app and the podcasts section of the Music app will reappear, almost if by magic. Now, you can again enjoy listening to your podcasts through the Music app in a playlist or intermixed with other audio clips if you so desire.</p>
@@ -411,7 +410,7 @@
     <entry>
         <title><![CDATA[iPhone 5 Jailbroken]]></title>
         
-        <link href="http://hints.binaryage.com//iphone-5-jailbroken/"/>
+        <link href="https://hints.binaryage.com//iphone-5-jailbroken/"/>
         <updated>2012-09-30T18:18:00+00:00</updated>
         <id>hints.binaryage.com:/iphone-5-jailbroken</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/f5426a32_images_iphone5_jailbreak.jpg" title="iPhone 5"></p>
@@ -429,7 +428,7 @@
     <entry>
         <title><![CDATA[New Sharing Features of iOS 6]]></title>
         
-        <link href="http://hints.binaryage.com//new-sharing-features-of-ios-6/"/>
+        <link href="https://hints.binaryage.com//new-sharing-features-of-ios-6/"/>
         <updated>2012-09-30T11:52:00+00:00</updated>
         <id>hints.binaryage.com:/new-sharing-features-of-ios-6</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/c563b665_images_sharing.jpeg" title="Sharing"></p>
@@ -447,7 +446,7 @@
     <entry>
         <title><![CDATA[Gmail for iOS Updated for iPhone 5]]></title>
         
-        <link href="http://hints.binaryage.com//gmail-for-ios-updated-for-iphone-5/"/>
+        <link href="https://hints.binaryage.com//gmail-for-ios-updated-for-iphone-5/"/>
         <updated>2012-09-30T11:48:00+00:00</updated>
         <id>hints.binaryage.com:/gmail-for-ios-updated-for-iphone-5</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-border" src="https://static.binaryage.com/2fc9e67f_images_gmail.png" title="Gmail"></p>
@@ -465,7 +464,7 @@
     <entry>
         <title><![CDATA[Do Not Disturb Mode is Apple's Alarm Only Mode]]></title>
         
-        <link href="http://hints.binaryage.com//do-not-disturb-mode-is-apples-alarm-only-mode/"/>
+        <link href="https://hints.binaryage.com//do-not-disturb-mode-is-apples-alarm-only-mode/"/>
         <updated>2012-09-30T11:40:00+00:00</updated>
         <id>hints.binaryage.com:/do-not-disturb-mode-is-apples-alarm-only-mode</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/17b5bdd6_images_do_not_disturb.png" title="Alarm Mode"></p>
@@ -483,7 +482,7 @@
     <entry>
         <title><![CDATA[CardDAV A New Way to Sync Google Contacts with iOS 6]]></title>
         
-        <link href="http://hints.binaryage.com//carddav-a-new-way-to-sync-google-contacts-with-ios-6/"/>
+        <link href="https://hints.binaryage.com//carddav-a-new-way-to-sync-google-contacts-with-ios-6/"/>
         <updated>2012-09-30T11:33:00+00:00</updated>
         <id>hints.binaryage.com:/carddav-a-new-way-to-sync-google-contacts-with-ios-6</id>
         <content type="html"><![CDATA[<p>Today, Google introduced a new way to sync Google Contacts with your iOS device running iOS 5.0 or later. Google Contacts now supports CalDAV, an open source card format for sharing address books and contacts. Here's how you can set up the sync between your iOS device and Google.</p>
@@ -505,7 +504,7 @@
     <entry>
         <title><![CDATA[How to Make Your Own Passbook Cards in iOS 6]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-make-your-own-passbook-cards-on-ios-6/"/>
+        <link href="https://hints.binaryage.com//how-to-make-your-own-passbook-cards-on-ios-6/"/>
         <updated>2012-09-30T11:20:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-make-your-own-passbook-cards-on-ios-6</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/195734b3_images_passsource.png" title="Pass Source"></p>
@@ -523,7 +522,7 @@
     <entry>
         <title><![CDATA[Missing Google Maps on iOS 6? Check out these alternatives in the App Store]]></title>
         
-        <link href="http://hints.binaryage.com//missing-google-maps-on-ios-6-checkout-the-app-store/"/>
+        <link href="https://hints.binaryage.com//missing-google-maps-on-ios-6-checkout-the-app-store/"/>
         <updated>2012-09-29T17:38:00+00:00</updated>
         <id>hints.binaryage.com:/missing-google-maps-on-ios-6-checkout-the-app-store</id>
         <content type="html"><![CDATA[<p>As you all know, Apple has removed Google Maps from iOS 6 in favor of their own maps software. You all also know that the new app has failed and with its continued bad press, Apple has openly come up with alternatives for users of iOS 6. Check out the Map Apps featured section of the iOS App Store. Apple has added this section for you to use an alternative app such as Waze or even MapQuest until they can fix their broken Maps app.</p>
@@ -541,7 +540,7 @@
     <entry>
         <title><![CDATA[How to Approach Hard Drive Cloning in Mac OS X Using Apple's Disk Utility]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-approach-hard-drive-cloning-in-mac-os-x-disk-utility/"/>
+        <link href="https://hints.binaryage.com//how-to-approach-hard-drive-cloning-in-mac-os-x-disk-utility/"/>
         <updated>2012-09-26T10:31:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-approach-hard-drive-cloning-in-mac-os-x-disk-utility</id>
         <content type="html"><![CDATA[<p>Due to increasing size of data repositories, organization of data seems to be the largest issue of all time. Additionally, increased business mobility has made it difficult to deal with the evolving risks of data loss in today's work environment. Backups offer a reliable solution for data protection and recovery in these crises. Mac users often create drive clones or bootable backups to make a mirror image of their systems. These backups or clones comprise all important data (including files, folders, and applications) and the necessary system files required to boot a Mac, eliminating the need to start from another disk while performing the restore operation.</p>
@@ -571,7 +570,7 @@ Stuart Bell is a Mac user who believes in making life better with latest and mos
     <entry>
         <title><![CDATA[iOS 6 upgrade problem: wifi redirects to apple.com]]></title>
         
-        <link href="http://hints.binaryage.com//io6-wifi-apple-problem-page-cant-be-found/"/>
+        <link href="https://hints.binaryage.com//io6-wifi-apple-problem-page-cant-be-found/"/>
         <updated>2012-09-20T00:00:00+00:00</updated>
         <id>hints.binaryage.com:/io6-wifi-apple-problem-page-cant-be-found</id>
         <content type="html"><![CDATA[<p>I have just update to iOS 6 and experienced a problem with wifi connectivity. Everytime I wanted to connect to my home wifi it ended up opening "Log In" screen with broken page at apple.com saying "hmm, the page you're looking for can't be found.".</p>
@@ -610,7 +609,7 @@ Stuart Bell is a Mac user who believes in making life better with latest and mos
     <entry>
         <title><![CDATA[How To Disable Java on Chrome]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-disable-java-on-chrome/"/>
+        <link href="https://hints.binaryage.com//how-to-disable-java-on-chrome/"/>
         <updated>2012-09-10T09:26:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-disable-java-on-chrome</id>
         <content type="html"><![CDATA[<p>With the recent "zero-day exploit" found for Oracle's Java, a few of you out there might want to disable Java in your browser because of the possibility of being hacked. Here are the steps to block Java from loading in your Google Chrome web browser.</p>
@@ -642,7 +641,7 @@ Stuart Bell is a Mac user who believes in making life better with latest and mos
     <entry>
         <title><![CDATA[Air Display by Avatron Review]]></title>
         
-        <link href="http://hints.binaryage.com//air-display-by-avatron-review/"/>
+        <link href="https://hints.binaryage.com//air-display-by-avatron-review/"/>
         <updated>2012-09-04T04:15:00+00:00</updated>
         <id>hints.binaryage.com:/air-display-by-avatron-review</id>
         <content type="html"><![CDATA[<p>Here is my review of Air Display by Avatron, an app that allows you to utilize another computer (Mac or PC) or even a tablet (iPad) as another screen for your main computer. From a Computer Scientist's perspective, this is an awesome feature because the more screen real estate, the better.</p>
@@ -690,7 +689,7 @@ Stuart Bell is a Mac user who believes in making life better with latest and mos
     <entry>
         <title><![CDATA[Recover lost Recovery HD for FileVault - the easy way]]></title>
         
-        <link href="http://hints.binaryage.com//recover-lost-recovery-hd-for-filevault/"/>
+        <link href="https://hints.binaryage.com//recover-lost-recovery-hd-for-filevault/"/>
         <updated>2012-09-03T00:00:00+00:00</updated>
         <id>hints.binaryage.com:/recover-lost-recovery-hd-for-filevault</id>
         <content type="html"><![CDATA[<p>Today I wanted to install FileVault2 on my secondary MacBook. Unfortunately FileVault reported:<br>
@@ -786,7 +785,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[iStat Pro for Mountain Lion]]></title>
         
-        <link href="http://hints.binaryage.com//istat-pro-for-mountain-lion/"/>
+        <link href="https://hints.binaryage.com//istat-pro-for-mountain-lion/"/>
         <updated>2012-08-29T09:29:00+00:00</updated>
         <id>hints.binaryage.com:/istat-pro-for-mountain-lion</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/117e7add_images_istat1.png" title="iStat Pro"></p>
@@ -843,7 +842,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Transfer Photos From Photo Stream to Camera Roll on iOS]]></title>
         
-        <link href="http://hints.binaryage.com//transfer-photos-from-photo-stream-to-camera-roll/"/>
+        <link href="https://hints.binaryage.com//transfer-photos-from-photo-stream-to-camera-roll/"/>
         <updated>2012-08-28T08:31:00+00:00</updated>
         <id>hints.binaryage.com:/transfer-photos-from-photo-stream-to-camera-roll</id>
         <content type="html"><![CDATA[<p>Photo Stream is a welcome feature to iOS 5 that many people use to sync pictures between their devices. However, one caveat is that the pictures are only stored in Photo Stream for 30 days. This can cause a problem when you want to save a picture to your camera roll for later viewing past the initial 30 days. This can be overcome by following the guide below:</p>
@@ -867,7 +866,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[How to Remove System Preferences on Mac]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-remove-system-preferences-on-mac/"/>
+        <link href="https://hints.binaryage.com//how-to-remove-system-preferences-on-mac/"/>
         <updated>2012-08-26T08:22:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-remove-system-preferences-on-mac</id>
         <content type="html"><![CDATA[<p>If your System Preferences panes are looking cluttered, then follow the steps below to remove specific preference panes that you never use. If you install a lot of extensions then this tip is for you.</p>
@@ -895,7 +894,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Set Default Tab Size and Turn on Soft Tabs on TextMate 2]]></title>
         
-        <link href="http://hints.binaryage.com//set-default-tab-size-and-turn-on-soft-tabs-in-textmate-2/"/>
+        <link href="https://hints.binaryage.com//set-default-tab-size-and-turn-on-soft-tabs-in-textmate-2/"/>
         <updated>2012-08-19T17:10:00+00:00</updated>
         <id>hints.binaryage.com:/set-default-tab-size-and-turn-on-soft-tabs-in-textmate-2</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-border" src="https://static.binaryage.com/08023b31_images_TextMate.png" title="TextMate"></p>
@@ -915,7 +914,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[How To Flush DNS Cache on Mac OS X 10.7 and 10.8]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-flush-dns-cache-on-mac-os-x-10-7-and-10-8/"/>
+        <link href="https://hints.binaryage.com//how-to-flush-dns-cache-on-mac-os-x-10-7-and-10-8/"/>
         <updated>2012-08-18T18:20:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-flush-dns-cache-on-mac-os-x-10-7-and-10-8</id>
         <content type="html"><![CDATA[<p>If you are having problems connecting to the internet on your Mac, you may need to flush your DNS cache. On Mac OS X 10.7 and 10.8, you can simply open Terminal by using Spotlight (CMD+Space) or by going to Applications > Utilities > Terminal. Copy and paste the command below to flush your DNS Cache:</p>
@@ -933,7 +932,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[How To Enable Power Nap on MacBook Air 2010]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-enable-power-nap-on-macbook-air-2010/"/>
+        <link href="https://hints.binaryage.com//how-to-enable-power-nap-on-macbook-air-2010/"/>
         <updated>2012-08-17T07:38:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-enable-power-nap-on-macbook-air-2010</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/913e8161_images_power_nap.png" title="MacBook Air Power Nap"></p>
@@ -956,7 +955,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[How to Download YouTube Videos on Mountain Lion Safari 6]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-download-youtube-videos-mountain-lion-safari-6/"/>
+        <link href="https://hints.binaryage.com//how-to-download-youtube-videos-mountain-lion-safari-6/"/>
         <updated>2012-08-13T08:06:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-download-youtube-videos-mountain-lion-safari-6</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/3ce1683c_images_download_youtube2.png" title="YouTube"></p>
@@ -980,7 +979,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Enable AirPrint on Windows with iOS 5]]></title>
         
-        <link href="http://hints.binaryage.com//enable-airprint-on-windows-ios-5/"/>
+        <link href="https://hints.binaryage.com//enable-airprint-on-windows-ios-5/"/>
         <updated>2012-08-05T09:34:00+00:00</updated>
         <id>hints.binaryage.com:/enable-airprint-on-windows-ios-5</id>
         <content type="html"><![CDATA[<p>Here is a quick guide on how to enable AirPrint on your Windows machine assuming you have iOS 5 or greater.</p>
@@ -1008,7 +1007,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Change Mountain Lion Calendar and Contacts App to Aluminum Skin]]></title>
         
-        <link href="http://hints.binaryage.com//change-mountain-lion-calendar-and-contacts-app-to-aluminum-skin/"/>
+        <link href="https://hints.binaryage.com//change-mountain-lion-calendar-and-contacts-app-to-aluminum-skin/"/>
         <updated>2012-07-26T11:08:00+00:00</updated>
         <id>hints.binaryage.com:/change-mountain-lion-calendar-and-contacts-app-to-aluminum-skin</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/7dc07a12_images_calendar.png" title="Calendar"></p>
@@ -1036,7 +1035,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Notice: Facebook Mountain Lion Integration Coming Out Later]]></title>
         
-        <link href="http://hints.binaryage.com//notice-facebook-integration-not-until-fall-mountain-lion/"/>
+        <link href="https://hints.binaryage.com//notice-facebook-integration-not-until-fall-mountain-lion/"/>
         <updated>2012-07-26T11:02:00+00:00</updated>
         <id>hints.binaryage.com:/notice-facebook-integration-not-until-fall-mountain-lion</id>
         <content type="html"><![CDATA[<p>Wondering where that long rumored Facebook integration into Mountain Lion is? It certainly has been mentioned by Apple several times in their list of updates included in their newly launched Mountain Lion. As it turns out, the new Facebook integration won't be coming out until the Fall, most likely October. This may be sad news for some, but don't worry, you'll be posting status updates from your Mac Notification Bar in no time at all. Stay tuned!</p>
@@ -1052,7 +1051,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Mountain Tweaks Coming Out Soon]]></title>
         
-        <link href="http://hints.binaryage.com//mountain-tweaks-coming-out-soon/"/>
+        <link href="https://hints.binaryage.com//mountain-tweaks-coming-out-soon/"/>
         <updated>2012-07-26T10:48:00+00:00</updated>
         <id>hints.binaryage.com:/mountain-tweaks-coming-out-soon</id>
         <content type="html"><![CDATA[<p>The developer of Lion Tweaks has a new app coming out soon called "Mountain Tweaks." This update will be for Mountain Lion compatibility only and will enable all of the broken features on the Lion version to work with Mountain Lion.</p>
@@ -1070,7 +1069,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[How To Make a Mountain Lion USB Installer Key]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-make-a-mountain-lion-usb-installer-key/"/>
+        <link href="https://hints.binaryage.com//how-to-make-a-mountain-lion-usb-installer-key/"/>
         <updated>2012-07-25T20:00:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-make-a-mountain-lion-usb-installer-key</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/621c869b_images_os-x-mountain-lion.jpeg" title="Mountain Lion"></p>
@@ -1106,7 +1105,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Mountain Lion Released Today]]></title>
         
-        <link href="http://hints.binaryage.com//mointain-lion-released-today/"/>
+        <link href="https://hints.binaryage.com//mointain-lion-released-today/"/>
         <updated>2012-07-25T17:40:00+00:00</updated>
         <id>hints.binaryage.com:/mointain-lion-released-today</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/621c869b_images_os-x-mountain-lion.jpeg" title="Mountain Lion"></p>
@@ -1127,7 +1126,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Simple Shortcut to Lock Your Mac's Screen]]></title>
         
-        <link href="http://hints.binaryage.com//simple-shortcut-to-lock-your-macs-screen/"/>
+        <link href="https://hints.binaryage.com//simple-shortcut-to-lock-your-macs-screen/"/>
         <updated>2012-07-24T16:11:00+00:00</updated>
         <id>hints.binaryage.com:/simple-shortcut-to-lock-your-macs-screen</id>
         <content type="html"><![CDATA[<p>Ever needed to step away from your computer for a brief moment but didn't want to log out? You could always use fast user switching but then everyone around you knows that your computer isn't really off because they can see your login screen. Well, a simple keyboard shortcut that I use every day is the key combination: control + shift + eject. What this keyboard combination does is lock your Mac's screen (given that you check the box under System Preferences > Security and Privacy > General > Require password immediately curtesy of our reader, Lri) and it turns your screen black giving the illusion that your Mac is turned off because it puts your screen to sleep. This also helps prolong the life of your display because it won't be stuck on one screen for very long (which isn't so much a problem nowadays, however, it used to lead to stuck pixels on CRT displays). So, the next time you are away from your computer, be sure to press control + shift + eject on your Mac keyboard to put your display to sleep.</p>
@@ -1143,7 +1142,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Back Up iPhone Passwords Using iTunes]]></title>
         
-        <link href="http://hints.binaryage.com//backup-iphone-passwords-using-itunes/"/>
+        <link href="https://hints.binaryage.com//backup-iphone-passwords-using-itunes/"/>
         <updated>2012-07-18T09:41:00+00:00</updated>
         <id>hints.binaryage.com:/backup-iphone-passwords-using-itunes</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/a3515ef8_images_password-encrypt.jpg" title="Encryption"></p>
@@ -1163,7 +1162,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[iOS 6 Beta 3 Update Released, Download Here]]></title>
         
-        <link href="http://hints.binaryage.com//ios-6-beta-3-update-released-download-here/"/>
+        <link href="https://hints.binaryage.com//ios-6-beta-3-update-released-download-here/"/>
         <updated>2012-07-17T09:34:00+00:00</updated>
         <id>hints.binaryage.com:/ios-6-beta-3-update-released-download-here</id>
         <content type="html"><![CDATA[<p>Today, Apple released the third beta of iOS 6 to its developers who have long been awaiting an update. What did the update have in store? Read on to find out more about the update and even a download link!</p>
@@ -1200,7 +1199,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Mountain Lion Release Date]]></title>
         
-        <link href="http://hints.binaryage.com//mountain-lion-release-date/"/>
+        <link href="https://hints.binaryage.com//mountain-lion-release-date/"/>
         <updated>2012-07-17T09:28:00+00:00</updated>
         <id>hints.binaryage.com:/mountain-lion-release-date</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/621c869b_images_os-x-mountain-lion.jpeg" title="Mountain Lion"></p>
@@ -1218,7 +1217,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[[Poll] Will Apple Release a Smaller iPad?]]></title>
         
-        <link href="http://hints.binaryage.com//will-apple-release-a-smaller-ipad/"/>
+        <link href="https://hints.binaryage.com//will-apple-release-a-smaller-ipad/"/>
         <updated>2012-07-17T09:21:00+00:00</updated>
         <id>hints.binaryage.com:/will-apple-release-a-smaller-ipad</id>
         <content type="html"><![CDATA[<p>There have been a few articles recently that speculate that Apple may be developing a new iPad. The new iPad would be around 7-8 inches in diagonal screen size which would place it right inbetween the iPhone and the current iPad. If you want to read more about the rumors, here are a few articles: <a href="http://www.bloomberg.com/news/2012-07-03/here-comes-nexus-7-nightmare-the-ipad-mini.html">Bloomberg</a> and the <a href="http://online.wsj.com/article/SB10001424052702304141204577506471913819412.html?mod=googlenews_wsj">Wall Street Journal</a>.</p>
@@ -1236,7 +1235,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Safari 6 Developer Preview Download]]></title>
         
-        <link href="http://hints.binaryage.com//safari-6-developer-preview-download/"/>
+        <link href="https://hints.binaryage.com//safari-6-developer-preview-download/"/>
         <updated>2012-07-15T10:37:00+00:00</updated>
         <id>hints.binaryage.com:/safari-6-developer-preview-download</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/a5749001_images_safari_6.png" title="Safari 6 Developer Preview"></p>
@@ -1256,7 +1255,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Lion Tweaks 2.0.1 updated for Mountain Lion]]></title>
         
-        <link href="http://hints.binaryage.com//lion-tweaks-updated-for-mountain-lion/"/>
+        <link href="https://hints.binaryage.com//lion-tweaks-updated-for-mountain-lion/"/>
         <updated>2012-07-15T10:07:00+00:00</updated>
         <id>hints.binaryage.com:/lion-tweaks-updated-for-mountain-lion</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/ca8bbaeb_images_lion-tweaks.png" title="Lion Tweaks"></p>
@@ -1276,7 +1275,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Get Your Mac Ready to Install Mountain Lion]]></title>
         
-        <link href="http://hints.binaryage.com//get-your-mac-ready-for-mountain-lion/"/>
+        <link href="https://hints.binaryage.com//get-your-mac-ready-for-mountain-lion/"/>
         <updated>2012-07-11T09:16:00+00:00</updated>
         <id>hints.binaryage.com:/get-your-mac-ready-for-mountain-lion</id>
         <content type="html"><![CDATA[<p>I hope you are excited for the upcoming release for Mountain Lion! Apple just released the GM version to developers just two days ago. That means we can anticipate the official version coming out within the month! This is all very exciting! I've decided to compile a list of things that I usually do before the release of a major update for my operating system. Here it goes.</p>
@@ -1314,7 +1313,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Mountain Lion Gold Master is Available for Download]]></title>
         
-        <link href="http://hints.binaryage.com//mountain-lion-gm-available-for-download/"/>
+        <link href="https://hints.binaryage.com//mountain-lion-gm-available-for-download/"/>
         <updated>2012-07-11T08:52:00+00:00</updated>
         <id>hints.binaryage.com:/mountain-lion-gm-available-for-download</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/621c869b_images_os-x-mountain-lion.jpeg" title="Mountain Lion"></p>
@@ -1334,7 +1333,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[How To Clear Out Launchpad and Add the Apps How You Want]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-clear-out-launchpad/"/>
+        <link href="https://hints.binaryage.com//how-to-clear-out-launchpad/"/>
         <updated>2012-06-27T08:11:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-clear-out-launchpad</id>
         <content type="html"><![CDATA[<p>Launchpad is a feature added to Mac OS X that emulates the home screens on iOS. The basic idea behind it is that you have one central location to find all of your apps. However, as most users have noticed, this feature, loved on iOS, is not as useful on OS X. The simple reason is that not every user wants every app on their computer showing up in Launchpad. Luckily for us, there is a simple trick that will allow us to organize and store what WE want in Launchpad. This is more desirable; follow the steps below in order to accomplish just this:</p>
@@ -1362,7 +1361,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Stop GIFs From Animating in Your Web Browser]]></title>
         
-        <link href="http://hints.binaryage.com//stop-gifs-from-animating/"/>
+        <link href="https://hints.binaryage.com//stop-gifs-from-animating/"/>
         <updated>2012-06-27T07:59:00+00:00</updated>
         <id>hints.binaryage.com:/stop-gifs-from-animating</id>
         <content type="html"><![CDATA[<p>In Firefox and Safari, there is a simple way to pause and even stop animated GIFs from moving. In Firefox, simply press Escape once and the GIFs will stop moving. On Safari, you must hold down the Escape key for as long as you want them to stop being animated.</p>
@@ -1378,7 +1377,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Change Your Volume on Your Mac Without Making a Sound]]></title>
         
-        <link href="http://hints.binaryage.com//change-your-volume-on-your-mac-without-making-a-sound/"/>
+        <link href="https://hints.binaryage.com//change-your-volume-on-your-mac-without-making-a-sound/"/>
         <updated>2012-06-24T20:48:00+00:00</updated>
         <id>hints.binaryage.com:/change-your-volume-on-your-mac-without-making-a-sound</id>
         <content type="html"><![CDATA[<p>You may find yourself in a quiet place such as a library, or an airplane and you want to change the volume on your Mac. Usually, you would just press the F11 or F12 keys to change your volume, but then you hear that annoying popping sound for each level.</p>
@@ -1400,7 +1399,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Finer Control Over Brightness and Volume on Mac OS X]]></title>
         
-        <link href="http://hints.binaryage.com//finer-control-over-brightness-and-volume/"/>
+        <link href="https://hints.binaryage.com//finer-control-over-brightness-and-volume/"/>
         <updated>2012-06-24T08:15:00+00:00</updated>
         <id>hints.binaryage.com:/finer-control-over-brightness-and-volume</id>
         <content type="html"><![CDATA[<p>Sometimes you might feel restricted by the amount of control you have over the brightness and volume on your Mac. When you press the default volume and brightness controls on your Mac, usually F1, F2, and F10-12, there are 16 distinct levels for both brightness and volume. You can, however, fine tune these so that you can have up to 64 different levels.</p>
@@ -1420,7 +1419,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[Add Contact Information to your Lock Screen of your Mac]]></title>
         
-        <link href="http://hints.binaryage.com//add-contact-information-to-lock-screen-of-mac/"/>
+        <link href="https://hints.binaryage.com//add-contact-information-to-lock-screen-of-mac/"/>
         <updated>2012-06-19T18:34:00+00:00</updated>
         <id>hints.binaryage.com:/add-contact-information-to-lock-screen-of-mac</id>
         <content type="html"><![CDATA[<p>Here is a helpful hint on how to add text (or more specifically contact information) to your lock screen on your Mac. You may be asking why this is useful. I believe that in the event that a warm hearted individual falls into possession of your laptop, they may be searching for a way to contact you but they are stuck at the login screen. This allows you to leave a short message saying: "If found, please contact me at ..." Here are the steps to add this:</p>
@@ -1446,7 +1445,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[iPad Keyboard Hacks]]></title>
         
-        <link href="http://hints.binaryage.com//ipad-keyboard-hacks/"/>
+        <link href="https://hints.binaryage.com//ipad-keyboard-hacks/"/>
         <updated>2012-06-14T01:00:00+00:00</updated>
         <id>hints.binaryage.com:/ipad-keyboard-hacks</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/c5b3384e_images_ipad_keyboard.png" title="iPad Keyboard"></p>
@@ -1468,7 +1467,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[iOS 6 Anticipated Features]]></title>
         
-        <link href="http://hints.binaryage.com//ios-6-anticipated-features/"/>
+        <link href="https://hints.binaryage.com//ios-6-anticipated-features/"/>
         <updated>2012-06-10T08:06:00+00:00</updated>
         <id>hints.binaryage.com:/ios-6-anticipated-features</id>
         <content type="html"><![CDATA[<p>With WWDC just on the other side of the weekend, it is time for all the news and blogs to generate speculation about what will be revealed at WWDC 2012. First and foremost, we know that there will most likely be hardware updates for some, if not all, of the Mac lineup. Some of the rumors include Ivy Bridge, Retina Displays, High Definition Displays, USB 3.0, more Thunderbolt, etc. However, one thing is for sure, iOS 6 will be announced and new features including Apple's own mapping software will surface allowing developers to begin utilizing these new tools.</p>
@@ -1498,7 +1497,7 @@ Finished partitioning on disk0
     <entry>
         <title><![CDATA[How to Install Python 3.2.3 on Mac OS X]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-install-python-3-2-3-on-mac-os-x/"/>
+        <link href="https://hints.binaryage.com//how-to-install-python-3-2-3-on-mac-os-x/"/>
         <updated>2012-06-04T02:47:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-install-python-3-2-3-on-mac-os-x</id>
         <content type="html"><![CDATA[<p>By default, your Mac comes installed with Python 2.7, no installation necessary! However, if you want some of the new features of Python such as "print" being a function now instead of a standalone command, then you are going to want to install Python 3.2.3. Follow the steps below to get started:</p>
@@ -1531,7 +1530,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[iOS 5.1.1 Jailbreak Released, Download Here!]]></title>
         
-        <link href="http://hints.binaryage.com//ios-5-1-1-jailbreak-released-download-here/"/>
+        <link href="https://hints.binaryage.com//ios-5-1-1-jailbreak-released-download-here/"/>
         <updated>2012-05-28T08:00:00+00:00</updated>
         <id>hints.binaryage.com:/ios-5-1-1-jailbreak-released-download-here</id>
         <content type="html"><![CDATA[<p>Great news for all you jailbreakers, Absinthe 2.0 has been released by the Chronic Dev Team and iPhone Dev Teams. This software will allow you to jailbreak your iOS device with the firmware version 5.1.1! Absinthe 2.0 officially supports the following on iOS 5.1.1: iPhone 3GS, 4, 4S, iPad 2 and iPad 3! Follow the steps below to get started!</p>
@@ -1566,7 +1565,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[How to Fix: iPhone Sync Error 13019]]></title>
         
-        <link href="http://hints.binaryage.com//iphone-sync-error-13019/"/>
+        <link href="https://hints.binaryage.com//iphone-sync-error-13019/"/>
         <updated>2012-05-23T00:24:00+00:00</updated>
         <id>hints.binaryage.com:/iphone-sync-error-13019</id>
         <content type="html"><![CDATA[<p>The iPhone sometimes has an eror during syncing called iTunes Error 13019. The fix to this error is very different from what you would think. Follow the steps below to get started:</p>
@@ -1592,7 +1591,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[How To Shut Off the Camera Shutter Noise on your iPhone]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-shut-off-camera-shutter-noise-iphone/"/>
+        <link href="https://hints.binaryage.com//how-to-shut-off-camera-shutter-noise-iphone/"/>
         <updated>2012-05-23T00:18:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-shut-off-camera-shutter-noise-iphone</id>
         <content type="html"><![CDATA[<p>Due to privacy conditions in certain regions of the world, it is relatively difficult to turn off the shutter noise on the iPhone. In fact, there is only one way to do this and it is the trivial way. Simply flip the mute switch on and your camera shutter sound will go away! There is no other way to do this as Apple is following regional privacy conditions from around the world.</p>
@@ -1608,7 +1607,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[Automatic App Downloads on Mac OS X Mountain Lion]]></title>
         
-        <link href="http://hints.binaryage.com//automatic-app-downloads-on-mountain-lion/"/>
+        <link href="https://hints.binaryage.com//automatic-app-downloads-on-mountain-lion/"/>
         <updated>2012-05-22T23:53:00+00:00</updated>
         <id>hints.binaryage.com:/automatic-app-downloads-on-mountain-lion</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/94289e71_images_mountain_lion_automatic_download.jpeg" title="Automatic Downloads"></p>
@@ -1626,7 +1625,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[Hide Dock Indicator Lights]]></title>
         
-        <link href="http://hints.binaryage.com//hide-dock-indicators/"/>
+        <link href="https://hints.binaryage.com//hide-dock-indicators/"/>
         <updated>2012-05-19T09:22:00+00:00</updated>
         <id>hints.binaryage.com:/hide-dock-indicators</id>
         <content type="html"><![CDATA[<p>In Mac OS X Lion, there is a new option under Dock Preferences that allows you to turn off the dock indicator lights for open applications. This is a relatively simple trick and can be found by right clicking on your dock and selecting preferences. Attached is a quick screenshot:</p>
@@ -1646,7 +1645,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[Poll: What is your Favorite Browser and Why?]]></title>
         
-        <link href="http://hints.binaryage.com//poll-favorite-browser/"/>
+        <link href="https://hints.binaryage.com//poll-favorite-browser/"/>
         <updated>2012-05-15T05:23:00+00:00</updated>
         <id>hints.binaryage.com:/poll-favorite-browser</id>
         <content type="html"><![CDATA[<p>Here is the first poll ever on Mac Hints from BinaryAge. So, here it goes:</p>
@@ -1662,7 +1661,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[Apple TV 5.0.1 Update]]></title>
         
-        <link href="http://hints.binaryage.com//apple-tv-5-0-1-update/"/>
+        <link href="https://hints.binaryage.com//apple-tv-5-0-1-update/"/>
         <updated>2012-05-12T08:05:00+00:00</updated>
         <id>hints.binaryage.com:/apple-tv-5-0-1-update</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/a3522c15_images_apple_tv.jpg" title="Apple TV"></p>
@@ -1684,7 +1683,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[Mac OS X 10.7.4 Update]]></title>
         
-        <link href="http://hints.binaryage.com//mac-os-x-10-7-4-update/"/>
+        <link href="https://hints.binaryage.com//mac-os-x-10-7-4-update/"/>
         <updated>2012-05-10T04:07:00+00:00</updated>
         <id>hints.binaryage.com:/mac-os-x-10-7-4-update</id>
         <content type="html"><![CDATA[<p>Today, Apple has released another update to the Mac OS X Lion operating system. The update, dubbed 10.7.4, fixes various bugs that have been plaguing the operating system. It is recommended that you create a backup before installing this update. You can use Time Machine for this.</p>
@@ -1724,7 +1723,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[iOS 5.1.1 Software Update]]></title>
         
-        <link href="http://hints.binaryage.com//ios-5-1-1-software-update/"/>
+        <link href="https://hints.binaryage.com//ios-5-1-1-software-update/"/>
         <updated>2012-05-09T08:16:00+00:00</updated>
         <id>hints.binaryage.com:/ios-5-1-1-software-update</id>
         <content type="html"><![CDATA[<p>Apple has released a new update for iOS. This update, 5.1.1, contains a few bug fixes, but nothing major.</p>
@@ -1742,7 +1741,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[How to Force Quit an Application]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-force-quit-an-application/"/>
+        <link href="https://hints.binaryage.com//how-to-force-quit-an-application/"/>
         <updated>2012-05-08T04:43:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-force-quit-an-application</id>
         <content type="html"><![CDATA[<p>Sometimes an application on your computer becomes unresponsive. In order to force quit an application, simply select Force Quit under the Apple menu. Here is a screenshot:</p>
@@ -1764,7 +1763,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[How to Reset your Mac's PRAM and NVRAM]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-reset-your-macs-pram-and-nvram/"/>
+        <link href="https://hints.binaryage.com//how-to-reset-your-macs-pram-and-nvram/"/>
         <updated>2012-05-06T10:32:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-reset-your-macs-pram-and-nvram</id>
         <content type="html"><![CDATA[<p>If you are having problems with your Mac's hardware and nothing you can do on the software side can fix it, then follow these steps to reset your Mac's PRAM and NVRAM.</p>
@@ -1788,7 +1787,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[How to Record Your Screen on Mac OS X]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-record-your-screen-on-mac-os-x/"/>
+        <link href="https://hints.binaryage.com//how-to-record-your-screen-on-mac-os-x/"/>
         <updated>2012-05-01T01:53:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-record-your-screen-on-mac-os-x</id>
         <content type="html"><![CDATA[<p>Here is a quick tutorial about recording your screen on your Mac. There are various uses for recording your screen such as for a video tutorial yourself, a project, etc. Follow the steps below to get started:</p>
@@ -1816,7 +1815,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[Write a Guest Post for Mac Hints from BinaryAge]]></title>
         
-        <link href="http://hints.binaryage.com//write-a-guest-post-for-mac-hints-from-binaryage/"/>
+        <link href="https://hints.binaryage.com//write-a-guest-post-for-mac-hints-from-binaryage/"/>
         <updated>2012-04-29T08:00:00+00:00</updated>
         <id>hints.binaryage.com:/write-a-guest-post-for-mac-hints-from-binaryage</id>
         <content type="html"><![CDATA[<p>Do you have a tip that you would like to share? Do you like writing technical guides for nontechnical people? If so, then help contribute to Mac Hints from BinaryAge! We are now accepting blogposts that will be featured here on this site. You may choose to have your name and email published with your post and you will also be able to post one link to your own personal site!</p>
@@ -1844,7 +1843,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[How to Remove .DS_Store File from a Git Repo on Mac OS X]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-remove-ds-store-files-from-a-git-repo/"/>
+        <link href="https://hints.binaryage.com//how-to-remove-ds-store-files-from-a-git-repo/"/>
         <updated>2012-04-28T07:50:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-remove-ds-store-files-from-a-git-repo</id>
         <content type="html"><![CDATA[<p>Whether you are a new or experienced git user, at one point in your git career using a Mac, you stumbled upon the fabled .DS_Store file. This little file is a "Desktop Services Store" that contains attributes of a folder and is created every single time a folder is navigated to. Man, that's a lot of .DS_Store files. For the average Mac user, these files are never seen because they are hidden. However, any git user will know that annoying feeling when they notice that a pesky .DS_Store file has crept its way into their repo. Here is a tutorial on how to solve this problem, once and for all.</p>
@@ -1886,7 +1885,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[Change the File Type of Screenshots on OS X]]></title>
         
-        <link href="http://hints.binaryage.com//change-file-type-of-screenshots-on-os-x/"/>
+        <link href="https://hints.binaryage.com//change-file-type-of-screenshots-on-os-x/"/>
         <updated>2012-04-27T08:00:00+00:00</updated>
         <id>hints.binaryage.com:/change-file-type-of-screenshots-on-os-x</id>
         <content type="html"><![CDATA[<p>Yesterday, I posted a tutorial on how to change the location of screenshots taken on Mac OS X, posted <a href="/change-the-file-location-of-screenshots-on-mac-os-x/">here.</a> Today, I am going to go over how to change the file type of these screenshots. Why would you want to do this, you ask? There are several reason why this tutorial is useful. One, you may need a specific image format for a project you are working on. Second, you may also want to take higher quality, lossless screenshots (the TIFF format), or lower quality, compressed files (JPEG). Regardless, follow these steps below:</p>
@@ -1919,7 +1918,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[Change the File Location of Screenshots on Mac OS X]]></title>
         
-        <link href="http://hints.binaryage.com//change-the-file-location-of-screenshots-on-mac-os-x/"/>
+        <link href="https://hints.binaryage.com//change-the-file-location-of-screenshots-on-mac-os-x/"/>
         <updated>2012-04-26T17:23:00+00:00</updated>
         <id>hints.binaryage.com:/change-the-file-location-of-screenshots-on-mac-os-x</id>
         <content type="html"><![CDATA[<p>On Mac OS X, you can easily take screenshots of your desktop by pressing shortcut keys on your keyboard. (More on that <a href="/how-to-measure-screen-elements-in-pixels/">here.</a>) However, all of your screenshots will go to your desktop by default. To change this, open up Terminal by going to Applications > Utilities > Terminal, or by simply using Spotlight to search for Terminal, and copy and paste the following commands:</p>
@@ -1957,7 +1956,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[Open Recently Closed Safari Tabs in iOS 5.1]]></title>
         
-        <link href="http://hints.binaryage.com//open-recently-closed-safari-tabs-ios-5-1/"/>
+        <link href="https://hints.binaryage.com//open-recently-closed-safari-tabs-ios-5-1/"/>
         <updated>2012-04-22T20:31:00+00:00</updated>
         <id>hints.binaryage.com:/open-recently-closed-safari-tabs-ios-5-1</id>
         <content type="html"><![CDATA[<p>In iOS 5.1, Apple added a new feature to Mobile Safari. You can simply tap and hold on the New Page icon for a list of your recently closed tabs. This feature is similar to Chrome's CMD-Shift-T feature and desktop Safari's CMD-Z feature to open up tabs you may have accidentally closed. This feature is very helpful and it is now on iOS 5.1!</p>
@@ -1975,7 +1974,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[Scroll to the Top of iOS Apps with One Touch]]></title>
         
-        <link href="http://hints.binaryage.com//scroll-to-top-of-ios-app-with-one-touch/"/>
+        <link href="https://hints.binaryage.com//scroll-to-top-of-ios-app-with-one-touch/"/>
         <updated>2012-04-22T20:27:00+00:00</updated>
         <id>hints.binaryage.com:/scroll-to-top-of-ios-app-with-one-touch</id>
         <content type="html"><![CDATA[<p>Here is a quick tip to improve your speed with using iOS apps. In most native apps that have a scrollview, you can simply tap the top of the screen around where the clock is to instantly scroll to the top of the page. This allows you to quickly get back up to the top to use the address bar and the search bar. Outlined below, you can actually touch anywhere on the red line for this to work.</p>
@@ -1993,7 +1992,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[Swipe to View Photos in Camera App on iOS]]></title>
         
-        <link href="http://hints.binaryage.com//swipe-to-view-photos-in-camera-app/"/>
+        <link href="https://hints.binaryage.com//swipe-to-view-photos-in-camera-app/"/>
         <updated>2012-04-22T20:24:00+00:00</updated>
         <id>hints.binaryage.com:/swipe-to-view-photos-in-camera-app</id>
         <content type="html"><![CDATA[<p>On iOS 5, Apple has added a new feature that allows you to easily view your photos that you just took from the Camera app. Most people know about the icon in the bottom left corner of the Camera app that allows you to view your photos, however, there is an even faster method. You can simply swipe to the left in the Camera app and you will instantly view your recent photos! Here is a picture:</p>
@@ -2011,7 +2010,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[New Safari 5.2 Beta Update 3 Download]]></title>
         
-        <link href="http://hints.binaryage.com//new-safari-5-2-beta-update-3-download/"/>
+        <link href="https://hints.binaryage.com//new-safari-5-2-beta-update-3-download/"/>
         <updated>2012-04-19T04:13:00+00:00</updated>
         <id>hints.binaryage.com:/new-safari-5-2-beta-update-3-download</id>
         <content type="html"><![CDATA[<p>Apple has just released a new update to the Safari 5.2 Beta. This update, dubbed update 3, includes new features such as CSS filters for images and a redesigned Web Inspector.</p>
@@ -2027,7 +2026,7 @@ And this will open up the file in your default text editor. Add the following li
     <entry>
         <title><![CDATA[How To Clear iMessage History on Mac OS X]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-clear-imessage-history-on-mac-os-x/"/>
+        <link href="https://hints.binaryage.com//how-to-clear-imessage-history-on-mac-os-x/"/>
         <updated>2012-04-17T09:48:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-clear-imessage-history-on-mac-os-x</id>
         <content type="html"><![CDATA[<p>This is a follow-up to my post about <a href="/download-imessage-beta-for-mac-os-x-lion/">installing iMessage Beta.</a></p>
@@ -2061,7 +2060,7 @@ This will effectively do the same thing.</p>
     <entry>
         <title><![CDATA[Download iMessage Beta for Mac OS X Lion]]></title>
         
-        <link href="http://hints.binaryage.com//download-imessage-beta-for-mac-os-x-lion/"/>
+        <link href="https://hints.binaryage.com//download-imessage-beta-for-mac-os-x-lion/"/>
         <updated>2012-04-17T09:29:00+00:00</updated>
         <id>hints.binaryage.com:/download-imessage-beta-for-mac-os-x-lion</id>
         <content type="html"><![CDATA[<p>Been itching to try out the newest Apple software, iMessage? Well here is your chance! Although this is a feature of the upcoming Mountain Lion, Apple has also released a beta version of iMessage for Lion users! Be warned though, this software is full of bugs, however, it is mostly usable.</p>
@@ -2090,7 +2089,7 @@ This will effectively do the same thing.</p>
     <entry>
         <title><![CDATA[No Audio on Macbook Pro]]></title>
         
-        <link href="http://hints.binaryage.com//no-audio-on-macbook-pro/"/>
+        <link href="https://hints.binaryage.com//no-audio-on-macbook-pro/"/>
         <updated>2012-04-15T19:24:00+00:00</updated>
         <id>hints.binaryage.com:/no-audio-on-macbook-pro</id>
         <content type="html"><![CDATA[<p>If your Macbook Pro is not playing audio even though an application such as iTunes or a website such as YouTube is playing audio, then follow these steps below to fix your problem!</p>
@@ -2120,7 +2119,7 @@ This will effectively do the same thing.</p>
     <entry>
         <title><![CDATA[How to Measure Screen Elements in Pixels]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-measure-screen-elements-in-pixels/"/>
+        <link href="https://hints.binaryage.com//how-to-measure-screen-elements-in-pixels/"/>
         <updated>2012-04-09T06:45:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-measure-screen-elements-in-pixels</id>
         <content type="html"><![CDATA[<p>If you ever find yourself needing to measure your screen, not in inches, centimeters, or other conventional measurements, but rather, in pixels, then follow this guide for a short interlude on a built-in OS X function that can aid you tremendously.</p>
@@ -2140,7 +2139,7 @@ This will effectively do the same thing.</p>
     <entry>
         <title><![CDATA[Refresh Dashboard Widgets]]></title>
         
-        <link href="http://hints.binaryage.com//refresh-dashboard-widgets/"/>
+        <link href="https://hints.binaryage.com//refresh-dashboard-widgets/"/>
         <updated>2012-04-07T08:47:00+00:00</updated>
         <id>hints.binaryage.com:/refresh-dashboard-widgets</id>
         <content type="html"><![CDATA[<p>Here is another short tip on something you may or may not have used before on Mac OS X. Ever had a stuck or frozen Dashboard widget? Well this tip can fix that. Simply place your mouse over the widget and press CMD-R, the frequent Refresh keyboard shortcut. A short animation will play signifying the restarted widget and the data should be reloaded.</p>
@@ -2156,7 +2155,7 @@ This will effectively do the same thing.</p>
     <entry>
         <title><![CDATA[How to Securely Empty your Trash]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-securely-empty-trash/"/>
+        <link href="https://hints.binaryage.com//how-to-securely-empty-trash/"/>
         <updated>2012-04-05T05:50:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-securely-empty-trash</id>
         <content type="html"><![CDATA[<p>If you have sensitive data on your hard drive and you are worried about it being recovered, here is a simple way to securely dispose of your files. On Mac OS X, the secure trash option will delete your data 8 times for added security. To enable this option by default, simply open Finder Preferences by going to Finder > Preferences. Select this checkbox below:</p>
@@ -2174,7 +2173,7 @@ This will effectively do the same thing.</p>
     <entry>
         <title><![CDATA[Spread your Dropbox Referral Link!]]></title>
         
-        <link href="http://hints.binaryage.com//spread-your-dropbox-storage-link/"/>
+        <link href="https://hints.binaryage.com//spread-your-dropbox-storage-link/"/>
         <updated>2012-04-02T22:38:00+00:00</updated>
         <id>hints.binaryage.com:/spread-your-dropbox-storage-link</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/f157e980_images_dropbox.png" title="Logo"></p>
@@ -2192,7 +2191,7 @@ This will effectively do the same thing.</p>
     <entry>
         <title><![CDATA[Quickly View Mission Control or Dashboard by Holding Down Hotkeys]]></title>
         
-        <link href="http://hints.binaryage.com//quickly-view-mission-control-or-dashboard-by-holding-down-hotkeys/"/>
+        <link href="https://hints.binaryage.com//quickly-view-mission-control-or-dashboard-by-holding-down-hotkeys/"/>
         <updated>2012-04-02T18:10:00+00:00</updated>
         <id>hints.binaryage.com:/quickly-view-mission-control-or-dashboard-by-holding-down-hotkeys</id>
         <content type="html"><![CDATA[<p>On Mac OS X, there are several hotkeys for the function buttons (Fn) that bring up a quick application such as Dashboard or Mission Control. To activate them, you simply press the corresponding Fn key, either F4 or F3 respectively. This is a very nice, sleek feature that Apple has provided, however, if you simply wanted to view a Dashboard widget for a brief moment, you still have to press the Fn key twice. To speed this process up, you can simply hold down the key to invoke the application and when you lift up, the application goes away back to the current application that you were previously in. This is a quick hints that may/may not speed up your average workday.</p>
@@ -2208,7 +2207,7 @@ This will effectively do the same thing.</p>
     <entry>
         <title><![CDATA[How to Restart Mac OS X Mission Control and Dock]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-restart-mac-os-x-mission-control-and-dock/"/>
+        <link href="https://hints.binaryage.com//how-to-restart-mac-os-x-mission-control-and-dock/"/>
         <updated>2012-04-02T17:37:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-restart-mac-os-x-mission-control-and-dock</id>
         <content type="html"><![CDATA[<p>Here is a quick tip that not all users may know. If you are having problems on your Mac with the Dock or the Mission Control feature, you can simply restart both by using Terminal. To open Terminal, simply go to Applications > Utilities and select Terminal. At the prompt, type <code>killall Dock</code> just as you have in previous versions of OS X.</p>
@@ -2224,7 +2223,7 @@ This will effectively do the same thing.</p>
     <entry>
         <title><![CDATA[Delete Multiple Photos from iPhone's Camera Roll]]></title>
         
-        <link href="http://hints.binaryage.com//delete-multiple-photos-from-iphones-camera-roll/"/>
+        <link href="https://hints.binaryage.com//delete-multiple-photos-from-iphones-camera-roll/"/>
         <updated>2012-03-31T07:14:00+00:00</updated>
         <id>hints.binaryage.com:/delete-multiple-photos-from-iphones-camera-roll</id>
         <content type="html"><![CDATA[<p>As of iOS 5.1, there is no easy way to delete multiple photos from the Camera Roll on the iPhone, iPod Touch, or iPad. However, if you have a Mac nearby, you can simply use Image Capture to select multiple photos on your device and delete them instantly! Using your Apple USB sync cable, connect your device through the USB port on your Mac. Then open Image Capture and your device should show up. Then, use Image Capture with your iDevice in the same way that you would use it with your digital camera or other media device!</p>
@@ -2240,7 +2239,7 @@ This will effectively do the same thing.</p>
     <entry>
         <title><![CDATA[Hourly Forecasts in iOS 5 Weather App]]></title>
         
-        <link href="http://hints.binaryage.com//hourly-forecasts-in-ios-5-weather-app/"/>
+        <link href="https://hints.binaryage.com//hourly-forecasts-in-ios-5-weather-app/"/>
         <updated>2012-03-30T07:18:00+00:00</updated>
         <id>hints.binaryage.com:/hourly-forecasts-in-ios-5-weather-app</id>
         <content type="html"><![CDATA[<p>Here is a quick tutorial on something most people may or may not have noticed. In iOS 5, Apple included a new feature that allows you to view hourly forecasts for the next 12 hours. In the Weather App on iOS 5, simply tap either the word "hourly" right below the city name, or tap on any of the days of the week. This tweak will allow you to view hourly forecasts but only for the current timeframe. You cannot view prior forecasts or future forecasts past 12 hours. Hope you found this tweak amusing and useful!</p>
@@ -2254,7 +2253,7 @@ This will effectively do the same thing.</p>
     <entry>
         <title><![CDATA[Change Dashboard Background in Lion]]></title>
         
-        <link href="http://hints.binaryage.com//change-dashboard-background-in-lion/"/>
+        <link href="https://hints.binaryage.com//change-dashboard-background-in-lion/"/>
         <updated>2012-03-29T08:22:00+00:00</updated>
         <id>hints.binaryage.com:/change-dashboard-background-in-lion</id>
         <content type="html"><![CDATA[<p>In Mac OS X Lion, Dashboard has become its own space as part of the new feature, Mission Control. However, the method to change the background is missing for Dashboard, so here is a tutorial on how to accomplish this task.</p>
@@ -2286,7 +2285,7 @@ end tell
     <entry>
         <title><![CDATA[How to Sync Google Calendar with iCal on Lion]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-sync-google-calendar-with-ical-on-lion/"/>
+        <link href="https://hints.binaryage.com//how-to-sync-google-calendar-with-ical-on-lion/"/>
         <updated>2012-03-26T08:38:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-sync-google-calendar-with-ical-on-lion</id>
         <content type="html"><![CDATA[<p>If you want to sync your Google Calendar with the iCal application on Mac OS X Lion, then follow the guide below outlining how to do this. You will need your Google Account information including a two-step verification password for iCal if you have that set up. This information can be found <a href="https://accounts.google.com/IssuedAuthSubTokens?hl=en_us">here.</a></p>
@@ -2316,7 +2315,7 @@ end tell
     <entry>
         <title><![CDATA[Quickly Switch Between Spaces with a Faster Keyboard Shortcut in Lion]]></title>
         
-        <link href="http://hints.binaryage.com//quickly-switch-between-spaces-with-a-faster-keyboard-shortcut-in-lion/"/>
+        <link href="https://hints.binaryage.com//quickly-switch-between-spaces-with-a-faster-keyboard-shortcut-in-lion/"/>
         <updated>2012-03-25T08:23:00+00:00</updated>
         <id>hints.binaryage.com:/quickly-switch-between-spaces-with-a-faster-keyboard-shortcut-in-lion</id>
         <content type="html"><![CDATA[<p>If you find yourself switching between multiple Spaces on Mac OS X's Mission Control, follow this tutorial below for even faster switching by changing the keyboard shortcut. By default, the keyboard shortcuts for switching to the left and right spaces are "CTRL &lt;--" and "CTRL -->" respectively. For this, you must use two hands on a Macbook Pro or Air because there is only one Control key and it is on the opposite side of the arrow keys on the keyboard. My solution for this is to switch the keyboard shortcuts to "ALT &lt;--" and "ALT -->" because then you can switch spaces with only one hand.</p>
@@ -2336,7 +2335,7 @@ end tell
     <entry>
         <title><![CDATA[Change the Font Size in List View of Stacks in your Dock]]></title>
         
-        <link href="http://hints.binaryage.com//change-the-font-size-in-list-view-of-stacks-in-your-dock/"/>
+        <link href="https://hints.binaryage.com//change-the-font-size-in-list-view-of-stacks-in-your-dock/"/>
         <updated>2012-03-22T09:45:00+00:00</updated>
         <id>hints.binaryage.com:/change-the-font-size-in-list-view-of-stacks-in-your-dock</id>
         <content type="html"><![CDATA[<p>On Mac OS X, you can easily drag folders into your dock for easy access. There are 4 default views, Fan, List, Grid, and Automatic. However, there is also a hidden 5th view that Apple has not revealed to the public, but has been found as a plist hack for Finder.</p>
@@ -2369,7 +2368,7 @@ end tell
     <entry>
         <title><![CDATA[Download Adobe Photoshop CS6 Public Beta for Free]]></title>
         
-        <link href="http://hints.binaryage.com//download-adobe-photoshop-cs6-public-beta-for-free/"/>
+        <link href="https://hints.binaryage.com//download-adobe-photoshop-cs6-public-beta-for-free/"/>
         <updated>2012-03-22T09:27:00+00:00</updated>
         <id>hints.binaryage.com:/download-adobe-photoshop-cs6-public-beta-for-free</id>
         <content type="html"><![CDATA[<p>Adobe has released an all new beta version of Photoshop CS6 available now for free from Adobe Labs. The release is available in English and Japanese and the full version of the product is expected to be released within the next year. Adobe hopes that the beta program will allow them to iron out potential bugs in their final product before the actual release.</p>
@@ -2393,7 +2392,7 @@ end tell
     <entry>
         <title><![CDATA[How to Burn an ISO Image on Mac OS X]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-burn-an-iso-image-on-mac-os-x/"/>
+        <link href="https://hints.binaryage.com//how-to-burn-an-iso-image-on-mac-os-x/"/>
         <updated>2012-03-20T10:26:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-burn-an-iso-image-on-mac-os-x</id>
         <content type="html"><![CDATA[<p>Here is a relatively short tutorial on how to burn ISO images in Mac OS X using the built in Disk Utility app. For some, this might be trivial, however for most people, this can be a daunting task. Don't worry, we're here to help.</p>
@@ -2415,7 +2414,7 @@ end tell
     <entry>
         <title><![CDATA[Safari Crashes Often on iOS 5]]></title>
         
-        <link href="http://hints.binaryage.com//safari-crashes-often-on-ios-5/"/>
+        <link href="https://hints.binaryage.com//safari-crashes-often-on-ios-5/"/>
         <updated>2012-03-18T11:19:00+00:00</updated>
         <id>hints.binaryage.com:/safari-crashes-often-on-ios-5</id>
         <content type="html"><![CDATA[<p>After updating to iOS 5 on numerous devices, many people have been reporting that Safari crashes frequently. In fact, many of the default apps including YouTube, Mail, and the Music app are also having frequent crashes. Most of these problems can be solved by restarting your device by holding down the home button and the sleep/wake button simultaneously until the Apple logo appears. However, for Mobile Safari specifically, here are some tips that might stop Safari from crashing on iOS 5.</p>
@@ -2439,7 +2438,7 @@ end tell
     <entry>
         <title><![CDATA[How to Transfer Photos from iPad to your Mac or PC]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-transfer-photos-from-ipad-to-mac-or-pc/"/>
+        <link href="https://hints.binaryage.com//how-to-transfer-photos-from-ipad-to-mac-or-pc/"/>
         <updated>2012-03-17T10:02:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-transfer-photos-from-ipad-to-mac-or-pc</id>
         <content type="html"><![CDATA[<p>Whether you have an iPad 1, 2, or the newly released "new" iPad, odds are you will eventually need to transfer photos from your iPad to your computer. Follow these simple steps below to accomplish this.</p>
@@ -2465,7 +2464,7 @@ end tell
     <entry>
         <title><![CDATA[Reopen Last Closed Tab in Safari 5]]></title>
         
-        <link href="http://hints.binaryage.com//reopen-last-closed-tab-in-safari-5/"/>
+        <link href="https://hints.binaryage.com//reopen-last-closed-tab-in-safari-5/"/>
         <updated>2012-03-17T00:24:00+00:00</updated>
         <id>hints.binaryage.com:/reopen-last-closed-tab-in-safari-5</id>
         <content type="html"><![CDATA[<p>If you are a Google Chrome user who is used to the CMD-Shift-T keyboard shortcut to reopen your last closed tab, there is a Safari equivalent that is not very well known. All you have to do when you close a tab is press CMD-Z (the normal Undo shortcut) and the tab that you just closed (or accidentally closed) has now been reopened! For some reason, Apple decided not to publicize this feature, but now you know about it and can use it to your advantage.</p>
@@ -2481,7 +2480,7 @@ end tell
     <entry>
         <title><![CDATA[Enable the Safari Debug Menu]]></title>
         
-        <link href="http://hints.binaryage.com//enable-the-safari-debug-menu/"/>
+        <link href="https://hints.binaryage.com//enable-the-safari-debug-menu/"/>
         <updated>2012-03-15T07:31:00+00:00</updated>
         <id>hints.binaryage.com:/enable-the-safari-debug-menu</id>
         <content type="html"><![CDATA[<p>If you would like to enable hidden features in Safari on your Mac, follow the steps below to enable the debug menu. Extra features you can unlock include: spoofing your user agent, using the Web Inspector, and disabling things such as Javascript.</p>
@@ -2505,7 +2504,7 @@ end tell
     <entry>
         <title><![CDATA[How to Download YouTube Videos in Safari]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-download-youtube-videos-in-safari/"/>
+        <link href="https://hints.binaryage.com//how-to-download-youtube-videos-in-safari/"/>
         <updated>2012-03-13T20:39:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-download-youtube-videos-in-safari</id>
         <content type="html"><![CDATA[<p>UPDATE: If you are on Mountain Lion and running Safari 6, this guide will not work for you, my updated post is <a href="http://hints.binaryage.com/how-to-download-youtube-videos-mountain-lion-safari-6/">here!</a></p>
@@ -2537,7 +2536,7 @@ end tell
     <entry>
         <title><![CDATA[Network Connection Error, Unable to Download iOS 5.1]]></title>
         
-        <link href="http://hints.binaryage.com//network-connection-error-unable-to-download-ios-5-1/"/>
+        <link href="https://hints.binaryage.com//network-connection-error-unable-to-download-ios-5-1/"/>
         <updated>2012-03-12T23:38:00+00:00</updated>
         <id>hints.binaryage.com:/network-connection-error-unable-to-download-ios-5-1</id>
         <content type="html"><![CDATA[<p>If you are unable to download the new iOS 5.1 update to your iDevice because of network connection problems, follow these steps below to fix this problem:</p>
@@ -2567,7 +2566,7 @@ end tell
     <entry>
         <title><![CDATA[New Features of iOS 5.1]]></title>
         
-        <link href="http://hints.binaryage.com//new-features-of-ios-5-1/"/>
+        <link href="https://hints.binaryage.com//new-features-of-ios-5-1/"/>
         <updated>2012-03-12T20:56:00+00:00</updated>
         <id>hints.binaryage.com:/new-features-of-ios-5-1</id>
         <content type="html"><![CDATA[<p>Earlier this week, Apple pushed out the iOS 5.1 update to users which included confusion over the 3G vs 4G icon and supposedly fixed most battery problems that users were experiencing on the iPhone 4S. This update is pushed out over the air which you can access by going to Settings > General > Software Update.</p>
@@ -2637,7 +2636,7 @@ end tell
     <entry>
         <title><![CDATA[Cannot Drag and Drop Apps from iTunes to iPhone or iPod Touch]]></title>
         
-        <link href="http://hints.binaryage.com//cannot-drag-and-drop-apps-from-itunes-to-iphone-or-ipod-touch/"/>
+        <link href="https://hints.binaryage.com//cannot-drag-and-drop-apps-from-itunes-to-iphone-or-ipod-touch/"/>
         <updated>2012-03-10T03:23:00+00:00</updated>
         <id>hints.binaryage.com:/cannot-drag-and-drop-apps-from-itunes-to-iphone-or-ipod-touch</id>
         <content type="html"><![CDATA[<p>When you plug your iPhone or other iDevice into iTunes and try and drag and drop apps to your device, sometimes the apps are gray and will not let you select themselves to add to your device. Follow these steps below to fix this issue.</p>
@@ -2663,7 +2662,7 @@ end tell
     <entry>
         <title><![CDATA[Airplay your Mac Desktop to your TV Wirelessly]]></title>
         
-        <link href="http://hints.binaryage.com//airplay-your-mac-desktop-to-your-tv-wirelessly/"/>
+        <link href="https://hints.binaryage.com//airplay-your-mac-desktop-to-your-tv-wirelessly/"/>
         <updated>2012-03-09T23:14:00+00:00</updated>
         <id>hints.binaryage.com:/airplay-your-mac-desktop-to-your-tv-wirelessly</id>
         <content type="html"><![CDATA[<p>With the 10.8 Mountain Lion developer preview, you can now mirror your display onto an AirPlay-enabled device. This effectively includes allowing the Apple TV to mirror your display onto any TV. This is awesome! Check out the video below made by InsanlyGreatMac:</p>
@@ -2680,7 +2679,7 @@ end tell
     <entry>
         <title><![CDATA[How to Input GPS Coordinates into the Maps Application on iPhone]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-input-gps-coordinates-into-the-maps-application-on-iphone/"/>
+        <link href="https://hints.binaryage.com//how-to-input-gps-coordinates-into-the-maps-application-on-iphone/"/>
         <updated>2012-03-09T23:09:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-input-gps-coordinates-into-the-maps-application-on-iphone</id>
         <content type="html"><![CDATA[<p>If for some reason you have a pair of GPS coordinates, you can easily look them up on your iPhone to find out what they are referencing. To do this, simply open up the Maps application and type in the two coordinates, (latitude, longitude). There are several ways you can do this, the simplest is to just separate them with a comma.</p>
@@ -2703,7 +2702,7 @@ will put you in Central Park.</p>
     <entry>
         <title><![CDATA[Locate the MAC Address on your iPhone]]></title>
         
-        <link href="http://hints.binaryage.com//locate-the-mac-address-on-your-iphone/"/>
+        <link href="https://hints.binaryage.com//locate-the-mac-address-on-your-iphone/"/>
         <updated>2012-03-07T17:45:00+00:00</updated>
         <id>hints.binaryage.com:/locate-the-mac-address-on-your-iphone</id>
         <content type="html"><![CDATA[<p>Here is a simple tutorial on how to find your MAC address on your iPhone.</p>
@@ -2721,7 +2720,7 @@ will put you in Central Park.</p>
     <entry>
         <title><![CDATA[Disable Dashboard as a Space in Mac OS X Lion]]></title>
         
-        <link href="http://hints.binaryage.com//disable-dashboard-as-a-space-in-mac-os-x-lion/"/>
+        <link href="https://hints.binaryage.com//disable-dashboard-as-a-space-in-mac-os-x-lion/"/>
         <updated>2012-03-07T17:37:00+00:00</updated>
         <id>hints.binaryage.com:/disable-dashboard-as-a-space-in-mac-os-x-lion</id>
         <content type="html"><![CDATA[<p>For reasons unbeknownst to the public, with the release of Mac OS X Lion, Apple decided to make dashboard into a space by default. To remove this annoying setting we will follow a few steps.</p>
@@ -2744,7 +2743,7 @@ will put you in Central Park.</p>
     <entry>
         <title><![CDATA[Where are iPhone Backups Stored?]]></title>
         
-        <link href="http://hints.binaryage.com//where-are-iphone-backups-stored/"/>
+        <link href="https://hints.binaryage.com//where-are-iphone-backups-stored/"/>
         <updated>2012-03-07T17:27:00+00:00</updated>
         <id>hints.binaryage.com:/where-are-iphone-backups-stored</id>
         <content type="html"><![CDATA[<p>On your Mac or PC, if you choose to store backups locally on your computer, they are located in very hard to find places.</p>
@@ -2767,7 +2766,7 @@ C:\Documents and Settings\YOUR_USER_NAME\Application Data\Apple Computer\SyncSer
     <entry>
         <title><![CDATA[iPad 3 Launch Today, New Features]]></title>
         
-        <link href="http://hints.binaryage.com//ipad-launch-today-new-features/"/>
+        <link href="https://hints.binaryage.com//ipad-launch-today-new-features/"/>
         <updated>2012-03-07T11:04:00+00:00</updated>
         <id>hints.binaryage.com:/ipad-launch-today-new-features</id>
         <content type="html"><![CDATA[<p>Today, the iPad 3, possibly referred to as the iPad HD, will be announced to the public today in Apple's media event. With its name in speculation, one thing is pretty well known, the iPad will come with a high resolution, retina display that has a pixel density up to four times as much as its current iteration. There have also been several reports that the iPad will not have a home button, although most of those claims have rescinded. As with any other relese, we can not be sure until it is officially announced, so stay tuned for the coverage of the event! Presumably, the pre-orders will start the day after the event so mark your calendars for March 8th, becuase you should be able to pre-order your shiny new iPad on that date.</p>
@@ -2783,7 +2782,7 @@ C:\Documents and Settings\YOUR_USER_NAME\Application Data\Apple Computer\SyncSer
     <entry>
         <title><![CDATA[Playlist not Showing up on iPhone using iTunes Match]]></title>
         
-        <link href="http://hints.binaryage.com//playlist-not-showing-up-on-iphone-using-itunes-match/"/>
+        <link href="https://hints.binaryage.com//playlist-not-showing-up-on-iphone-using-itunes-match/"/>
         <updated>2012-03-06T02:10:00+00:00</updated>
         <id>hints.binaryage.com:/playlist-not-showing-up-on-iphone-using-itunes-match</id>
         <content type="html"><![CDATA[<p>There is a slight bug in iTunes Match that doesn't update playlists on your iDevice. Although this is annoying and will most likely be fixed by Apple in the next update, here is a quick solution to solve it. Note: Sometimes there is a delay between what is on your computer and what is on your iPhone. Wait a few hours and the sync should catch up, otherwise, continue reading the steps below.</p>
@@ -2809,7 +2808,7 @@ C:\Documents and Settings\YOUR_USER_NAME\Application Data\Apple Computer\SyncSer
     <entry>
         <title><![CDATA[Upcoming Safari 5.2 New Features]]></title>
         
-        <link href="http://hints.binaryage.com//safari-5-2-new-features/"/>
+        <link href="https://hints.binaryage.com//safari-5-2-new-features/"/>
         <updated>2012-03-06T00:23:00+00:00</updated>
         <id>hints.binaryage.com:/safari-5-2-new-features</id>
         <content type="html"><![CDATA[<p>Here is a quick rundown of the new features in the upcoming release of Safari 5.2. So far, the beta has included several new features making this the best version of Safari to date.</p>
@@ -2848,7 +2847,7 @@ C:\Documents and Settings\YOUR_USER_NAME\Application Data\Apple Computer\SyncSer
     <entry>
         <title><![CDATA[iTunes Error 50]]></title>
         
-        <link href="http://hints.binaryage.com//itunes-error-50/"/>
+        <link href="https://hints.binaryage.com//itunes-error-50/"/>
         <updated>2012-03-04T18:40:00+00:00</updated>
         <id>hints.binaryage.com:/itunes-error-50</id>
         <content type="html"><![CDATA[<p>If you are receiving the following error then follow the instructions below to resolve the issue:</p>
@@ -2879,7 +2878,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[Cannot Connect to iTunes Store on iPhone]]></title>
         
-        <link href="http://hints.binaryage.com//cannot-connect-to-itunes-store-on-iphone/"/>
+        <link href="https://hints.binaryage.com//cannot-connect-to-itunes-store-on-iphone/"/>
         <updated>2012-03-04T18:22:00+00:00</updated>
         <id>hints.binaryage.com:/cannot-connect-to-itunes-store-on-iphone</id>
         <content type="html"><![CDATA[<p>If you are trying to use the App Store, GameCenter, YouTube, or any other Apple app on your iPhone and you come across this error, follow the steps below to solve this problem:</p>
@@ -2921,7 +2920,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[iPhone Contacts not syncing with Mac Address Book]]></title>
         
-        <link href="http://hints.binaryage.com//iphone-contacts-not-syncing-with-mac-address-book/"/>
+        <link href="https://hints.binaryage.com//iphone-contacts-not-syncing-with-mac-address-book/"/>
         <updated>2012-03-04T11:45:00+00:00</updated>
         <id>hints.binaryage.com:/iphone-contacts-not-syncing-with-mac-address-book</id>
         <content type="html"><![CDATA[<p>If you are still using the Mac Address Book without iCloud to sync your contacts when you plug in your iPhone, you may have run into the problem that they do not always sync when you plug in your phone. Follow these steps below to fix this simple problem.</p>
@@ -2949,7 +2948,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[How to Add an Attachment to an Email Message on an iPhone]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-add-an-attachment-to-an-email-message-on-an-iphone/"/>
+        <link href="https://hints.binaryage.com//how-to-add-an-attachment-to-an-email-message-on-an-iphone/"/>
         <updated>2012-03-04T10:47:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-add-an-attachment-to-an-email-message-on-an-iphone</id>
         <content type="html"><![CDATA[<p>Many people ask the question: "How can I add an attachment to an email message on my iPhone?" The short answer is you must start off the message with the attachment. You cannot simply write a message and then add an attachment like you would on a normal email client.</p>
@@ -2973,7 +2972,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[iPhone Displays Incorrect Time]]></title>
         
-        <link href="http://hints.binaryage.com//iphone-displays-incorrect-time/"/>
+        <link href="https://hints.binaryage.com//iphone-displays-incorrect-time/"/>
         <updated>2012-03-04T09:45:00+00:00</updated>
         <id>hints.binaryage.com:/iphone-displays-incorrect-time</id>
         <content type="html"><![CDATA[<p>If you iPhone, iPod Touch, or iPad is showing you the incorrect time, here are a few suggested fixes for this common problem.</p>
@@ -3003,7 +3002,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[iTunes Error 3001, 42110, or 5103]]></title>
         
-        <link href="http://hints.binaryage.com//itunes-error-3001-42110-5103/"/>
+        <link href="https://hints.binaryage.com//itunes-error-3001-42110-5103/"/>
         <updated>2012-03-04T09:23:00+00:00</updated>
         <id>hints.binaryage.com:/itunes-error-3001-42110-5103</id>
         <content type="html"><![CDATA[<p>You may experience an error message 3001, -42110, or 5103  when downloading a movie rental from the iTunes Store. If this happens then follow these instructions to delete the SC Info folder that is causing these errors.</p>
@@ -3087,7 +3086,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[How to Jailbreak iPhone 4s and iPad 2 running iOS 5.0 or 5.0.1 [Windows Update]]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-jailbreak-iphone-4s-and-ipad-2-running-ios-5-0-or-5-0-1-windows-update/"/>
+        <link href="https://hints.binaryage.com//how-to-jailbreak-iphone-4s-and-ipad-2-running-ios-5-0-or-5-0-1-windows-update/"/>
         <updated>2012-03-03T19:37:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-jailbreak-iphone-4s-and-ipad-2-running-ios-5-0-or-5-0-1-windows-update</id>
         <content type="html"><![CDATA[<p>The jailbreak has been released! Here are the steps to jailbreak your A5 (iPhone 4s and iPad 2) device on Windows!</p>
@@ -3121,7 +3120,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[Problems with iOS 5 Music App Crashing]]></title>
         
-        <link href="http://hints.binaryage.com//problems-with-ios-5-music-app-crashing/"/>
+        <link href="https://hints.binaryage.com//problems-with-ios-5-music-app-crashing/"/>
         <updated>2012-03-03T19:25:00+00:00</updated>
         <id>hints.binaryage.com:/problems-with-ios-5-music-app-crashing</id>
         <content type="html"><![CDATA[<p>Many people have been reporting problems with the updated iOS 5 Music App. The app continuously freezes, crashes, and even restarts the entire iPhone/iPod touch/iPad. This is a serious problem that Apple need to fix internally; however, here are a few suggested fixes that may remedy your specific problem.</p>
@@ -3159,7 +3158,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[Recorded Voice Memo Won't Play Back]]></title>
         
-        <link href="http://hints.binaryage.com//title-recorded-voice-memo-wont-play-back/"/>
+        <link href="https://hints.binaryage.com//title-recorded-voice-memo-wont-play-back/"/>
         <updated>2012-03-03T09:37:00+00:00</updated>
         <id>hints.binaryage.com:/title-recorded-voice-memo-wont-play-back</id>
         <content type="html"><![CDATA[<p>If you use Voice Memos on your iPhone or iPod Touch and the files do not seem to be playing back even though they are there, then follow these steps below to retrieve and playback those files!</p>
@@ -3185,7 +3184,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[App Store Officially Hits 25 Billion Downloads]]></title>
         
-        <link href="http://hints.binaryage.com//app-store-officially-hits-25-billion-downloads/"/>
+        <link href="https://hints.binaryage.com//app-store-officially-hits-25-billion-downloads/"/>
         <updated>2012-03-03T06:20:00+00:00</updated>
         <id>hints.binaryage.com:/app-store-officially-hits-25-billion-downloads</id>
         <content type="html"><![CDATA[<p><img class="clear blog-image-full-border" src="https://static.binaryage.com/525c7d98_images_appstore.png" title="Apple's banner"></p>
@@ -3201,7 +3200,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[Cannot Activate FaceTime]]></title>
         
-        <link href="http://hints.binaryage.com//cannot-activate-facetime/"/>
+        <link href="https://hints.binaryage.com//cannot-activate-facetime/"/>
         <updated>2012-03-03T05:12:00+00:00</updated>
         <id>hints.binaryage.com:/cannot-activate-facetime</id>
         <content type="html"><![CDATA[<p>This fix is very, very similar to the fix for iMessage. Both problems can be fixed by the same solution.</p>
@@ -3235,7 +3234,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[How to Copy Music off your iPhone or iPod Touch]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-copy-music-off-your-iphone-or-ipod-touch/"/>
+        <link href="https://hints.binaryage.com//how-to-copy-music-off-your-iphone-or-ipod-touch/"/>
         <updated>2012-03-03T01:46:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-copy-music-off-your-iphone-or-ipod-touch</id>
         <content type="html"><![CDATA[<p>If your hard drive has failed or become broken recently and you have not backed up your music collection, you have probably lost all of it. Luckily, there is a free way to recover your music off of your iPod Touch, iPad or iPhone. Follow these steps below:</p>
@@ -3261,7 +3260,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[Hide Dropbox from your Menu Bar]]></title>
         
-        <link href="http://hints.binaryage.com//hide-dropbox-from-your-menu-bar/"/>
+        <link href="https://hints.binaryage.com//hide-dropbox-from-your-menu-bar/"/>
         <updated>2012-03-03T00:50:00+00:00</updated>
         <id>hints.binaryage.com:/hide-dropbox-from-your-menu-bar</id>
         <content type="html"><![CDATA[<p>If you are tired of seeing the Dropbox icon in your menu bar, or if you are simply going for a minimalist look, then follow these few steps below to remove the Dropbox icon from your menu bar.</p>
@@ -3285,7 +3284,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[Always Keep Track of your IP Address on a Remote Computer using Dropbox]]></title>
         
-        <link href="http://hints.binaryage.com//always-keep-track-of-your-ip-address-on-a-remote-computer/"/>
+        <link href="https://hints.binaryage.com//always-keep-track-of-your-ip-address-on-a-remote-computer/"/>
         <updated>2012-03-03T00:17:00+00:00</updated>
         <id>hints.binaryage.com:/always-keep-track-of-your-ip-address-on-a-remote-computer</id>
         <content type="html"><![CDATA[<p>If you want to remotely access your computer using SSH, FTP, SMB, AFP, etc, you will most likely need your IP address unless you have Dynamic DNS set up. To combat this issue of an always changing IP address, follow the tips below to use Dropbox to always have access to your home computer's IP address. Note: this guide is for Mac/Unix only as it involves using a Cron job.</p>
@@ -3332,7 +3331,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[iPhone Cannot Hang Up Calls]]></title>
         
-        <link href="http://hints.binaryage.com//iphone-cannot-hang-up-calls/"/>
+        <link href="https://hints.binaryage.com//iphone-cannot-hang-up-calls/"/>
         <updated>2012-03-02T16:13:00+00:00</updated>
         <id>hints.binaryage.com:/iphone-cannot-hang-up-calls</id>
         <content type="html"><![CDATA[<p>From as early on as iOS 4 up until the current iOS 5.0.1, this problem has found its way into all versions of the iPhone. After ending a conversation with a friend, you may find yourself unable to hang up or your phone may even freeze at the conclusion of a call. To fix these problems, you will have to follow these steps below.</p>
@@ -3350,7 +3349,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[iTunes Asks for a Password to Unlock a Backup that You Never Set]]></title>
         
-        <link href="http://hints.binaryage.com//itunes-asks-for-a-password-to-unlock-a-backup-that-you-never-set/"/>
+        <link href="https://hints.binaryage.com//itunes-asks-for-a-password-to-unlock-a-backup-that-you-never-set/"/>
         <updated>2012-03-02T16:02:00+00:00</updated>
         <id>hints.binaryage.com:/itunes-asks-for-a-password-to-unlock-a-backup-that-you-never-set</id>
         <content type="html"><![CDATA[<p>If you are trying to update your iPhone or other iDevice, you may try to restore from a backup so that you do not have to recover your data. However, iTunes may ask for a password, one that you do not remember setting because you never checked the option for an encrypted backup. There are several passwords you can try  to change the password, given that you can remember your iTunes Store password, etc.</p>
@@ -3380,7 +3379,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[Safari 5.2 Beta]]></title>
         
-        <link href="http://hints.binaryage.com//safari-5-2-beta/"/>
+        <link href="https://hints.binaryage.com//safari-5-2-beta/"/>
         <updated>2012-03-01T17:22:00+00:00</updated>
         <id>hints.binaryage.com:/safari-5-2-beta</id>
         <content type="html"><![CDATA[<p>Safari 5.2 Beta now includes the unified address/search bar and is available now only to developers. However, you can use the download link below to get a sneak peak.</p>
@@ -3400,7 +3399,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[iPhone Doesn't Fully Charge]]></title>
         
-        <link href="http://hints.binaryage.com//iphone-doesnt-fully-charge/"/>
+        <link href="https://hints.binaryage.com//iphone-doesnt-fully-charge/"/>
         <updated>2012-03-01T10:21:00+00:00</updated>
         <id>hints.binaryage.com:/iphone-doesnt-fully-charge</id>
         <content type="html"><![CDATA[<p>If you leave your iPhone plugged in to an outlet or computer all night (presumably charging), you may notice in the morning that your iPhone is only charged up to around 92-93%. This is a common problem and is a result of your iPhone's battery's calibration. To fix this, follow the steps below:</p>
@@ -3424,7 +3423,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[Yahoo! Mail not Pushing on iPhone]]></title>
         
-        <link href="http://hints.binaryage.com//yahoo-mail-not-pushing-on-iphone/"/>
+        <link href="https://hints.binaryage.com//yahoo-mail-not-pushing-on-iphone/"/>
         <updated>2012-03-01T09:56:00+00:00</updated>
         <id>hints.binaryage.com:/yahoo-mail-not-pushing-on-iphone</id>
         <content type="html"><![CDATA[<p>After updating to iOS 5 or iOS 5.0.1, Yahoo! Mail seems to have a problem on the iPhone or other iDevice. Intermittently, the device will receive mail, only to have it not show up minutes later. The problem can be solved by following the steps below:</p>
@@ -3448,7 +3447,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[Double Message Alerts on iPhone with iOS 5]]></title>
         
-        <link href="http://hints.binaryage.com//double-message-alerts-on-iphone-with-ios-5/"/>
+        <link href="https://hints.binaryage.com//double-message-alerts-on-iphone-with-ios-5/"/>
         <updated>2012-03-01T08:09:00+00:00</updated>
         <id>hints.binaryage.com:/double-message-alerts-on-iphone-with-ios-5</id>
         <content type="html"><![CDATA[<p>If you are experiencing a double sound alert for new text messages, calendar notifications, and other apps, then follow the instructions below to fix this problem.</p>
@@ -3470,343 +3469,9 @@ delete the cached video files of the download, and start the download again from
     </entry>
     
     <entry>
-        <title><![CDATA[Archive]]></title>
-        
-        <link href="http://hints.binaryage.com//archive"/>
-        <updated>2012-03-01T00:00:00+00:00</updated>
-        <id>hints.binaryage.com:/archive</id>
-        <content type="html"><![CDATA[<h2>Archive</h2>
-
-
-
-
-<div id="post_links">
-    <ul>
-        
-            <li><span>13 Dec 2012</span>  <a href="/google-maps-for-ios-download/">Google Maps for iOS Download</a></li>
-        
-            <li><span>30 Nov 2012</span>  <a href="/iphone-rattle-near-camera/">iPhone Rattle Near Camera</a></li>
-        
-            <li><span>30 Nov 2012</span>  <a href="/new-imac-comes-in-trapezoid-box/">New iMac Comes in Trapezoid Box</a></li>
-        
-            <li><span>30 Nov 2012</span>  <a href="/slide-to-unlock-frozen-ipad-3/">Slide to Unlock Frozen on iPad 3</a></li>
-        
-            <li><span>03 Nov 2012</span>  <a href="/ios-6-1-now-available-for-developers/">iOS 6.1 Now Available for Developers</a></li>
-        
-            <li><span>03 Nov 2012</span>  <a href="/how-to-backup-your-iphone-to-icloud/">How to Backup your iPhone to iCloud</a></li>
-        
-            <li><span>03 Nov 2012</span>  <a href="/ios-6-do-not-disturb-mode/">iOS 6 Do Not Disturb Mode</a></li>
-        
-            <li><span>03 Nov 2012</span>  <a href="/ios-6-keyboard-shprtcuts/">iOS 6 Keyboard Shortcuts</a></li>
-        
-            <li><span>03 Nov 2012</span>  <a href="/ios-6-battery-issues/">iOS 6 Battery Issues</a></li>
-        
-            <li><span>03 Nov 2012</span>  <a href="/reduce-cpu-usage-by-removing-files-from-your-desktop/">Reduce CPU Usage by Removing Files From Your Desktop</a></li>
-        
-            <li><span>03 Nov 2012</span>  <a href="/change-panorama-direction-iphone/">Change Panorama Direction iPhone</a></li>
-        
-            <li><span>03 Nov 2012</span>  <a href="/share-reminders-via-icloud/">Share Reminders via iCloud</a></li>
-        
-            <li><span>03 Nov 2012</span>  <a href="/ipad-mini-launch-day/">iPad Mini Launch Day</a></li>
-        
-            <li><span>03 Nov 2012</span>  <a href="/iphone-5-specific-update/">iPhone 5 Specific Update</a></li>
-        
-            <li><span>30 Sep 2012</span>  <a href="/ios-6-exchange-mail-fix/">iOS 6 Exchange Mail Fix</a></li>
-        
-            <li><span>30 Sep 2012</span>  <a href="/iphone-5-battery-problems/">iPhone 5 Battery Problems</a></li>
-        
-            <li><span>30 Sep 2012</span>  <a href="/time-machine-issues-on-mountain-lion/">Time Machine Issues on Mountain Lion</a></li>
-        
-            <li><span>30 Sep 2012</span>  <a href="/iphone-5-bluetooth-not-working/">iPhone 5 Bluetooth Not Working</a></li>
-        
-            <li><span>30 Sep 2012</span>  <a href="/add-your-phone-number-to-os-x-messages/">Add Your Phone Number to OS X Messages</a></li>
-        
-            <li><span>30 Sep 2012</span>  <a href="/how-to-listen-to-podcasts-through-the-music-app-on-ios-6/">How to Listen to Podcasts through the Music App on iOS 6</a></li>
-        
-            <li><span>30 Sep 2012</span>  <a href="/iphone-5-jailbroken/">iPhone 5 Jailbroken</a></li>
-        
-            <li><span>30 Sep 2012</span>  <a href="/new-sharing-features-of-ios-6/">New Sharing Features of iOS 6</a></li>
-        
-            <li><span>30 Sep 2012</span>  <a href="/gmail-for-ios-updated-for-iphone-5/">Gmail for iOS Updated for iPhone 5</a></li>
-        
-            <li><span>30 Sep 2012</span>  <a href="/do-not-disturb-mode-is-apples-alarm-only-mode/">Do Not Disturb Mode is Apple's Alarm Only Mode</a></li>
-        
-            <li><span>30 Sep 2012</span>  <a href="/carddav-a-new-way-to-sync-google-contacts-with-ios-6/">CardDAV A New Way to Sync Google Contacts with iOS 6</a></li>
-        
-            <li><span>30 Sep 2012</span>  <a href="/how-to-make-your-own-passbook-cards-on-ios-6/">How to Make Your Own Passbook Cards in iOS 6</a></li>
-        
-            <li><span>29 Sep 2012</span>  <a href="/missing-google-maps-on-ios-6-checkout-the-app-store/">Missing Google Maps on iOS 6? Check out these alternatives in the App Store</a></li>
-        
-            <li><span>26 Sep 2012</span>  <a href="/how-to-approach-hard-drive-cloning-in-mac-os-x-disk-utility/">How to Approach Hard Drive Cloning in Mac OS X Using Apple's Disk Utility</a></li>
-        
-            <li><span>20 Sep 2012</span>  <a href="/io6-wifi-apple-problem-page-cant-be-found/">iOS 6 upgrade problem: wifi redirects to apple.com</a></li>
-        
-            <li><span>10 Sep 2012</span>  <a href="/how-to-disable-java-on-chrome/">How To Disable Java on Chrome</a></li>
-        
-            <li><span>04 Sep 2012</span>  <a href="/air-display-by-avatron-review/">Air Display by Avatron Review</a></li>
-        
-            <li><span>03 Sep 2012</span>  <a href="/recover-lost-recovery-hd-for-filevault/">Recover lost Recovery HD for FileVault - the easy way</a></li>
-        
-            <li><span>29 Aug 2012</span>  <a href="/istat-pro-for-mountain-lion/">iStat Pro for Mountain Lion</a></li>
-        
-            <li><span>28 Aug 2012</span>  <a href="/transfer-photos-from-photo-stream-to-camera-roll/">Transfer Photos From Photo Stream to Camera Roll on iOS</a></li>
-        
-            <li><span>26 Aug 2012</span>  <a href="/how-to-remove-system-preferences-on-mac/">How to Remove System Preferences on Mac</a></li>
-        
-            <li><span>19 Aug 2012</span>  <a href="/set-default-tab-size-and-turn-on-soft-tabs-in-textmate-2/">Set Default Tab Size and Turn on Soft Tabs on TextMate 2</a></li>
-        
-            <li><span>18 Aug 2012</span>  <a href="/how-to-flush-dns-cache-on-mac-os-x-10-7-and-10-8/">How To Flush DNS Cache on Mac OS X 10.7 and 10.8</a></li>
-        
-            <li><span>17 Aug 2012</span>  <a href="/how-to-enable-power-nap-on-macbook-air-2010/">How To Enable Power Nap on MacBook Air 2010</a></li>
-        
-            <li><span>13 Aug 2012</span>  <a href="/how-to-download-youtube-videos-mountain-lion-safari-6/">How to Download YouTube Videos on Mountain Lion Safari 6</a></li>
-        
-            <li><span>05 Aug 2012</span>  <a href="/enable-airprint-on-windows-ios-5/">Enable AirPrint on Windows with iOS 5</a></li>
-        
-            <li><span>26 Jul 2012</span>  <a href="/change-mountain-lion-calendar-and-contacts-app-to-aluminum-skin/">Change Mountain Lion Calendar and Contacts App to Aluminum Skin</a></li>
-        
-            <li><span>26 Jul 2012</span>  <a href="/notice-facebook-integration-not-until-fall-mountain-lion/">Notice: Facebook Mountain Lion Integration Coming Out Later</a></li>
-        
-            <li><span>26 Jul 2012</span>  <a href="/mountain-tweaks-coming-out-soon/">Mountain Tweaks Coming Out Soon</a></li>
-        
-            <li><span>25 Jul 2012</span>  <a href="/how-to-make-a-mountain-lion-usb-installer-key/">How To Make a Mountain Lion USB Installer Key</a></li>
-        
-            <li><span>25 Jul 2012</span>  <a href="/mointain-lion-released-today/">Mountain Lion Released Today</a></li>
-        
-            <li><span>24 Jul 2012</span>  <a href="/simple-shortcut-to-lock-your-macs-screen/">Simple Shortcut to Lock Your Mac's Screen</a></li>
-        
-            <li><span>18 Jul 2012</span>  <a href="/backup-iphone-passwords-using-itunes/">Back Up iPhone Passwords Using iTunes</a></li>
-        
-            <li><span>17 Jul 2012</span>  <a href="/ios-6-beta-3-update-released-download-here/">iOS 6 Beta 3 Update Released, Download Here</a></li>
-        
-            <li><span>17 Jul 2012</span>  <a href="/mountain-lion-release-date/">Mountain Lion Release Date</a></li>
-        
-            <li><span>17 Jul 2012</span>  <a href="/will-apple-release-a-smaller-ipad/">[Poll] Will Apple Release a Smaller iPad?</a></li>
-        
-            <li><span>15 Jul 2012</span>  <a href="/safari-6-developer-preview-download/">Safari 6 Developer Preview Download</a></li>
-        
-            <li><span>15 Jul 2012</span>  <a href="/lion-tweaks-updated-for-mountain-lion/">Lion Tweaks 2.0.1 updated for Mountain Lion</a></li>
-        
-            <li><span>11 Jul 2012</span>  <a href="/get-your-mac-ready-for-mountain-lion/">Get Your Mac Ready to Install Mountain Lion</a></li>
-        
-            <li><span>11 Jul 2012</span>  <a href="/mountain-lion-gm-available-for-download/">Mountain Lion Gold Master is Available for Download</a></li>
-        
-            <li><span>27 Jun 2012</span>  <a href="/how-to-clear-out-launchpad/">How To Clear Out Launchpad and Add the Apps How You Want</a></li>
-        
-            <li><span>27 Jun 2012</span>  <a href="/stop-gifs-from-animating/">Stop GIFs From Animating in Your Web Browser</a></li>
-        
-            <li><span>24 Jun 2012</span>  <a href="/change-your-volume-on-your-mac-without-making-a-sound/">Change Your Volume on Your Mac Without Making a Sound</a></li>
-        
-            <li><span>24 Jun 2012</span>  <a href="/finer-control-over-brightness-and-volume/">Finer Control Over Brightness and Volume on Mac OS X</a></li>
-        
-            <li><span>19 Jun 2012</span>  <a href="/add-contact-information-to-lock-screen-of-mac/">Add Contact Information to your Lock Screen of your Mac</a></li>
-        
-            <li><span>14 Jun 2012</span>  <a href="/ipad-keyboard-hacks/">iPad Keyboard Hacks</a></li>
-        
-            <li><span>10 Jun 2012</span>  <a href="/ios-6-anticipated-features/">iOS 6 Anticipated Features</a></li>
-        
-            <li><span>04 Jun 2012</span>  <a href="/how-to-install-python-3-2-3-on-mac-os-x/">How to Install Python 3.2.3 on Mac OS X</a></li>
-        
-            <li><span>28 May 2012</span>  <a href="/ios-5-1-1-jailbreak-released-download-here/">iOS 5.1.1 Jailbreak Released, Download Here!</a></li>
-        
-            <li><span>23 May 2012</span>  <a href="/iphone-sync-error-13019/">How to Fix: iPhone Sync Error 13019</a></li>
-        
-            <li><span>23 May 2012</span>  <a href="/how-to-shut-off-camera-shutter-noise-iphone/">How To Shut Off the Camera Shutter Noise on your iPhone</a></li>
-        
-            <li><span>22 May 2012</span>  <a href="/automatic-app-downloads-on-mountain-lion/">Automatic App Downloads on Mac OS X Mountain Lion</a></li>
-        
-            <li><span>19 May 2012</span>  <a href="/hide-dock-indicators/">Hide Dock Indicator Lights</a></li>
-        
-            <li><span>15 May 2012</span>  <a href="/poll-favorite-browser/">Poll: What is your Favorite Browser and Why?</a></li>
-        
-            <li><span>12 May 2012</span>  <a href="/apple-tv-5-0-1-update/">Apple TV 5.0.1 Update</a></li>
-        
-            <li><span>10 May 2012</span>  <a href="/mac-os-x-10-7-4-update/">Mac OS X 10.7.4 Update</a></li>
-        
-            <li><span>09 May 2012</span>  <a href="/ios-5-1-1-software-update/">iOS 5.1.1 Software Update</a></li>
-        
-            <li><span>08 May 2012</span>  <a href="/how-to-force-quit-an-application/">How to Force Quit an Application</a></li>
-        
-            <li><span>06 May 2012</span>  <a href="/how-to-reset-your-macs-pram-and-nvram/">How to Reset your Mac's PRAM and NVRAM</a></li>
-        
-            <li><span>01 May 2012</span>  <a href="/how-to-record-your-screen-on-mac-os-x/">How to Record Your Screen on Mac OS X</a></li>
-        
-            <li><span>29 Apr 2012</span>  <a href="/write-a-guest-post-for-mac-hints-from-binaryage/">Write a Guest Post for Mac Hints from BinaryAge</a></li>
-        
-            <li><span>28 Apr 2012</span>  <a href="/how-to-remove-ds-store-files-from-a-git-repo/">How to Remove .DS_Store File from a Git Repo on Mac OS X</a></li>
-        
-            <li><span>27 Apr 2012</span>  <a href="/change-file-type-of-screenshots-on-os-x/">Change the File Type of Screenshots on OS X</a></li>
-        
-            <li><span>26 Apr 2012</span>  <a href="/change-the-file-location-of-screenshots-on-mac-os-x/">Change the File Location of Screenshots on Mac OS X</a></li>
-        
-            <li><span>22 Apr 2012</span>  <a href="/open-recently-closed-safari-tabs-ios-5-1/">Open Recently Closed Safari Tabs in iOS 5.1</a></li>
-        
-            <li><span>22 Apr 2012</span>  <a href="/scroll-to-top-of-ios-app-with-one-touch/">Scroll to the Top of iOS Apps with One Touch</a></li>
-        
-            <li><span>22 Apr 2012</span>  <a href="/swipe-to-view-photos-in-camera-app/">Swipe to View Photos in Camera App on iOS</a></li>
-        
-            <li><span>19 Apr 2012</span>  <a href="/new-safari-5-2-beta-update-3-download/">New Safari 5.2 Beta Update 3 Download</a></li>
-        
-            <li><span>17 Apr 2012</span>  <a href="/how-to-clear-imessage-history-on-mac-os-x/">How To Clear iMessage History on Mac OS X</a></li>
-        
-            <li><span>17 Apr 2012</span>  <a href="/download-imessage-beta-for-mac-os-x-lion/">Download iMessage Beta for Mac OS X Lion</a></li>
-        
-            <li><span>15 Apr 2012</span>  <a href="/no-audio-on-macbook-pro/">No Audio on Macbook Pro</a></li>
-        
-            <li><span>09 Apr 2012</span>  <a href="/how-to-measure-screen-elements-in-pixels/">How to Measure Screen Elements in Pixels</a></li>
-        
-            <li><span>07 Apr 2012</span>  <a href="/refresh-dashboard-widgets/">Refresh Dashboard Widgets</a></li>
-        
-            <li><span>05 Apr 2012</span>  <a href="/how-to-securely-empty-trash/">How to Securely Empty your Trash</a></li>
-        
-            <li><span>02 Apr 2012</span>  <a href="/spread-your-dropbox-storage-link/">Spread your Dropbox Referral Link!</a></li>
-        
-            <li><span>02 Apr 2012</span>  <a href="/quickly-view-mission-control-or-dashboard-by-holding-down-hotkeys/">Quickly View Mission Control or Dashboard by Holding Down Hotkeys</a></li>
-        
-            <li><span>02 Apr 2012</span>  <a href="/how-to-restart-mac-os-x-mission-control-and-dock/">How to Restart Mac OS X Mission Control and Dock</a></li>
-        
-            <li><span>31 Mar 2012</span>  <a href="/delete-multiple-photos-from-iphones-camera-roll/">Delete Multiple Photos from iPhone's Camera Roll</a></li>
-        
-            <li><span>30 Mar 2012</span>  <a href="/hourly-forecasts-in-ios-5-weather-app/">Hourly Forecasts in iOS 5 Weather App</a></li>
-        
-            <li><span>29 Mar 2012</span>  <a href="/change-dashboard-background-in-lion/">Change Dashboard Background in Lion</a></li>
-        
-            <li><span>26 Mar 2012</span>  <a href="/how-to-sync-google-calendar-with-ical-on-lion/">How to Sync Google Calendar with iCal on Lion</a></li>
-        
-            <li><span>25 Mar 2012</span>  <a href="/quickly-switch-between-spaces-with-a-faster-keyboard-shortcut-in-lion/">Quickly Switch Between Spaces with a Faster Keyboard Shortcut in Lion</a></li>
-        
-            <li><span>22 Mar 2012</span>  <a href="/change-the-font-size-in-list-view-of-stacks-in-your-dock/">Change the Font Size in List View of Stacks in your Dock</a></li>
-        
-            <li><span>22 Mar 2012</span>  <a href="/download-adobe-photoshop-cs6-public-beta-for-free/">Download Adobe Photoshop CS6 Public Beta for Free</a></li>
-        
-            <li><span>20 Mar 2012</span>  <a href="/how-to-burn-an-iso-image-on-mac-os-x/">How to Burn an ISO Image on Mac OS X</a></li>
-        
-            <li><span>18 Mar 2012</span>  <a href="/safari-crashes-often-on-ios-5/">Safari Crashes Often on iOS 5</a></li>
-        
-            <li><span>17 Mar 2012</span>  <a href="/how-to-transfer-photos-from-ipad-to-mac-or-pc/">How to Transfer Photos from iPad to your Mac or PC</a></li>
-        
-            <li><span>17 Mar 2012</span>  <a href="/reopen-last-closed-tab-in-safari-5/">Reopen Last Closed Tab in Safari 5</a></li>
-        
-            <li><span>15 Mar 2012</span>  <a href="/enable-the-safari-debug-menu/">Enable the Safari Debug Menu</a></li>
-        
-            <li><span>13 Mar 2012</span>  <a href="/how-to-download-youtube-videos-in-safari/">How to Download YouTube Videos in Safari</a></li>
-        
-            <li><span>12 Mar 2012</span>  <a href="/network-connection-error-unable-to-download-ios-5-1/">Network Connection Error, Unable to Download iOS 5.1</a></li>
-        
-            <li><span>12 Mar 2012</span>  <a href="/new-features-of-ios-5-1/">New Features of iOS 5.1</a></li>
-        
-            <li><span>10 Mar 2012</span>  <a href="/cannot-drag-and-drop-apps-from-itunes-to-iphone-or-ipod-touch/">Cannot Drag and Drop Apps from iTunes to iPhone or iPod Touch</a></li>
-        
-            <li><span>09 Mar 2012</span>  <a href="/airplay-your-mac-desktop-to-your-tv-wirelessly/">Airplay your Mac Desktop to your TV Wirelessly</a></li>
-        
-            <li><span>09 Mar 2012</span>  <a href="/how-to-input-gps-coordinates-into-the-maps-application-on-iphone/">How to Input GPS Coordinates into the Maps Application on iPhone</a></li>
-        
-            <li><span>07 Mar 2012</span>  <a href="/locate-the-mac-address-on-your-iphone/">Locate the MAC Address on your iPhone</a></li>
-        
-            <li><span>07 Mar 2012</span>  <a href="/disable-dashboard-as-a-space-in-mac-os-x-lion/">Disable Dashboard as a Space in Mac OS X Lion</a></li>
-        
-            <li><span>07 Mar 2012</span>  <a href="/where-are-iphone-backups-stored/">Where are iPhone Backups Stored?</a></li>
-        
-            <li><span>07 Mar 2012</span>  <a href="/ipad-launch-today-new-features/">iPad 3 Launch Today, New Features</a></li>
-        
-            <li><span>06 Mar 2012</span>  <a href="/playlist-not-showing-up-on-iphone-using-itunes-match/">Playlist not Showing up on iPhone using iTunes Match</a></li>
-        
-            <li><span>06 Mar 2012</span>  <a href="/safari-5-2-new-features/">Upcoming Safari 5.2 New Features</a></li>
-        
-            <li><span>04 Mar 2012</span>  <a href="/itunes-error-50/">iTunes Error 50</a></li>
-        
-            <li><span>04 Mar 2012</span>  <a href="/cannot-connect-to-itunes-store-on-iphone/">Cannot Connect to iTunes Store on iPhone</a></li>
-        
-            <li><span>04 Mar 2012</span>  <a href="/iphone-contacts-not-syncing-with-mac-address-book/">iPhone Contacts not syncing with Mac Address Book</a></li>
-        
-            <li><span>04 Mar 2012</span>  <a href="/how-to-add-an-attachment-to-an-email-message-on-an-iphone/">How to Add an Attachment to an Email Message on an iPhone</a></li>
-        
-            <li><span>04 Mar 2012</span>  <a href="/iphone-displays-incorrect-time/">iPhone Displays Incorrect Time</a></li>
-        
-            <li><span>04 Mar 2012</span>  <a href="/itunes-error-3001-42110-5103/">iTunes Error 3001, 42110, or 5103</a></li>
-        
-            <li><span>03 Mar 2012</span>  <a href="/how-to-jailbreak-iphone-4s-and-ipad-2-running-ios-5-0-or-5-0-1-windows-update/">How to Jailbreak iPhone 4s and iPad 2 running iOS 5.0 or 5.0.1 [Windows Update]</a></li>
-        
-            <li><span>03 Mar 2012</span>  <a href="/problems-with-ios-5-music-app-crashing/">Problems with iOS 5 Music App Crashing</a></li>
-        
-            <li><span>03 Mar 2012</span>  <a href="/title-recorded-voice-memo-wont-play-back/">Recorded Voice Memo Won't Play Back</a></li>
-        
-            <li><span>03 Mar 2012</span>  <a href="/app-store-officially-hits-25-billion-downloads/">App Store Officially Hits 25 Billion Downloads</a></li>
-        
-            <li><span>03 Mar 2012</span>  <a href="/cannot-activate-facetime/">Cannot Activate FaceTime</a></li>
-        
-            <li><span>03 Mar 2012</span>  <a href="/how-to-copy-music-off-your-iphone-or-ipod-touch/">How to Copy Music off your iPhone or iPod Touch</a></li>
-        
-            <li><span>03 Mar 2012</span>  <a href="/hide-dropbox-from-your-menu-bar/">Hide Dropbox from your Menu Bar</a></li>
-        
-            <li><span>03 Mar 2012</span>  <a href="/always-keep-track-of-your-ip-address-on-a-remote-computer/">Always Keep Track of your IP Address on a Remote Computer using Dropbox</a></li>
-        
-            <li><span>02 Mar 2012</span>  <a href="/iphone-cannot-hang-up-calls/">iPhone Cannot Hang Up Calls</a></li>
-        
-            <li><span>02 Mar 2012</span>  <a href="/itunes-asks-for-a-password-to-unlock-a-backup-that-you-never-set/">iTunes Asks for a Password to Unlock a Backup that You Never Set</a></li>
-        
-            <li><span>01 Mar 2012</span>  <a href="/safari-5-2-beta/">Safari 5.2 Beta</a></li>
-        
-            <li><span>01 Mar 2012</span>  <a href="/iphone-doesnt-fully-charge/">iPhone Doesn't Fully Charge</a></li>
-        
-            <li><span>01 Mar 2012</span>  <a href="/yahoo-mail-not-pushing-on-iphone/">Yahoo! Mail not Pushing on iPhone</a></li>
-        
-            <li><span>01 Mar 2012</span>  <a href="/double-message-alerts-on-iphone-with-ios-5/">Double Message Alerts on iPhone with iOS 5</a></li>
-        
-            <li><span>01 Mar 2012</span>  <a href="/archive">Archive</a></li>
-        
-            <li><span>29 Feb 2012</span>  <a href="/ipod-touch-wont-turn-on/">iPod Touch Won't Turn on!</a></li>
-        
-            <li><span>29 Feb 2012</span>  <a href="/delete-other-files-off-of-iphone-or-ipod-touch/">Delete Other Files off of iPhone or iPod Touch</a></li>
-        
-            <li><span>28 Feb 2012</span>  <a href="/how-to-jailbreak-iphone-4s-and-ipad-2-running-ios-5-0-and-5-0-1/">How to Jailbreak iPhone 4s and iPad 2 running iOS 5.0 and 5.0.1</a></li>
-        
-            <li><span>28 Feb 2012</span>  <a href="/iphone-or-ipod-touch-stuck-on-apple-logo/">iPhone or iPod Touch Stuck on Apple Logo</a></li>
-        
-            <li><span>28 Feb 2012</span>  <a href="/how-to-fix-iphone-4s-signal-problem/">How to Fix the iPhone 4s Signal Problem</a></li>
-        
-            <li><span>28 Feb 2012</span>  <a href="/itunes-error-3194/">iTunes Error 3194</a></li>
-        
-            <li><span>28 Feb 2012</span>  <a href="/iphone-battery-problems/">iPhone Battery Problems</a></li>
-        
-            <li><span>28 Feb 2012</span>  <a href="/how-to-use-tinyumbrella-to-update-downgrade-and-restore-your-iphone/">How to use TinyUmbrella to Update, Downgrade, and Restore your iPhone</a></li>
-        
-            <li><span>28 Feb 2012</span>  <a href="/iphone-4-frozen-screen/">iPhone 4 Frozen Screen</a></li>
-        
-            <li><span>28 Feb 2012</span>  <a href="/cannot-activate-imessage/">Cannot Activate iMessage</a></li>
-        
-            <li><span>28 Feb 2012</span>  <a href="/itunes-error-9808/">iTunes Error 9808</a></li>
-        
-            <li><span>27 Feb 2012</span>  <a href="/how-to-restore-iphone-ipad-or-ipod-touch-after-jailbreaking/">How to Restore iPhone, iPad, or iPod Touch after Jailbreaking</a></li>
-        
-            <li><span>27 Feb 2012</span>  <a href="/how-to-jailbreak-iphone-4-ipod-touch-4th-generation-ipad-iphone-3gs-untethered/">How to Jailbreak iPhone 4, iPod Touch 4th Generation, iPad, iPhone 3GS Untethered on iOS 5.0.1</a></li>
-        
-            <li><span>27 Feb 2012</span>  <a href="/how-to-update-iphone-4s-to-ios-5-1-beta-3/">How to Update iPhone 4S to iOS 5.1 Beta 3</a></li>
-        
-            <li><span>27 Feb 2012</span>  <a href="/how-to-put-your-iphone-in-dfu-mode/">How to Put Your iPhone in DFU Mode</a></li>
-        
-            <li><span>27 Feb 2012</span>  <a href="/spotlight-doesnt-work-on-ios-5/">Spotlight Doesn't Work on iOS 5</a></li>
-        
-            <li><span>27 Feb 2012</span>  <a href="/2d-dock-in-mac-os-x/">2D Dock in Mac OS X</a></li>
-        
-            <li><span>27 Feb 2012</span>  <a href="/how-to-restore-your-iphone-ipod-touch-or-ipad/">How to Restore your iPhone, iPod Touch, or iPad</a></li>
-        
-            <li><span>27 Feb 2012</span>  <a href="/apps-installed-on-the-iphone-could-not-be-determined/">Apps Installed on the iPhone could not be Determined</a></li>
-        
-    </ul>
-</div>
-
-]]></content>
-        <author>
-            <name></name>
-            <url></url>
-        </author>
-    </entry>
-    
-    <entry>
         <title><![CDATA[iPod Touch Won't Turn on!]]></title>
         
-        <link href="http://hints.binaryage.com//ipod-touch-wont-turn-on/"/>
+        <link href="https://hints.binaryage.com//ipod-touch-wont-turn-on/"/>
         <updated>2012-02-29T21:05:00+00:00</updated>
         <id>hints.binaryage.com:/ipod-touch-wont-turn-on</id>
         <content type="html"><![CDATA[<p>First and foremost, don't freak out! This is a common problem for some reason especially with the most recent generation (4th). Follow these steps below:</p>
@@ -3828,7 +3493,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[Delete Other Files off of iPhone or iPod Touch]]></title>
         
-        <link href="http://hints.binaryage.com//delete-other-files-off-of-iphone-or-ipod-touch/"/>
+        <link href="https://hints.binaryage.com//delete-other-files-off-of-iphone-or-ipod-touch/"/>
         <updated>2012-02-29T17:20:00+00:00</updated>
         <id>hints.binaryage.com:/delete-other-files-off-of-iphone-or-ipod-touch</id>
         <content type="html"><![CDATA[<p>When you plug your device in iTunes, you may notice a yellow section of data on your device labeled "Other." This can either be a very small number, which is normal, or a very large number, which is not. Having a large number could mean something happened when syncing music, video or apps, and it can cause the system to not recognize the correct app to put the information under. To fix this, follow the steps below:</p>
@@ -3850,7 +3515,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[How to Jailbreak iPhone 4s and iPad 2 running iOS 5.0 and 5.0.1]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-jailbreak-iphone-4s-and-ipad-2-running-ios-5-0-and-5-0-1/"/>
+        <link href="https://hints.binaryage.com//how-to-jailbreak-iphone-4s-and-ipad-2-running-ios-5-0-and-5-0-1/"/>
         <updated>2012-02-28T17:09:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-jailbreak-iphone-4s-and-ipad-2-running-ios-5-0-and-5-0-1</id>
         <content type="html"><![CDATA[<p>The jailbreak has been released! Here are the steps to jailbreak your A5 (iPhone 4s and iPad 2) device!</p>
@@ -3890,7 +3555,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[iPhone or iPod Touch Stuck on Apple Logo]]></title>
         
-        <link href="http://hints.binaryage.com//iphone-or-ipod-touch-stuck-on-apple-logo/"/>
+        <link href="https://hints.binaryage.com//iphone-or-ipod-touch-stuck-on-apple-logo/"/>
         <updated>2012-02-28T07:54:00+00:00</updated>
         <id>hints.binaryage.com:/iphone-or-ipod-touch-stuck-on-apple-logo</id>
         <content type="html"><![CDATA[<p>If your iPhone, iPod Touch, or iPad is stuck on the Apple logo boot screen, follow these steps below to restore your iDevice to its former glory.</p>
@@ -3910,7 +3575,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[How to Fix the iPhone 4s Signal Problem]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-fix-iphone-4s-signal-problem/"/>
+        <link href="https://hints.binaryage.com//how-to-fix-iphone-4s-signal-problem/"/>
         <updated>2012-02-28T07:01:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-fix-iphone-4s-signal-problem</id>
         <content type="html"><![CDATA[<p>Many people are experiencing this iPhone 4s signal problem. This happens on both iOS 5.0 and 5.0.1, but mainly on 5.0.1. Follow these steps below to try and fix the problem.</p>
@@ -3940,7 +3605,7 @@ delete the cached video files of the download, and start the download again from
     <entry>
         <title><![CDATA[iTunes Error 3194]]></title>
         
-        <link href="http://hints.binaryage.com//itunes-error-3194/"/>
+        <link href="https://hints.binaryage.com//itunes-error-3194/"/>
         <updated>2012-02-28T06:01:00+00:00</updated>
         <id>hints.binaryage.com:/itunes-error-3194</id>
         <content type="html"><![CDATA[<p>Sometimes when trying to upgrade your iDevice to the next version of iOS, you may encounter the iTunes error 3194.</p>
@@ -4044,7 +3709,7 @@ On OSX, the hosts file can be found here: <code>/private/etc/hosts</code>.</li>
     <entry>
         <title><![CDATA[iPhone Battery Problems]]></title>
         
-        <link href="http://hints.binaryage.com//iphone-battery-problems/"/>
+        <link href="https://hints.binaryage.com//iphone-battery-problems/"/>
         <updated>2012-02-28T04:30:00+00:00</updated>
         <id>hints.binaryage.com:/iphone-battery-problems</id>
         <content type="html"><![CDATA[<p>Many people are experiencing a substantial drop in battery performance on their iPhone 4 and iPhone 4s. There are many culprits to this issue that may or may not be able to be identified and/or solved. Here are a list of suggestions that I have gathered to try and solve this very annoying problem Apple has created for us.</p>
@@ -4092,7 +3757,7 @@ On OSX, the hosts file can be found here: <code>/private/etc/hosts</code>.</li>
     <entry>
         <title><![CDATA[How to use TinyUmbrella to Update, Downgrade, and Restore your iPhone]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-use-tinyumbrella-to-update-downgrade-and-restore-your-iphone/"/>
+        <link href="https://hints.binaryage.com//how-to-use-tinyumbrella-to-update-downgrade-and-restore-your-iphone/"/>
         <updated>2012-02-28T03:31:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-use-tinyumbrella-to-update-downgrade-and-restore-your-iphone</id>
         <content type="html"><![CDATA[<p>TinyUmbrella is used to restore firmwares that Apple is no longer signing. TinyUmbrella saves your SHSH for previous firmwares, which allows you to downgrade even when Apple is no longer signing that firmware. You can download TinyUmbrella from these locations:
@@ -4127,7 +3792,7 @@ On OSX, the hosts file can be found here: <code>/private/etc/hosts</code>.</li>
     <entry>
         <title><![CDATA[iPhone 4 Frozen Screen]]></title>
         
-        <link href="http://hints.binaryage.com//iphone-4-frozen-screen/"/>
+        <link href="https://hints.binaryage.com//iphone-4-frozen-screen/"/>
         <updated>2012-02-28T02:35:00+00:00</updated>
         <id>hints.binaryage.com:/iphone-4-frozen-screen</id>
         <content type="html"><![CDATA[<p>First and foremost, don’t freak out! This is a common problem, especially on the most recent iOS version. Follow these steps below to fix your problem:</p>
@@ -4149,7 +3814,7 @@ On OSX, the hosts file can be found here: <code>/private/etc/hosts</code>.</li>
     <entry>
         <title><![CDATA[Cannot Activate iMessage]]></title>
         
-        <link href="http://hints.binaryage.com//cannot-activate-imessage/"/>
+        <link href="https://hints.binaryage.com//cannot-activate-imessage/"/>
         <updated>2012-02-28T01:45:00+00:00</updated>
         <id>hints.binaryage.com:/cannot-activate-imessage</id>
         <content type="html"><![CDATA[<p>If you are trying to sign into iMessage using your Apple ID and it says "Could not sign in. Please check your network connection and try again," try these simple tips to fix the problem.</p>
@@ -4181,7 +3846,7 @@ On OSX, the hosts file can be found here: <code>/private/etc/hosts</code>.</li>
     <entry>
         <title><![CDATA[iTunes Error 9808]]></title>
         
-        <link href="http://hints.binaryage.com//itunes-error-9808/"/>
+        <link href="https://hints.binaryage.com//itunes-error-9808/"/>
         <updated>2012-02-28T00:20:00+00:00</updated>
         <id>hints.binaryage.com:/itunes-error-9808</id>
         <content type="html"><![CDATA[<p>Ever received this error while trying to access the good ol' App Store or the iTunes Music Store itself? Well, on Windows here is one solution that just might save you.</p>
@@ -4207,7 +3872,7 @@ On OSX, the hosts file can be found here: <code>/private/etc/hosts</code>.</li>
     <entry>
         <title><![CDATA[How to Restore iPhone, iPad, or iPod Touch after Jailbreaking]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-restore-iphone-ipad-or-ipod-touch-after-jailbreaking/"/>
+        <link href="https://hints.binaryage.com//how-to-restore-iphone-ipad-or-ipod-touch-after-jailbreaking/"/>
         <updated>2012-02-27T22:14:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-restore-iphone-ipad-or-ipod-touch-after-jailbreaking</id>
         <content type="html"><![CDATA[<p>I have already covered all of the necessary topics to complete this tutorial, so I will mainly be linking to those articles.</p>
@@ -4231,7 +3896,7 @@ On OSX, the hosts file can be found here: <code>/private/etc/hosts</code>.</li>
     <entry>
         <title><![CDATA[How to Jailbreak iPhone 4, iPod Touch 4th Generation, iPad, iPhone 3GS Untethered on iOS 5.0.1]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-jailbreak-iphone-4-ipod-touch-4th-generation-ipad-iphone-3gs-untethered/"/>
+        <link href="https://hints.binaryage.com//how-to-jailbreak-iphone-4-ipod-touch-4th-generation-ipad-iphone-3gs-untethered/"/>
         <updated>2012-02-27T21:37:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-jailbreak-iphone-4-ipod-touch-4th-generation-ipad-iphone-3gs-untethered</id>
         <content type="html"><![CDATA[<p>Note: This will not work on the new iPhone 4S or iPad 2; those guides will be coming out later. Also, please update to iOS 5.0.1 for the jailbreak to work, for iOS 5.0 does not work.</p>
@@ -4273,7 +3938,7 @@ On OSX, the hosts file can be found here: <code>/private/etc/hosts</code>.</li>
     <entry>
         <title><![CDATA[How to Update iPhone 4S to iOS 5.1 Beta 3]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-update-iphone-4s-to-ios-5-1-beta-3/"/>
+        <link href="https://hints.binaryage.com//how-to-update-iphone-4s-to-ios-5-1-beta-3/"/>
         <updated>2012-02-27T21:17:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-update-iphone-4s-to-ios-5-1-beta-3</id>
         <content type="html"><![CDATA[<p>This is a guide on how to update your iPhone to iOS 5.1 Beta 3. Note: This works without having a developer account and does not require a UDID either. This solves many users' problems with battery issues. Very simple guide for a very simple process. NOTE: This update blocks the Corona exploit used to jailbreak certain devices so if you are planning on jailbreaking, DO NOT UPDATE. Also, this update brings back the "Turn off 3G" switch that many users wanted.</p>
@@ -4301,7 +3966,7 @@ On OSX, the hosts file can be found here: <code>/private/etc/hosts</code>.</li>
     <entry>
         <title><![CDATA[How to Put Your iPhone in DFU Mode]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-put-your-iphone-in-dfu-mode/"/>
+        <link href="https://hints.binaryage.com//how-to-put-your-iphone-in-dfu-mode/"/>
         <updated>2012-02-27T20:08:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-put-your-iphone-in-dfu-mode</id>
         <content type="html"><![CDATA[<p>Simple guide to put your iPhone in DFU Mode. This mode is necessary to restore your iDevice when it is having major software issues.</p>
@@ -4325,7 +3990,7 @@ On OSX, the hosts file can be found here: <code>/private/etc/hosts</code>.</li>
     <entry>
         <title><![CDATA[Spotlight Doesn't Work on iOS 5]]></title>
         
-        <link href="http://hints.binaryage.com//spotlight-doesnt-work-on-ios-5/"/>
+        <link href="https://hints.binaryage.com//spotlight-doesnt-work-on-ios-5/"/>
         <updated>2012-02-27T19:11:00+00:00</updated>
         <id>hints.binaryage.com:/spotlight-doesnt-work-on-ios-5</id>
         <content type="html"><![CDATA[<p>If your iPhone's spotlight feature fails to show any results or only shows a limited view of results, follow the steps below to fix this issue with spotlight.</p>
@@ -4351,7 +4016,7 @@ On OSX, the hosts file can be found here: <code>/private/etc/hosts</code>.</li>
     <entry>
         <title><![CDATA[2D Dock in Mac OS X]]></title>
         
-        <link href="http://hints.binaryage.com//2d-dock-in-mac-os-x/"/>
+        <link href="https://hints.binaryage.com//2d-dock-in-mac-os-x/"/>
         <updated>2012-02-27T17:07:00+00:00</updated>
         <id>hints.binaryage.com:/2d-dock-in-mac-os-x</id>
         <content type="html"><![CDATA[<p>Most people are accustomed to the traditional Mac OS dock which does in fact have a 3D look to it. However, there is an unknown secret: the operating system actually comes with a hidden 2D dock which, in my opinion, is cleaner looking and more minimalist. This hack works for Mac OS X 10.5 through the current 10.7. <br></br>
@@ -4386,7 +4051,7 @@ On OSX, the hosts file can be found here: <code>/private/etc/hosts</code>.</li>
     <entry>
         <title><![CDATA[How to Restore your iPhone, iPod Touch, or iPad]]></title>
         
-        <link href="http://hints.binaryage.com//how-to-restore-your-iphone-ipod-touch-or-ipad/"/>
+        <link href="https://hints.binaryage.com//how-to-restore-your-iphone-ipod-touch-or-ipad/"/>
         <updated>2012-02-27T16:09:00+00:00</updated>
         <id>hints.binaryage.com:/how-to-restore-your-iphone-ipod-touch-or-ipad</id>
         <content type="html"><![CDATA[<p>If your iPhone or other iDevice has frozen, is in need of a major software update, or is running very slowly, then you may need to restore it back to factory settings. There are generally two options: one, you can restore as a new device, which is what I recommend; two, you can restore from a backup, which solves some problems, but not all. Follow the steps below for both solutions.</p>
@@ -4416,7 +4081,7 @@ On OSX, the hosts file can be found here: <code>/private/etc/hosts</code>.</li>
     <entry>
         <title><![CDATA[Apps Installed on the iPhone could not be Determined]]></title>
         
-        <link href="http://hints.binaryage.com//apps-installed-on-the-iphone-could-not-be-determined/"/>
+        <link href="https://hints.binaryage.com//apps-installed-on-the-iphone-could-not-be-determined/"/>
         <updated>2012-02-27T09:01:00+00:00</updated>
         <id>hints.binaryage.com:/apps-installed-on-the-iphone-could-not-be-determined</id>
         <content type="html"><![CDATA[<p>If you are currently trying to sync your iPhone or other iDevice and you are receiving this message from iTunes: "Apps installed on the iPhone could not be determined," then follow these steps below to sort this mess out.</p>
