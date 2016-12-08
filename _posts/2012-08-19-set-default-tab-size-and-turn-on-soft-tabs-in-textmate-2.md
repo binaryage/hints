@@ -8,7 +8,7 @@ google_plus: 101180624276428786239
 date: 2012-08-19 09:10:00 -8
 ---
 
-<img class="clear blog-image-border" src="/images/TextMate.png" title="TextMate">
+<img class="clear blog-image normal-border" src="/images/TextMate.png" title="TextMate">
 
 Tired of annoying hard tabs instead of soft tabs in TextMate 2? Here is a simple tutorial on how to fix that and we will also teach you how to set the default tab size.
 

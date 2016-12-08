@@ -9,7 +9,7 @@ date: 2012-07-25 09:40:00 -8
 
 ---
 
-<img class="clear blog-image-full-border" src="/images/os-x-mountain-lion.jpeg" title="Mountain Lion">
+<img class="clear blog-image full-border" src="/images/os-x-mountain-lion.jpeg" title="Mountain Lion">
 
 Early this morning, Apple released the newest version of OS X, Mountain Lion. This update rings in at $19.99 and is available now from the Mac App Store for an easy-to-install download. Mountain Lion features over 200+ updates including new apps such as Notes, Reminders, and a new feature called Notifications. Here are some other articles we have written about Mountain Lion:
 

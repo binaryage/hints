@@ -10,7 +10,7 @@ date: 2012-03-02 17:46:00 -8
 
 If your hard drive has failed or become broken recently and you have not backed up your music collection, you have probably lost all of it. Luckily, there is a free way to recover your music off of your iPod Touch, iPad or iPhone. Follow these steps below:
 
-<img class="clear blog-image-full-border" src="/images/iexplorer.png" title="iExplorer">
+<img class="clear blog-image full-border" src="/images/iexplorer.png" title="iExplorer">
 
 Step 1) Download iExplorer from <a href="http://www.macroplant.com/iexplorer/">here</a> and install the correct version (Mac/PC).
 

@@ -10,7 +10,7 @@ date: 2012-03-12 12:56:00 -8
 
 Earlier this week, Apple pushed out the iOS 5.1 update to users which included confusion over the 3G vs 4G icon and supposedly fixed most battery problems that users were experiencing on the iPhone 4S. This update is pushed out over the air which you can access by going to Settings > General > Software Update.
 
-<img class="clear blog-image-border" src="/images/ios5.1.jpg" title="iOS 5.1">
+<img class="clear blog-image normal-border" src="/images/ios5.1.jpg" title="iOS 5.1">
 
 One of Apple's biggest features included in the update was Japanese language support for Siri. Other major featrues include being able to delete photos from Photo Stream, improved face detection, multiple iTunes Match improvements, the new Camera Button on the lockscreen, location services that are improved, a new camera app for the iPad, as well as podcast control on the iPad. Lastly, although not openly claimed by Apple, the iPhone battery issues that were plaguing both the iPhone 4 and the 4S have seemed to have improved. If your battery life seems worse, a full restore is recommended.
 
@@ -18,19 +18,19 @@ Here is a breakdown of the features, one-by-one:
 
 ### Japanese Language Siri Support
 
-<img class="clear blog-image-border" src="/images/japanese_siri.jpg" title="Siri">
+<img class="clear blog-image normal-border" src="/images/japanese_siri.jpg" title="Siri">
 
 Siri is now available for Japanese users. This feature was, in fact, the only major feature announced with the update, and is a significant addition with future languages soon to be implemented.
 
 ### Delete Photos from Photo Stream
 
-<img class="clear blog-image-border" src="/images/photostream_delete.jpg" title="Delete Photos from Photostream">
+<img class="clear blog-image normal-border" src="/images/photostream_delete.jpg" title="Delete Photos from Photostream">
 
 This update allows you to delete photos from your iCloud Photo Stream directly from any device running iOS 5.1. This is useful because there may be some pictures that you only want on one device and some that you want to sync over all of your devices. This feature has also been included in iPhoto for Mac, iCloud, and the Apple TV.
 
 ### Improved Face Detection
 
-<img class="clear blog-image-border" src="/images/face_detection.jpg" title="Face Detection">
+<img class="clear blog-image normal-border" src="/images/face_detection.jpg" title="Face Detection">
 
 With the iOS 5.1 update comes a feature that is often suggested, face detection. As with any other camera, a green box now shows up around things the camera app thinks are faces.
 
@@ -40,13 +40,13 @@ There have been various improvements to the iOS 5.1 version of iTunes Match on v
 
 ### New Camera Button
 
-<img class="clear blog-image-border" src="/images/camera_lockscreen.jpg" title="Camera Button on Lockscreen">
+<img class="clear blog-image normal-border" src="/images/camera_lockscreen.jpg" title="Camera Button on Lockscreen">
 
 With the iOS 5.1 update, the camera button is now directly located on the lockscreen. Now you can simply flick up to access the camera without a password instead of double tapping the home button and touching the camera button. This feature is nice for quick shots of an action event that you would normally have missed by unlcoking your iPhone and then finding the camera app. Props to Apple for such a nice interface.
 
 ### Location Services Improved
 
-<img class="clear blog-image-border" src="/images/location_services.jpg" title="Location Services">
+<img class="clear blog-image normal-border" src="/images/location_services.jpg" title="Location Services">
 
 Now, there are three different indicators that can show up in your status bar for location services. A description of each of these icons can now be found under Settings > Location Services. This will help users know exactly what apps are using their location actively and will also notify you if any apps are using it in the background.
 

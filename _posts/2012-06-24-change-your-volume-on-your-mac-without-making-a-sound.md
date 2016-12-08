@@ -10,7 +10,7 @@ date: 2012-06-24 12:48:00 -8
 
 You may find yourself in a quiet place such as a library, or an airplane and you want to change the volume on your Mac. Usually, you would just press the F11 or F12 keys to change your volume, but then you hear that annoying popping sound for each level.
 
-<img class="clear blog-image-border" src="/images/volume.png" title="Volume">
+<img class="clear blog-image normal-border" src="/images/volume.png" title="Volume">
 
 Here is a simple keystroke that would allow you to change the volume without making a sound. Simply hold down the Shift key when you are adjusting your volume with the F11 and F12 keys and you can change the volume all you want without making a sound.
 

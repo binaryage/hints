@@ -20,7 +20,7 @@ Step 3) Plug in your device and back it up using iTunes.
 
 Step 4) Open Absinthe with your device plugged in. You should see this screen; when you do, press Jailbreak.
 
-<img class="clear blog-image-full-border" src="/images/windowsabsinthe.jpg" title="Windows Absinthe Jailbreak">
+<img class="clear blog-image full-border" src="/images/windowsabsinthe.jpg" title="Windows Absinthe Jailbreak">
 
 Step 5) Unplug your device and open the Absinthe app on your home screen. A black screen will appear and restart your phone. If your device pops up with a white screen and says “Error establishing a database connection” follow step 5a.
 

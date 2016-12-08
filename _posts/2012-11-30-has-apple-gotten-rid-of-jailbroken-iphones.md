@@ -10,4 +10,4 @@ date: 2012-12-01 04:08:00 -8
 published: False
 ---
 
-<img class="clear blog-image-full-border" src="{{site.url}}/images/omnibar_safari.png" title="Omnibar">
+<img class="clear blog-image full-border" src="{{site.url}}/images/omnibar_safari.png" title="Omnibar">

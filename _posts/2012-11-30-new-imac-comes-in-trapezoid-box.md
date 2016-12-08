@@ -8,7 +8,7 @@ google_plus: 101180624276428786239
 date: 2012-11-30 10:50:00 -8
 ---
 
-<img class="clear blog-image-full-border" src="/images/new-imacs.jpg" title="New 2012 iMacs">
+<img class="clear blog-image full-border" src="/images/new-imacs.jpg" title="New 2012 iMacs">
 (Image courtesy of arstechnica.com)
 
 The new iMacs have finally started shipping meaning they should also be in the Apple Stores now for you to visit. One thing to note about the new iMacs is that the box has changed from the perennial rectangular suitcase-like box. The box is now horizontal. Anyways, enough about the box, here is a rundown of the new iMac.

@@ -8,7 +8,7 @@ google_plus: 101180624276428786239
 date: 2012-08-13 00:06:00 -8
 ---
 
-<img class="clear blog-image-full-border" src="/images/download_youtube2.png" title="YouTube">
+<img class="clear blog-image full-border" src="/images/download_youtube2.png" title="YouTube">
 
 Here is a quick guide on how to download YouTube videos on Mountain Lion using Safari 6! Many of you have been requesting this article, so here it is! Sorry for the delay!
 

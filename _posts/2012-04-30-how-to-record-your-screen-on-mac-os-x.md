@@ -14,7 +14,7 @@ Step 1) Open QuickTime Player on your Mac (Applications > QuickTime Player).
 
 Step 2) Click on File > New Screen Recording (or alternatively press CMD-Control-N).
 
-<img class="clear blog-image-full-border" src="/images/screen_record.png" title="Screen Recording">
+<img class="clear blog-image full-border" src="/images/screen_record.png" title="Screen Recording">
 
 Step 3) Press the gray button (with the red in the middle) to begin recording your screen. You can select many options by pressing the gray triangle on the right side of the screen.
 

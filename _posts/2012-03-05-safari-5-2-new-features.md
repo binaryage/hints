@@ -12,13 +12,13 @@ Here is a quick rundown of the new features in the upcoming release of Safari 5.
 
 <h3>Safari now includes an omnibar</h3>
 
-<img class="clear blog-image-full-border" src="/images/omnibar_safari.png" title="Omnibar">
+<img class="clear blog-image full-border" src="/images/omnibar_safari.png" title="Omnibar">
 
 Safari now has an omnibar, a similar feature that Chrome has had for a while, that combines the search and the address bar together. In addition, autocomplete on the omnibar includes bookmarks, recent history, and in addition, it syncs with Safari on iOS.
 
 <h3>Safari now has tabs that fill up the whole tab bar</h3>
 
-<img class="clear blog-image-full-border" src="/images/one_tab_safari.png" title="One Tab">
+<img class="clear blog-image full-border" src="/images/one_tab_safari.png" title="One Tab">
 
 A new feature that for some is undesirable is the behavior that results in the tab bar when you have only one or even two tabs open. With only one tab open and the tab bar showing, the one tab fills up the entire space and ends up becoming a second title bar. This is a waste of space. Even for two tabs, it still looks off because now the tabs are half the size of the screen, still too large. Hopefully, Apple will fix this "issue" before the actual release comes out. We will see.
 

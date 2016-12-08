@@ -12,6 +12,6 @@ If you find yourself switching between multiple Spaces on Mac OS X's Mission Con
 
 Here is a screenshot, to get to this menu, go to System Preferences > Keyboard > Keyboard Shortcuts > on the left hand sidebar, select Mission Control. To change the shortcuts, simply double click on them and they will become highlighted. Then tap on the keys you would like to switch them to.
 
-<img class="clear blog-image-full-border" src="/images/spaces.png" title="Keyboard Shortcut for Spaces">
+<img class="clear blog-image full-border" src="/images/spaces.png" title="Keyboard Shortcut for Spaces">
 
 If you have any questions or difficulties, please post in the comments below!

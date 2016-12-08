@@ -22,17 +22,17 @@ Step 1) Download redsn0w from the links below:
 
 Step 2) Open redsn0w and you should see this screen below. Make sure you are running the beta version, as it has been updated since its initial release.
 
-<img class="clear blog-image-full-border" src="/images/redsn0w_1.png" title="redsn0w Walkthrough">
+<img class="clear blog-image full-border" src="/images/redsn0w_1.png" title="redsn0w Walkthrough">
 
 Step 3) Select "Jailbreak" and it will guide you into turning your iPhone off before putting it into DFU mode.
 
-<img class="clear blog-image-full-border" src="/images/redsn0w_2.png" title="redsn0w Walkthrough step 2">
+<img class="clear blog-image full-border" src="/images/redsn0w_2.png" title="redsn0w Walkthrough step 2">
 
 Step 4) Plug your iDevice into your computer and turn it off by holding down the sleep/wake button and sliding the top to OFF. Then click "Next" on redsn0w.
 
 Step 5) Follow the instructions on the next screen for putting your iDevice into DFU mode. Screenshot below.
 
-<img class="clear blog-image-full-border" src="/images/redsn0w_3.png" title="redsn0w Walkthrough step 3">
+<img class="clear blog-image full-border" src="/images/redsn0w_3.png" title="redsn0w Walkthrough step 3">
 
 Step 6) redsn0w will chug away now, jailbreaking your device in the process. After it is complete, you will have an UNTETHERED jailbreak for your device.
 

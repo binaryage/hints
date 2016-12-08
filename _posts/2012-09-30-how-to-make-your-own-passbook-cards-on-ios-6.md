@@ -8,7 +8,7 @@ google_plus: 101180624276428786239
 date: 2012-09-30 03:20:00 -8
 ---
 
-<img class="clear blog-image-full-border" src="/images/passsource.png" title="Pass Source">
+<img class="clear blog-image full-border" src="/images/passsource.png" title="Pass Source">
 
 If you have used the new feature called Passbook on iOS 6, you may have noticed that there are not many cards that can have in Passbook. This makes the app really limited and you cannot use it to its full potential. That's where <a href="http://passsource.com">Passsource.com</a> comes and saves the day! Pass Source allows you to create cards that integrate perfectly with iOS6's Passbook. Now you can use it to store things like your Starbucks Cards, American Express, coupons, and more! Check it out!
 

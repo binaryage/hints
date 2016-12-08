@@ -13,11 +13,11 @@ Been itching to try out the newest Apple software, iMessage? Well here is your c
 To download the free beta, simply go <a href="http://appldnld.apple.com/MessagesBeta/041-4274.20120216.z5km/MessagesBeta.dmg">here.</a> Installation is pretty standard so no problems there.
 
 Here is the startup screen when you first open the app:
-<img class="clear blog-image-full-border" src="/images/welcome_messages.png" title="iMessage Beta">
+<img class="clear blog-image full-border" src="/images/welcome_messages.png" title="iMessage Beta">
 
 After you enter in your credentials for iMessage and any other chat clients, you may now begin to use the application!
 
-<img class="clear blog-image-full-border" src="/images/imessage_beta.png" title="iMessage Beta">
+<img class="clear blog-image full-border" src="/images/imessage_beta.png" title="iMessage Beta">
 
 This is a screenshot of the main window. This is where the messages show up (one unified window) with the newest conversation on top. Messages received on an iDevice including the iPad, iPhone or iPod Touch while you are away will be updated when you return on your Mac so you can always stay up-to-date with the latest in your conversations. This provides a convenient way to respond to messages normally sent to your phone.
 

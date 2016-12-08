@@ -10,7 +10,7 @@ date: 2012-07-11 01:16:00 -8
 
 I hope you are excited for the upcoming release for Mountain Lion! Apple just released the GM version to developers just two days ago. That means we can anticipate the official version coming out within the month! This is all very exciting! I've decided to compile a list of things that I usually do before the release of a major update for my operating system. Here it goes.
 
-<img class="clear blog-image-full-border" src="/images/os-x-mountain-lion.jpeg" title="Mountain Lion">
+<img class="clear blog-image full-border" src="/images/os-x-mountain-lion.jpeg" title="Mountain Lion">
 
 First, some things we have to consider. We can take one of two routes, either we can install the Mountain Lion update over out existing Lion install which is quick and easy and the Mac App Store makes this fairly easy. Option two involves completely wiping out hard drives, reformatting, and then installing the operating system from scratch. Why do this, you ask? The second option de-clutters your computer entirely so you are sure that it is as fast as it can possibly be within the limitations of your hardware. However, the downside is that it takes longer, requires more technical know-how, and can be frustrating depending on what you want to do. We'll start with the easier, but less rewarding method first.
 
