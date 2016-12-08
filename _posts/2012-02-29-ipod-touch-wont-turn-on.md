@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "iPod Touch Won't Turn on!"
 tags: [ipodtouch, hardware]
 author_name: Mark Miyashita

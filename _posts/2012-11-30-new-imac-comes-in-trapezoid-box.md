@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "New iMac Comes in Trapezoid Box"
 tags: [imac, box, 2012, new imac]
 author_name: Mark Miyashita

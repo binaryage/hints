@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Finer Control Over Brightness and Volume on Mac OS X"
 tags: [control, brightness, volume, mac os x, lion]
 author_name: Mark Miyashita

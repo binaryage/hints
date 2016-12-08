@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Cannot Connect to iTunes Store on iPhone"
 tags: [itunes, appstore, app store, iphone, bug, error]
 author_name: Mark Miyashita

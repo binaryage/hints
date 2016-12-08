@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "2D Dock in Mac OS X"
 tags: [mac, macosx, lion, dock, finder]
 author_name: Mark Miyashita

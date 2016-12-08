@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "How to Backup your iPhone to iCloud"
 tags: [icloud, iphone]
 author_name: Mark Miyashita

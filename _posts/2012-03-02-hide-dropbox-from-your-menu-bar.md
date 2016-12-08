@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Hide Dropbox from your Menu Bar"
 tags: [dropbox, icon, menu, mac]
 author_name: Mark Miyashita

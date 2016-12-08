@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Add Contact Information to your Lock Screen of your Mac"
 tags: [robbery, stolen, mac, lock screen, phone number]
 author_name: Mark Miyashita

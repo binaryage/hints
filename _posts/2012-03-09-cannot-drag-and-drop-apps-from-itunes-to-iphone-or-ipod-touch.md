@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Cannot Drag and Drop Apps from iTunes to iPhone or iPod Touch"
 tags: [apps, iphone, ipod touch, ipodtouch, ipad]
 author_name: Mark Miyashita

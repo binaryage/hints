@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Always Keep Track of your IP Address on a Remote Computer using Dropbox"
 tags: [ipaddress, remote, mac, terminal, dropbox]
 author_name: Mark Miyashita

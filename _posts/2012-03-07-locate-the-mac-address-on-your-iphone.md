@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Locate the MAC Address on your iPhone"
 tags: [MAC, address, iphone]
 author_name: Mark Miyashita

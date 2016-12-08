@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Write a Guest Post for Mac Hints from BinaryAge"
 tags: [guest, post, blog, writer, technical, binaryage, contest]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "How to Put Your iPhone in DFU Mode"
 tags: [iphone, ipodtouch, ipad, restore, dfu]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "How to Fix the iPhone 4s Signal Problem"
 tags: [iphone, iphone4s, signal]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Stop GIFs From Animating in Your Web Browser"
 tags: [gifs, images, animation]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Safari Crashes Often on iOS 5"
 tags: [safari, ios, ios5, iphone, ipad, ipod touch]
 author_name: Mark Miyashita

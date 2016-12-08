@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Mountain Tweaks Coming Out Soon"
 tags: [mountain lion, tweaks, download, update]
 author_name: Mark Miyashita

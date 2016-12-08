@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Reduce CPU Usage by Removing Files From Your Desktop"
 tags: [desktop, mac, cpu]
 author_name: Mark Miyashita

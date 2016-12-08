@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Playlist not Showing up on iPhone using iTunes Match"
 tags: [playlist, iphone, itunes, itunes match, icloud]
 author_name: Mark Miyashita

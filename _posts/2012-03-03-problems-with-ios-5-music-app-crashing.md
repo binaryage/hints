@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Problems with iOS 5 Music App Crashing"
 tags: [iOS5, ios, music, ipod, app]
 author_name: Mark Miyashita

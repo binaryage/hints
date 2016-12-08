@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Spotlight Doesn't Work on iOS 5"
 tags: [iOS, spotlight]
 author_name: Mark Miyashita

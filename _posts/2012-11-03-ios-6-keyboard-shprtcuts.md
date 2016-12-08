@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "iOS 6 Keyboard Shortcuts"
 tags: [keyboard, ios, ios6]
 author_name: Mark Miyashita

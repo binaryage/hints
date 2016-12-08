@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Missing Google Maps on iOS 6? Check out these alternatives in the App Store"
 tags: [app store, ios 6, google maps, featured, apple]
 author_name: Mark Miyashita

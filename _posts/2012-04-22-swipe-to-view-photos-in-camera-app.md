@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Swipe to View Photos in Camera App on iOS"
 tags: [photos, ios, camera, swipe, ios 5.1, 5.1]
 author_name: Mark Miyashita

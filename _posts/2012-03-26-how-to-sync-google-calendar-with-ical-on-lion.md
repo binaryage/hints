@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "How to Sync Google Calendar with iCal on Lion"
 tags: [google calendar, lion, calendar, google, ical, sync, how to, guide]
 author_name: Mark Miyashita

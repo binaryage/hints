@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Download iMessage Beta for Mac OS X Lion"
 tags: [imessage, beta, mac os x, lion, macosx, download, free, beta]
 author_name: Mark Miyashita

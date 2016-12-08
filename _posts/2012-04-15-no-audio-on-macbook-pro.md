@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "No Audio on Macbook Pro"
 tags: [audio, troubleshooting, macbook, macbook pro, mbp, digital audio]
 author_name: Mark Miyashita

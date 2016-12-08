@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Get Your Mac Ready to Install Mountain Lion"
 tags: [mac, download, mountain lion, clean, ssd, hard drive, ram, hardware, software, install, update]
 author_name: Mark Miyashita

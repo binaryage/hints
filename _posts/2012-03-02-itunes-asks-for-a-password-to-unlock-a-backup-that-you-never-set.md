@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "iTunes Asks for a Password to Unlock a Backup that You Never Set"
 tags: [itunes, password, backup, bug]
 author_name: Mark Miyashita

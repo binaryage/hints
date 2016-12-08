@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Hide Dock Indicator Lights"
 tags: [mac os x, lion, indicator lights, indicator, lion, dock, hide]
 author_name: Mark Miyashita

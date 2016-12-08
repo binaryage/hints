@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "iOS 6 Battery Issues"
 tags: [battery, iphone]
 author_name: Mark Miyashita

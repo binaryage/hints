@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "How to Update iPhone 4S to iOS 5.1 Beta 3"
 tags: [iphone, iphone4s, iOS5, beta]
 author_name: Mark Miyashita

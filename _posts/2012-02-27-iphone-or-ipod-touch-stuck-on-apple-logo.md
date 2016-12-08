@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "iPhone or iPod Touch Stuck on Apple Logo"
 tags: [iphone, ipodtouch, apple, error]
 author_name: Mark Miyashita

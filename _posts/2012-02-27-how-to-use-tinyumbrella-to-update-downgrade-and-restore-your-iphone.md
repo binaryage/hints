@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "How to use TinyUmbrella to Update, Downgrade, and Restore your iPhone"
 tags: [iphone, restore, jaibreak]
 author_name: Mark Miyashita

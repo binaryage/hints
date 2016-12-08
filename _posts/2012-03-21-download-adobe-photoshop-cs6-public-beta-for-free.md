@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Download Adobe Photoshop CS6 Public Beta for Free"
 tags: [adobe, photoshop, cs6, beta, free, software, graphic design, graphics, photography]
 author_name: Mark Miyashita

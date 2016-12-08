@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Enable the Safari Debug Menu"
 tags: [safari, debug, menu, app, terminal]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Add Your Phone Number to OS X Messages"
 tags: [osx, messages, phone number, imessage]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Change Dashboard Background in Lion"
 tags: [dashboard, lion, background]
 author_name: Mark Miyashita

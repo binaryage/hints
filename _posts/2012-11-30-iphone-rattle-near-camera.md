@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "iPhone Rattle Near Camera"
 tags: [iphone, rattle, camera]
 author_name: Mark Miyashita

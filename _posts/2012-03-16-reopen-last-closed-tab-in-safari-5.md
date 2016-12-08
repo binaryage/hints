@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Reopen Last Closed Tab in Safari 5"
 tags: [safari, tab, internet, browser, mac, lion]
 author_name: Mark Miyashita

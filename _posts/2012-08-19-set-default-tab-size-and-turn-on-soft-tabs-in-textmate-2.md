@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Set Default Tab Size and Turn on Soft Tabs on TextMate 2"
 tags: [tab size, textmate, textmate 2, default]
 author_name: Mark Miyashita

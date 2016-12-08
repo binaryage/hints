@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "How to Force Quit an Application"
 tags: [mac, quit, cmd-q, force quit, application]
 author_name: Mark Miyashita

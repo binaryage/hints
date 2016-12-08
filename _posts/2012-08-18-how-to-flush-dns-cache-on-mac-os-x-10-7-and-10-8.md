@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "How To Flush DNS Cache on Mac OS X 10.7 and 10.8"
 tags: [flush, dns, 10.7, 10.8, mac os x, mac, os x]
 author_name: Mark Miyashita

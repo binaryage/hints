@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Change the File Location of Screenshots on Mac OS X"
 tags: [images, screenshots, mac os x, macosx, file, finder, defaults, terminal]
 author_name: Mark Miyashita

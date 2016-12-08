@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "How to Install Python 3.2.3 on Mac OS X"
 tags: [python, programming, mac os x, software, development]
 author_name: Mark Miyashita

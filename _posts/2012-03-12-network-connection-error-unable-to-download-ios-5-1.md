@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Network Connection Error, Unable to Download iOS 5.1"
 tags: [ios, ios5.1, ipad, iphone, network connection error, error]
 author_name: Mark Miyashita

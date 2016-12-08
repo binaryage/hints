@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "iTunes Error 50"
 tags: [itunes, error, 50]
 author_name: Mark Miyashita

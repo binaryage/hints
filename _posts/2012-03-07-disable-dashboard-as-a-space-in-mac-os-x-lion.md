@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Disable Dashboard as a Space in Mac OS X Lion"
 tags: [disable, dashboard, space, spaces, mac, mac os x, lion, 10.7]
 author_name: Mark Miyashita

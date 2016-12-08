@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "iPhone Doesn't Fully Charge"
 tags: [iphone, hardware]
 author_name: Mark Miyashita

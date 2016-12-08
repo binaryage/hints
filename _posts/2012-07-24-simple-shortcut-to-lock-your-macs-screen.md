@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Simple Shortcut to Lock Your Mac's Screen"
 tags: [lock, mac, shortcut, keyboard]
 author_name: Mark Miyashita

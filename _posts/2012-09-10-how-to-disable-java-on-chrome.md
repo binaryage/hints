@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "How To Disable Java on Chrome"
 tags: [disable, java, chrome, zero day]
 author_name: Mark Miyashita

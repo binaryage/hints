@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Notice: Facebook Mountain Lion Integration Coming Out Later"
 tags: [facebook, mountain lion, integration]
 author_name: Mark Miyashita

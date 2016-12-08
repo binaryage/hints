@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Quickly Switch Between Spaces with a Faster Keyboard Shortcut in Lion"
 tags: [keyboard, shortcut, lion, spaces]
 author_name: Mark Miyashita

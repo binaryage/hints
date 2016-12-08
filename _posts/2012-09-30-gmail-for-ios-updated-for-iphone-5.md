@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Gmail for iOS Updated for iPhone 5"
 tags: [iphone 5, iphone, gmail, updated]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "How To Clear Out Launchpad and Add the Apps How You Want"
 tags: [launchpad, ios, mac, mac os x]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "iPhone 5 Jailbroken"
 tags: [iphone 5, ios 6]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "App Store Officially Hits 25 Billion Downloads"
 tags: [app store, iOS, apple, sales]
 author_name: Mark Miyashita

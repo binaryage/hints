@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "iOS 5.1.1 Software Update"
 tags: [ios, 5.1.1, software, ios 5, update]
 author_name: Mark Miyashita

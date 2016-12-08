@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: ""
 tags: []
 author_name: Mark Miyashita

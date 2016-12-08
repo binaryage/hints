@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Air Display by Avatron Review"
 tags: [air display, avatron, mac app store, review]
 author_name: Mark Miyashita

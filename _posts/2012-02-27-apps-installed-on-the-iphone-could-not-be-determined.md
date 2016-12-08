@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Apps Installed on the iPhone could not be Determined"
 tags: [apps, iphone]
 author_name: Mark Miyashita

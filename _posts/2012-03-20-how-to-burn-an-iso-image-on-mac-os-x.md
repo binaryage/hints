@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "How to Burn an ISO Image on Mac OS X"
 tags: [burn, iso, image, cd, dvd, mac, mac os x]
 author_name: Mark Miyashita

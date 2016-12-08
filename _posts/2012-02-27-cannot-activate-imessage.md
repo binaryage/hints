@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Cannot Activate iMessage"
 tags: [imessage, iOS5]
 author_name: Mark Miyashita

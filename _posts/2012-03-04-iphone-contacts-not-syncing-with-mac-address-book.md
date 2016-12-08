@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "iPhone Contacts not syncing with Mac Address Book"
 tags: [iphone, contacts, mac, addressbook, icloud]
 author_name: Mark Miyashita

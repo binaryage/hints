@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "How To Enable Power Nap on MacBook Air 2010"
 tags: [macbook air, macbook, mac, apple, power nap, mountain lion]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Airplay your Mac Desktop to your TV Wirelessly"
 tags: [airplay, iOS, mac, tv, apple tv]
 author_name: Mark Miyashita

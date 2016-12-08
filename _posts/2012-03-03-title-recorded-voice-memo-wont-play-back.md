@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Recorded Voice Memo Won't Play Back"
 tags: [iphone, iOS, voice memo, bug]
 author_name: Mark Miyashita

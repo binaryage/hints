@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "How to Remove .DS_Store File from a Git Repo on Mac OS X"
 tags: [git, github, svn, mac, .DS_Store, bitbucket, repos, os x, osx, unix]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Do Not Disturb Mode is Apple's Alarm Only Mode"
 tags: [alarm, do not disturb, apple]
 author_name: Mark Miyashita

@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Mountain Lion Gold Master is Available for Download"
 tags: [mountain lion, apple, mac, download, gm, seed, developer]
 author_name: Mark Miyashita

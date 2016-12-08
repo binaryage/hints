@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "Recover lost Recovery HD for FileVault - the easy way"
 tags: [recovery hd, filevault, diskutil, lion, mountain lion, bootcamp]
 author_name: Antonin Hildebrand

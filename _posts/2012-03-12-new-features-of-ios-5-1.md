@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "New Features of iOS 5.1"
 tags: [ios, 5.1, iphone, ipodtouch, ipad]
 author_name: Mark Miyashita

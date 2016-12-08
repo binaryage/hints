@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "How to Transfer Photos from iPad to your Mac or PC"
 tags: [photos, ipad, iphone, pc, mac, photo stream, icloud, photostream]
 author_name: Mark Miyashita

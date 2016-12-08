@@ -1,5 +1,5 @@
 ---
-layout: hints-post
+layout: post
 title: "iPhone 4 Frozen Screen"
 tags: [iphone, frozen]
 author_name: Mark Miyashita
