@@ -5,17 +5,17 @@
     <link rel="canonical" href="https://hints.binaryage.com/istat-pro-for-mountain-lion/"/>
     <link rel="shortcut icon" href="https://static.binaryage.com/5604bda0_favicon.ico" type="image/x-icon"/>
     <link rel="icon" href="https://static.binaryage.com/5604bda0_favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" href="https://static.binaryage.com/493de12c_shared_css_site.css" type="text/css"/>
     <script src="//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
     <script>WebFont.load({google:{families:["Play:400,700:latin"]}})</script>
-    <link rel="stylesheet" href="https://static.binaryage.com/26f8d85b_shared_css_site.css" type="text/css"/>
     <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="google-site-verification" content="N_xzdr6ymSUQFhAEvQg7f-sp1JAeJCdW2JuaRg-da0w"/>
     <meta property="fb:admins" content="antonin.hildebrand"/>
     <link href="https://feeds.feedburner.com/binaryage-blog" type="application/atom+xml" rel="alternate" title="Ideas from BinaryAge"/>
-    <script>function defer$(e){if(window.jQuery){e()}else{setTimeout(function(){defer$(e)},50)}}</script>
+    <script>function defer$(e){window.jQuery?e():setTimeout(function(){defer$(e)},50)}</script>
   </head>
-  <body id="page-hints-istat-pro-for-mountain-lion">
+  <body id="page-hints-istat-pro-for-mountain-lion" class="site-hints">
     <div id="header">
       <div class="container">
         <div class="row">
@@ -50,7 +50,6 @@
             </div>
             <div class="relativize">
               <ul class="header-menu menu-selected-blog">
-                <li class="menu-item-store"><a href="https://sites.fastspring.com/binaryage/product/store"><i class="fa fa-shopping-cart"></i><span>store</span></a></li>
                 <li class="menu-item-products"><a href="//www.binaryage.com"><i class="fa fa-star"></i><span>products</span></a></li>
                 <li class="menu-item-blog"><a href="//blog.binaryage.com"><i class="fa fa-bullhorn"></i><span>blog</span></a></li>
                 <li class="menu-item-support"><a href="//discuss.binaryage.com"><i class="fa fa-comments"></i><span>support</span></a></li>
@@ -89,16 +88,16 @@
                         <p><img class="clear blog-image full-border" src="https://static.binaryage.com/117e7add_images_istat1.png" title="iStat Pro"/></p>
                         <p>iStat Pro, the popular widget to monitor your computer by iSlayer has been deprecated by the company. They stated in a tweet that they will not be continuing development and support for Mountain Lion. Lucky for us, there is a simple fix that you can execute yourself on Mountain Lion to make the great extension work again! All you have to do is add a space to two different lines in some code. Ready to dive in?</p>
                         <p>Step 1) Right off the bat, we can download the widget from <a href="http://islayer.com/apps/istatpro/download/">here.</a></p>
-                        <p>Step 2) Extract the widget and then double click on it to install. It will show up on your dashboard and you can view it as normal. However, take a close look at the process tab. You may need to enable it by clicking on the "i" and then going to the "Sections" tab and turning on "Processes." You will notice that the processes tab is broken. Want to fix it? Keep reading on!</p>
+                        <p>Step 2) Extract the widget and then double click on it to install. It will show up on your dashboard and you can view it as normal. However, take a close look at the process tab. You may need to enable it by clicking on the “i” and then going to the “Sections” tab and turning on “Processes.” You will notice that the processes tab is broken. Want to fix it? Keep reading on!</p>
                         <p><img class="clear blog-image full-border" src="https://static.binaryage.com/04f4d9e5_images_istat2.png" title="iStat Pro"/></p>
-                        <p>Step 3) In order to fix this small bug, we're going to have to open up some code. Grab your favorite text editor (I personally use TextMate) and navigate to the <code>~/Library/Widgets</code> folder where you will find the iStat widget.</p>
-                        <p>Step 4) Right click on the widget and press "Show Package Contents"</p>
+                        <p>Step 3) In order to fix this small bug, we’re going to have to open up some code. Grab your favorite text editor (I personally use TextMate) and navigate to the <code>~/Library/Widgets</code> folder where you will find the iStat widget.</p>
+                        <p>Step 4) Right click on the widget and press “Show Package Contents”</p>
                         <p>Step 5) Find the two files, Tall.js and Wide.js. In Tall.js, we will navigate to lines 548 and 550. Find the section that looks exactly like what is shown below:</p>
-                        <p><figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="k">if</span><span class="p">(</span><span class="nx">p</span><span class="p">.</span><span class="nx">v</span><span class="p">(</span><span class="s2">"processes_sort_mode"</span><span class="p">)</span> <span class="o">==</span> <span class="s1">'cpu'</span><span class="p">)</span>
-                                <span class="nx">widget</span><span class="p">.</span><span class="nx">system</span><span class="p">(</span><span class="s1">'ps -arcwwwxo "pid %cpu command" | egrep "PID|$1" | grep -v grep | '</span> <span class="o">+</span> <span class="nx">exclude</span> <span class="o">+</span> <span class="s1">' head -7 | tail -6 | awk \'{print "&lt;pid&gt;"$1"&lt;/pid&gt;&lt;cpu&gt;"$2"&lt;/cpu&gt;&lt;name&gt;"$3,$4,$5"&lt;/name&gt;&lt;/item&gt;"}\''</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">data</span><span class="p">){</span> <span class="nx"><em>self</span><span class="p">.</span><span class="nx">updateProcessesOut</span><span class="p">(</span><span class="nx">data</span><span class="p">);});</span>
+                        <figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="k">if</span><span class="p">(</span><span class="nx">p</span><span class="p">.</span><span class="nx">v</span><span class="p">(</span><span class="dl">"</span><span class="s2">processes_sort_mode</span><span class="dl">"</span><span class="p">)</span> <span class="o">==</span> <span class="dl">'</span><span class="s1">cpu</span><span class="dl">'</span><span class="p">)</span>
+	<span class="nx">widget</span><span class="p">.</span><span class="nx">system</span><span class="p">(</span><span class="dl">'</span><span class="s1">ps -arcwwwxo "pid %cpu command" | egrep "PID|$1" | grep -v grep | </span><span class="dl">'</span> <span class="o">+</span> <span class="nx">exclude</span> <span class="o">+</span> <span class="dl">'</span><span class="s1"> head -7 | tail -6 | awk </span><span class="se">\'</span><span class="s1">{print "&lt;pid&gt;"$1"&lt;/pid&gt;&lt;cpu&gt;"$2"&lt;/cpu&gt;&lt;name&gt;"$3,$4,$5"&lt;/name&gt;&lt;/item&gt;"}</span><span class="se">\'</span><span class="dl">'</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">data</span><span class="p">){</span> <span class="nx">_self</span><span class="p">.</span><span class="nx">updateProcessesOut</span><span class="p">(</span><span class="nx">data</span><span class="p">);});</span>
 <span class="k">else</span>
-<span class="nx">widget</span><span class="p">.</span><span class="nx">system</span><span class="p">(</span><span class="s1">'ps -amcwwwxo "pid rss command"  | egrep "PID|$1" | grep -v grep | '</span> <span class="o">+</span> <span class="nx">exclude</span> <span class="o">+</span> <span class="s1">' head -7 | tail -6 | awk \'{print "&lt;pid&gt;"$1"&lt;/pid&gt;&lt;cpu&gt;"$2"&lt;/cpu&gt;&lt;name&gt;"$3,$4,$5"&lt;/name&gt;&lt;/item&gt;"}\''</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">data</span><span class="p">){</span> <span class="nx"></em>self</span><span class="p">.</span><span class="nx">updateProcessesOut</span><span class="p">(</span><span class="nx">data</span><span class="p">);});</span>
-                        <span class="p">}</span></code></pre></figure></p>
+	<span class="nx">widget</span><span class="p">.</span><span class="nx">system</span><span class="p">(</span><span class="dl">'</span><span class="s1">ps -amcwwwxo "pid rss command"  | egrep "PID|$1" | grep -v grep | </span><span class="dl">'</span> <span class="o">+</span> <span class="nx">exclude</span> <span class="o">+</span> <span class="dl">'</span><span class="s1"> head -7 | tail -6 | awk </span><span class="se">\'</span><span class="s1">{print "&lt;pid&gt;"$1"&lt;/pid&gt;&lt;cpu&gt;"$2"&lt;/cpu&gt;&lt;name&gt;"$3,$4,$5"&lt;/name&gt;&lt;/item&gt;"}</span><span class="se">\'</span><span class="dl">'</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">data</span><span class="p">){</span> <span class="nx">_self</span><span class="p">.</span><span class="nx">updateProcessesOut</span><span class="p">(</span><span class="nx">data</span><span class="p">);});</span>
+<span class="p">}</span></code></pre></figure>
                         <p>Notice the two parts that read:
                         <code>
   egrep "PID|$1"
@@ -107,8 +106,8 @@
                         <code>
   egrep "PID| $1"
 </code></p>
-                        <p>That's it! Make those two changes and then save the file. For the Wide.js, the same two lines can be found at 609 and 611 (make the same changes).</p>
-                        <p>Step 6) After you have successfully made the changes to the code, open up a Terminal window (Applications > Utilities > Terminal) and type in:
+                        <p>That’s it! Make those two changes and then save the file. For the Wide.js, the same two lines can be found at 609 and 611 (make the same changes).</p>
+                        <p>Step 6) After you have successfully made the changes to the code, open up a Terminal window (Applications &gt; Utilities &gt; Terminal) and type in:
                         <code>
   killall Dock
 </code></p>
@@ -120,28 +119,17 @@
                     <div class="generic-separator"></div>
                     <div id="comments">
                       <div id="disqus_thread"></div>
-                      <script type="text/javascript">var disqus_shortname="binaryage-hints";var disqus_url="http://hints.binaryage.com/istat-pro-for-mountain-lion/";(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//"+disqus_shortname+".disqus.com/embed.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(e)})()</script>
+                      <script type="text/javascript">var disqus_shortname="binaryage-hints",disqus_url="http://hints.binaryage.com/istat-pro-for-mountain-lion/";!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="//"+disqus_shortname+".disqus.com/embed.js",(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(e)}()</script>
                       <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                       <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
                     </div>
                   </div>
                 </div>
-                <script>defer$(function(){$(".blog-image").wrap(function(){return $("<a class='wrapped-blog-image' data-fancybox-group='blog'></div>").attr("href",$(this).attr("src")).attr("title",$(this).attr("title"))});$(".wrapped-blog-image").fancybox()})</script>
+                <script>defer$(function(){$(".blog-image").wrap(function(){return $("<a class='wrapped-blog-image' data-fancybox-group='blog'></div>").attr("href",$(this).attr("src")).attr("title",$(this).attr("title"))}),$(".wrapped-blog-image").fancybox()})</script>
               </div>
             </div>
             <div class="col-md-3">
               <div class="blog-side">
-                <div class="blog-side-box blog-side-follow">
-                  <a href="http://twitter.com/binaryage" class="twitter-follow-button" data-show-count="true">Follow @binaryage</a>
-                  <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
-                </div>
-                <div class="blog-side-box blog-side-subscribe">
-                  <a href="//feeds.feedburner.com/binaryage-blog" rel="alternate" type="application/rss+xml"><div class="blog-side-icon blog-rss-icon"></div></a>
-                  <a href="//feeds.feedburner.com/binaryage-blog" rel="alternate" type="application/rss+xml">Subscribe</a>
-                  <div class="subscribe-button">
-                    <a href="//feeds.feedburner.com/binaryage-blog"><img src="//feeds.feedburner.com/~fc/binaryage-blog?bg=dddddd&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt=""/></a>
-                  </div>
-                </div>
                 <div class="blog-side-box blog-side-products">
                   <div class="blog-side-product">
                     <a href="https://totalfinder.binaryage.com">
@@ -163,7 +151,7 @@
           </div>
         </div>
       </div>
-    <p></div></p>
+    </div>
     <div id="footer">
       <div class="container">
         <div class="row">
@@ -182,9 +170,9 @@
         </div>
       </div>
     </div>
-    <script src="https://static.binaryage.com/0518c6ed_shared_js_code.js"></script>
-    <script type="text/javascript">window["ga"]=function(){}</script>
-    <script>window["ga"]=undefined;(function(e,n,a,t,i,o,r){e["GoogleAnalyticsObject"]=i;e[i]=e[i]||function(){(e[i].q=e[i].q||[]).push(arguments)},e[i].l=1*new Date;o=n.createElement(a),r=n.getElementsByTagName(a)[0];o.async=1;o.src=t;r.parentNode.insertBefore(o,r)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create","UA-8404259-1","auto",{allowLinker:true});ga("send","pageview");ga("require","linker");ga("linker:autoLink",["fastspring.com"],true)</script>
-    <script type="text/javascript" charset="utf-8">defer$(function(){$(function(){setTimeout(function(){var i=location.hash.substring(1);if(i.substring(0,2)=="o-"){$("#"+i).trigger("click")}},500)})})</script>
+    <script src="https://static.binaryage.com/bb6250cd_shared_js_code.js"></script>
+    <script type="text/javascript">window.ga=function(){}</script>
+    <script>window.ga=undefined,function(e,n,a,t,i,o,c){e.GoogleAnalyticsObject=i,e[i]=e[i]||function(){(e[i].q=e[i].q||[]).push(arguments)},e[i].l=1*new Date,o=n.createElement(a),c=n.getElementsByTagName(a)[0],o.async=1,o.src=t,c.parentNode.insertBefore(o,c)}(window,document,"script","//www.google-analytics.com/analytics.js","ga"),ga("create","UA-8404259-1","auto",{allowLinker:!0}),ga("send","pageview"),ga("require","linker"),ga("linker:autoLink",["fastspring.com"],!0)</script>
+    <script type="text/javascript" charset="utf-8">defer$(function(){$(function(){setTimeout(function(){var i=location.hash.substring(1);"o-"==i.substring(0,2)&&$("#"+i).trigger("click")},500)})})</script>
   </body>
 </html>

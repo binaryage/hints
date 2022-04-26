@@ -5,17 +5,17 @@
     <link rel="canonical" href="https://hints.binaryage.com/ios-6-battery-issues/"/>
     <link rel="shortcut icon" href="https://static.binaryage.com/5604bda0_favicon.ico" type="image/x-icon"/>
     <link rel="icon" href="https://static.binaryage.com/5604bda0_favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" href="https://static.binaryage.com/493de12c_shared_css_site.css" type="text/css"/>
     <script src="//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
     <script>WebFont.load({google:{families:["Play:400,700:latin"]}})</script>
-    <link rel="stylesheet" href="https://static.binaryage.com/26f8d85b_shared_css_site.css" type="text/css"/>
     <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="google-site-verification" content="N_xzdr6ymSUQFhAEvQg7f-sp1JAeJCdW2JuaRg-da0w"/>
     <meta property="fb:admins" content="antonin.hildebrand"/>
     <link href="https://feeds.feedburner.com/binaryage-blog" type="application/atom+xml" rel="alternate" title="Ideas from BinaryAge"/>
-    <script>function defer$(e){if(window.jQuery){e()}else{setTimeout(function(){defer$(e)},50)}}</script>
+    <script>function defer$(e){window.jQuery?e():setTimeout(function(){defer$(e)},50)}</script>
   </head>
-  <body id="page-hints-ios-6-battery-issues">
+  <body id="page-hints-ios-6-battery-issues" class="site-hints">
     <div id="header">
       <div class="container">
         <div class="row">
@@ -50,7 +50,6 @@
             </div>
             <div class="relativize">
               <ul class="header-menu menu-selected-blog">
-                <li class="menu-item-store"><a href="https://sites.fastspring.com/binaryage/product/store"><i class="fa fa-shopping-cart"></i><span>store</span></a></li>
                 <li class="menu-item-products"><a href="//www.binaryage.com"><i class="fa fa-star"></i><span>products</span></a></li>
                 <li class="menu-item-blog"><a href="//blog.binaryage.com"><i class="fa fa-bullhorn"></i><span>blog</span></a></li>
                 <li class="menu-item-support"><a href="//discuss.binaryage.com"><i class="fa fa-comments"></i><span>support</span></a></li>
@@ -89,48 +88,37 @@
                         <p>Here are some general tips for those of you who are experiencing severe battery drain on iOS 6:</p>
                         <p>Many people are experiencing a substantial drop in battery performance on their iPhone 5 and iPhone 4s. There are many culprits to this issue that may or may not be able to be identified and/or solved. Here are a list of suggestions that I have gathered to try and solve this very annoying problem Apple has created for us.</p>
                         <p>(Note: These are all software fixes that are presented below. Your issue may very well be a hardware issue that must be dealt with by taking your device directly to Apple to see if they can do anything about it.)</p>
-                        <p>Step 1) Try resetting your Network connectivity. To do this go to Settings > General > Reset > Reset Network Settings. This will reconnect with your carrier (Verizon, AT&amp;T, Sprint) and hopefully alleviate any connection issues.</p>
-                        <p>Step 2) Disable Bluetooth: Settings > General > Bluetooth > “OFF." Bluetooth can sometimes try and connect to various hardware that will cause a substantial decrease in battery life.</p>
-                        <p>Step 3) Disable unwanted notifications &amp; apps: Settings > Notifications > Turn OFF for anything you don’t need or use anymore. A rogue app may be constantly trying to connect to a website or server.</p>
-                        <p>Step 4) Disable Location Service: Settings > Location Services > Disable selectively for services you don’t use or need.</p>
-                        <p>Step 5) Disable Timezone Adjustment: Tap on Settings > Location Services > System Services > Setting Time Zone to "OFF."</p>
-                        <p>Step 6) Disable Ping: Settings > General > Restrictions > Enable Restrictions > Ping > OFF. Who uses Ping anyway?</p>
-                        <p>Step 7) Disable Diagnostic &amp; Usage Reports: Tap on “Settings” > General > About > Diagnostic &amp; Usage > Don’t Send. Apple set this up to collect "Anonymous" information. Turn this off to improve battery life because your iDevice won't be connecting to Apple's servers every five minutes.</p>
-                        <p>Step 8) Disable Email accounts by heading to Settings > Mail, Contacts, Calendars > Account Name > Delete Account. Once done, reset network settings (Step 1), then reboot your device and re-add your accounts back from Settings > Mail, Contacts, Calendars > Add Account.</p>
+                        <p>Step 1) Try resetting your Network connectivity. To do this go to Settings &gt; General &gt; Reset &gt; Reset Network Settings. This will reconnect with your carrier (Verizon, AT&amp;T, Sprint) and hopefully alleviate any connection issues.</p>
+                        <p>Step 2) Disable Bluetooth: Settings &gt; General &gt; Bluetooth &gt; “OFF.” Bluetooth can sometimes try and connect to various hardware that will cause a substantial decrease in battery life.</p>
+                        <p>Step 3) Disable unwanted notifications &amp; apps: Settings &gt; Notifications &gt; Turn OFF for anything you don’t need or use anymore. A rogue app may be constantly trying to connect to a website or server.</p>
+                        <p>Step 4) Disable Location Service: Settings &gt; Location Services &gt; Disable selectively for services you don’t use or need.</p>
+                        <p>Step 5) Disable Timezone Adjustment: Tap on Settings &gt; Location Services &gt; System Services &gt; Setting Time Zone to “OFF.”</p>
+                        <p>Step 6) Disable Ping: Settings &gt; General &gt; Restrictions &gt; Enable Restrictions &gt; Ping &gt; OFF. Who uses Ping anyway?</p>
+                        <p>Step 7) Disable Diagnostic &amp; Usage Reports: Tap on “Settings” &gt; General &gt; About &gt; Diagnostic &amp; Usage &gt; Don’t Send. Apple set this up to collect “Anonymous” information. Turn this off to improve battery life because your iDevice won’t be connecting to Apple’s servers every five minutes.</p>
+                        <p>Step 8) Disable Email accounts by heading to Settings &gt; Mail, Contacts, Calendars &gt; Account Name &gt; Delete Account. Once done, reset network settings (Step 1), then reboot your device and re-add your accounts back from Settings &gt; Mail, Contacts, Calendars &gt; Add Account.</p>
                         <p>Step 9) Make sure you are running the latest version of iOS. As of the time of this writing, the latest version is 6.0.1.</p>
                         <p>Step 10) Backup your iPhone and do a complete restore (guide here). You can either set up your iPhone as a new device for complete freedom from previous bugs, or you can risk the battery issue again by restoring from a backup. Your choice.</p>
-                        <p>Step 11) Setting your mail accounts to Fetch. Go to Settings > Mail, Calendar, Contacts > Fetch new data > Turn off Push and set fetch to manually. Then click on Advanced and set all accounts to Fetch.</p>
+                        <p>Step 11) Setting your mail accounts to Fetch. Go to Settings &gt; Mail, Calendar, Contacts &gt; Fetch new data &gt; Turn off Push and set fetch to manually. Then click on Advanced and set all accounts to Fetch.</p>
                         <p>Step 12) Calibrate the battery by letting it run down completely to zero, then charging it all the way up to 100%.</p>
                         <p>Step 13) Set your brightness down to 50%. Also, turn Auto Brightness to OFF, keep the brightness to one level, the auto up and down is draining additional power.</p>
-                        <p>Step 14) If you are running on a 4s and seldom use Siri, or just want to use her less often, Settings > General > Siri = Turn off Raise to Speak.</p>
+                        <p>Step 14) If you are running on a 4s and seldom use Siri, or just want to use her less often, Settings &gt; General &gt; Siri = Turn off Raise to Speak.</p>
                         <p>Please post any other solutions you have found in the comments below. Also, feel free to rant about battery performance because the more we lash out at Apple by creating these support forums, the more press they will receive about the issue.</p>
                       </div>
                     </div>
                     <div class="generic-separator"></div>
                     <div id="comments">
                       <div id="disqus_thread"></div>
-                      <script type="text/javascript">var disqus_shortname="binaryage-hints";var disqus_url="http://hints.binaryage.com/ios-6-battery-issues/";(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//"+disqus_shortname+".disqus.com/embed.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(e)})()</script>
+                      <script type="text/javascript">var disqus_shortname="binaryage-hints",disqus_url="http://hints.binaryage.com/ios-6-battery-issues/";!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="//"+disqus_shortname+".disqus.com/embed.js",(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(e)}()</script>
                       <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                       <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
                     </div>
                   </div>
                 </div>
-                <script>defer$(function(){$(".blog-image").wrap(function(){return $("<a class='wrapped-blog-image' data-fancybox-group='blog'></div>").attr("href",$(this).attr("src")).attr("title",$(this).attr("title"))});$(".wrapped-blog-image").fancybox()})</script>
+                <script>defer$(function(){$(".blog-image").wrap(function(){return $("<a class='wrapped-blog-image' data-fancybox-group='blog'></div>").attr("href",$(this).attr("src")).attr("title",$(this).attr("title"))}),$(".wrapped-blog-image").fancybox()})</script>
               </div>
             </div>
             <div class="col-md-3">
               <div class="blog-side">
-                <div class="blog-side-box blog-side-follow">
-                  <a href="http://twitter.com/binaryage" class="twitter-follow-button" data-show-count="true">Follow @binaryage</a>
-                  <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
-                </div>
-                <div class="blog-side-box blog-side-subscribe">
-                  <a href="//feeds.feedburner.com/binaryage-blog" rel="alternate" type="application/rss+xml"><div class="blog-side-icon blog-rss-icon"></div></a>
-                  <a href="//feeds.feedburner.com/binaryage-blog" rel="alternate" type="application/rss+xml">Subscribe</a>
-                  <div class="subscribe-button">
-                    <a href="//feeds.feedburner.com/binaryage-blog"><img src="//feeds.feedburner.com/~fc/binaryage-blog?bg=dddddd&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt=""/></a>
-                  </div>
-                </div>
                 <div class="blog-side-box blog-side-products">
                   <div class="blog-side-product">
                     <a href="https://totalfinder.binaryage.com">
@@ -152,7 +140,7 @@
           </div>
         </div>
       </div>
-    <p></div></p>
+    </div>
     <div id="footer">
       <div class="container">
         <div class="row">
@@ -171,9 +159,9 @@
         </div>
       </div>
     </div>
-    <script src="https://static.binaryage.com/0518c6ed_shared_js_code.js"></script>
-    <script type="text/javascript">window["ga"]=function(){}</script>
-    <script>window["ga"]=undefined;(function(e,n,a,t,i,o,r){e["GoogleAnalyticsObject"]=i;e[i]=e[i]||function(){(e[i].q=e[i].q||[]).push(arguments)},e[i].l=1*new Date;o=n.createElement(a),r=n.getElementsByTagName(a)[0];o.async=1;o.src=t;r.parentNode.insertBefore(o,r)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create","UA-8404259-1","auto",{allowLinker:true});ga("send","pageview");ga("require","linker");ga("linker:autoLink",["fastspring.com"],true)</script>
-    <script type="text/javascript" charset="utf-8">defer$(function(){$(function(){setTimeout(function(){var i=location.hash.substring(1);if(i.substring(0,2)=="o-"){$("#"+i).trigger("click")}},500)})})</script>
+    <script src="https://static.binaryage.com/bb6250cd_shared_js_code.js"></script>
+    <script type="text/javascript">window.ga=function(){}</script>
+    <script>window.ga=undefined,function(e,n,a,t,i,o,c){e.GoogleAnalyticsObject=i,e[i]=e[i]||function(){(e[i].q=e[i].q||[]).push(arguments)},e[i].l=1*new Date,o=n.createElement(a),c=n.getElementsByTagName(a)[0],o.async=1,o.src=t,c.parentNode.insertBefore(o,c)}(window,document,"script","//www.google-analytics.com/analytics.js","ga"),ga("create","UA-8404259-1","auto",{allowLinker:!0}),ga("send","pageview"),ga("require","linker"),ga("linker:autoLink",["fastspring.com"],!0)</script>
+    <script type="text/javascript" charset="utf-8">defer$(function(){$(function(){setTimeout(function(){var i=location.hash.substring(1);"o-"==i.substring(0,2)&&$("#"+i).trigger("click")},500)})})</script>
   </body>
 </html>
